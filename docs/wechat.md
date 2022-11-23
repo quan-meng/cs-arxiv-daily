@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 > Updated on 2022.11.23
 
 <details>
@@ -849,6 +844,16 @@
 - 2022-11-22, **3D Lovelock Gravity and the Holographic c-Theorem**, Gokhan Alkac et.al., Lab: Gun Suer, Paper: [http://arxiv.org/abs/2211.12450v1](http://arxiv.org/abs/2211.12450v1)
 - 2022-11-22, **EDICT: Exact Diffusion Inversion via Coupled Transformations**, Bram Wallace et.al., Lab: Nikhil Naik, Paper: [http://arxiv.org/abs/2211.12446v1](http://arxiv.org/abs/2211.12446v1)
 - 2022-11-22, **Asymptotically isometric codes for holography**, Thomas Faulkner et.al., Lab: Min Li, Paper: [http://arxiv.org/abs/2211.12439v1](http://arxiv.org/abs/2211.12439v1)
+- 2022-11-22, **Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**, Beerend G. A. Gerats et.al., Lab: Ivo A. M. J. Broeders, Paper: [http://arxiv.org/abs/2211.12436v1](http://arxiv.org/abs/2211.12436v1)
+- 2022-11-22, **Multi-task Learning for Camera Calibration**, Talha Hanif Butt et.al., Lab: Murtaza Taj, Paper: [http://arxiv.org/abs/2211.12432v1](http://arxiv.org/abs/2211.12432v1), Code: **[https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)**
+- 2022-11-22, **DeepJoin: Learning a Joint Occupancy, Signed Distance, and Normal Field Function for Shape Repair**, Nikolas Lamb et.al., Lab: Natasha Kholgade Banerjee, Paper: [http://arxiv.org/abs/2211.12400v1](http://arxiv.org/abs/2211.12400v1), Code: **[https://github.com/terascale-all-sensing-research-studio/deepjoin](https://github.com/terascale-all-sensing-research-studio/deepjoin)**
+- 2022-11-22, **Reconstruction of the temporal correlation network of all-cause mortality fluctuation across Italian regions: the importance of temperature and among-nodes flux**, Guido Gigante et.al., Lab: Alessandro Giuliani, Paper: [http://arxiv.org/abs/2211.12395v1](http://arxiv.org/abs/2211.12395v1)
+- 2022-11-22, **Dust-free starburst galaxies at redshifts $z>10$**, Biman B. Nath et.al., Lab: Yuri A. Shchekinov, Paper: [http://arxiv.org/abs/2211.12378v1](http://arxiv.org/abs/2211.12378v1)
+- 2022-11-22, **LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**, Xiao Han et.al., Lab: Yuexin Ma, Paper: [http://arxiv.org/abs/2211.12371v1](http://arxiv.org/abs/2211.12371v1)
+- 2022-11-22, **Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition**, Jiaxiang Tang et.al., Lab: Jingdong Wang, Paper: [http://arxiv.org/abs/2211.12368v1](http://arxiv.org/abs/2211.12368v1)
+- 2022-11-22, **Revisiting Kinematic Fast Dynamo in 3-dimensional magnetohydrodynamic plasmas: Dynamo transition from non-Helical to Helical flows**, Shishir Biswas et.al., Lab: Rajaraman Ganesh, Paper: [http://arxiv.org/abs/2211.12362v1](http://arxiv.org/abs/2211.12362v1)
+- 2022-11-22, **Scalar Field cosmology from a Modified Poisson Algebra**, Genly Leon et.al., Lab: Andronikos Paliathanasis, Paper: [http://arxiv.org/abs/2211.12357v1](http://arxiv.org/abs/2211.12357v1)
+- 2022-11-22, **GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**, Chao Wang et.al., Lab: Thomas Leimkuehler, Paper: [http://arxiv.org/abs/2211.12352v1](http://arxiv.org/abs/2211.12352v1)
 - 2022-11-21, **SPARF: Neural Radiance Fields from Sparse and Noisy Poses**, Prune Truong et.al., Paper: [http://arxiv.org/abs/2211.11738v1](http://arxiv.org/abs/2211.11738v1)
 - 2022-11-21, **PLIKS: A Pseudo-Linear Inverse Kinematic Solver for 3D Human Body Estimation**, Karthik Shetty et.al., Paper: [http://arxiv.org/abs/2211.11734v1](http://arxiv.org/abs/2211.11734v1)
 - 2022-11-21, **A tactile model of the night summer northern sky for the teaching of astronomy to the BVI**, E. Pérez-Montero et.al., Paper: [http://arxiv.org/abs/2211.11707v1](http://arxiv.org/abs/2211.11707v1)
@@ -874,9 +879,16 @@
 - 2022-11-22, **Bayesian estimation in a multidimensional diffusion model with high frequency data**, Marc Hoffmann et.al., Lab: Kolyan Ray, Paper: [http://arxiv.org/abs/2211.12267v1](http://arxiv.org/abs/2211.12267v1)
 - 2022-11-22, **$S^2$-Flow: Joint Semantic and Style Editing of Facial Images**, Krishnakant Singh et.al., Lab: Stefan Roth, Paper: [http://arxiv.org/abs/2211.12209v1](http://arxiv.org/abs/2211.12209v1), Code: **[https://github.com/visinf/s2-flow](https://github.com/visinf/s2-flow)**
 - 2022-11-22, **Photonic Quantum Computing For Polymer Classification**, Alexandrina Stoyanova et.al., Lab: Bogdan Penkovsky, Paper: [http://arxiv.org/abs/2211.12207v1](http://arxiv.org/abs/2211.12207v1)
-- 2022-11-21, **SinFusion: Training Diffusion Models on a Single Image or Video**, Yaniv Nikankin et.al., Paper: [http://arxiv.org/abs/2211.11743v1](http://arxiv.org/abs/2211.11743v1)
-- 2022-11-21, **SceneComposer: Any-Level Semantic Image Synthesis**, Yu Zeng et.al., Paper: [http://arxiv.org/abs/2211.11742v1](http://arxiv.org/abs/2211.11742v1)
-- 2022-11-22, **CLAWSAT: Towards Both Robust and Accurate Code Models**, Jinghan Jia et.al., Paper: [http://arxiv.org/abs/2211.11711v2](http://arxiv.org/abs/2211.11711v2)
+- 2022-11-22, **SRTGAN: Triplet Loss based Generative Adversarial Network for Real-World Super-Resolution**, Dhruv Patel et.al., Lab: Christoph Busch, Paper: [http://arxiv.org/abs/2211.12180v1](http://arxiv.org/abs/2211.12180v1)
+- 2022-11-22, **DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models**, Shengqu Cai et.al., Lab: Gordon Wetzstein, Paper: [http://arxiv.org/abs/2211.12131v1](http://arxiv.org/abs/2211.12131v1)
+- 2022-11-22, **Unsupervised Domain Adaptation GAN Inversion for Image Editing**, Siyu Xing et.al., Lab: Yu Liu, Paper: [http://arxiv.org/abs/2211.12123v1](http://arxiv.org/abs/2211.12123v1)
+- 2022-11-22, **Accelerated Solutions of Coupled Phase-Field Problems using Generative Adversarial Networks**, Vir Karan et.al., Lab: Saswata Bhattacharya, Paper: [http://arxiv.org/abs/2211.12084v1](http://arxiv.org/abs/2211.12084v1)
+- 2022-11-22, **Accelerating Diffusion Sampling with Classifier-based Feature Distillation**, Wujie Sun et.al., Lab: Chun Chen, Paper: [http://arxiv.org/abs/2211.12039v1](http://arxiv.org/abs/2211.12039v1)
+- 2022-11-22, **ViFi-Loc: Multi-modal Pedestrian Localization using GAN with Camera-Phone Correspondences**, Hansi Liu et.al., Lab: Hongsheng Lu, Paper: [http://arxiv.org/abs/2211.12021v1](http://arxiv.org/abs/2211.12021v1)
+- 2022-11-22, **Practice Makes Perfect: an iterative approach to achieve precise tracking for legged robots**, Jing Cheng et.al., Lab: Zhenyu Gan, Paper: [http://arxiv.org/abs/2211.11922v1](http://arxiv.org/abs/2211.11922v1)
+- 2022-11-21, **SinFusion: Training Diffusion Models on a Single Image or Video**, Yaniv Nikankin et.al., Lab: Michal Irani, Paper: [http://arxiv.org/abs/2211.11743v1](http://arxiv.org/abs/2211.11743v1)
+- 2022-11-21, **SceneComposer: Any-Level Semantic Image Synthesis**, Yu Zeng et.al., Lab: Vishal M. Patel, Paper: [http://arxiv.org/abs/2211.11742v1](http://arxiv.org/abs/2211.11742v1)
+- 2022-11-22, **CLAWSAT: Towards Both Robust and Accurate Code Models**, Jinghan Jia et.al., Lab: Una-May O'Reilly, Paper: [http://arxiv.org/abs/2211.11711v2](http://arxiv.org/abs/2211.11711v2)
 - 2022-11-21, **Exploring Discrete Diffusion Models for Image Captioning**, Zixin Zhu et.al., Paper: [http://arxiv.org/abs/2211.11694v1](http://arxiv.org/abs/2211.11694v1)
 - 2022-11-21, **Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**, Dario Pavllo et.al., Paper: [http://arxiv.org/abs/2211.11674v1](http://arxiv.org/abs/2211.11674v1)
 - 2022-11-21, **Delving StyleGAN Inversion for Image Editing: A Foundation Latent Space Viewpoint**, Hongyu Liu et.al., Paper: [http://arxiv.org/abs/2211.11448v1](http://arxiv.org/abs/2211.11448v1)
@@ -899,6 +911,16 @@
 - 2022-11-21, **Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**, David Ramirez et.al., Lab: Andreas Spanias, Paper: [http://arxiv.org/abs/2211.11836v1](http://arxiv.org/abs/2211.11836v1)
 - 2022-11-21, **SPARF: Neural Radiance Fields from Sparse and Noisy Poses**, Prune Truong et.al., Lab: Federico Tombari, Paper: [http://arxiv.org/abs/2211.11738v1](http://arxiv.org/abs/2211.11738v1)
 - 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Lab: François Fleuret, Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
+- 2022-11-21, **Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**, Dario Pavllo et.al., Lab: Federico Tombari, Paper: [http://arxiv.org/abs/2211.11674v1](http://arxiv.org/abs/2211.11674v1)
+- 2022-11-22, **NeRF-RPN: A general framework for object detection in NeRFs**, Benran Hu et.al., Lab: Chi-Keung Tang, Paper: [http://arxiv.org/abs/2211.11646v2](http://arxiv.org/abs/2211.11646v2)
+- 2022-11-21, **Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields**, Yue Chen et.al., Lab: Fei Wang, Paper: [http://arxiv.org/abs/2211.11505v1](http://arxiv.org/abs/2211.11505v1)
+- 2022-11-22, **SegNeRF: 3D Part Segmentation with Neural Radiance Fields**, Jesus Zarzar et.al., Lab: Bernard Ghanem, Paper: [http://arxiv.org/abs/2211.11215v2](http://arxiv.org/abs/2211.11215v2)
+- 2022-11-21, **FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields**, Hao Zhang et.al., Lab: Chi-Keung Tang, Paper: [http://arxiv.org/abs/2211.11202v1](http://arxiv.org/abs/2211.11202v1)
+- 2022-11-20, **DynIBaR: Neural Dynamic Image-Based Rendering**, Zhengqi Li et.al., Lab: Noah Snavely, Paper: [http://arxiv.org/abs/2211.11082v1](http://arxiv.org/abs/2211.11082v1)
+- 2022-11-18, **Neural Fields for Fast and Scalable Interpolation of Geophysical Ocean Variables**, J. Emmanuel Johnson et.al., Lab: Julien Le Sommer, Paper: [http://arxiv.org/abs/2211.10444v1](http://arxiv.org/abs/2211.10444v1), Code: **[https://github.com/jejjohnson/ml4ssh](https://github.com/jejjohnson/ml4ssh)**
+- 2022-11-18, **Magic3D: High-Resolution Text-to-3D Content Creation**, Chen-Hsuan Lin et.al., Lab: Tsung-Yi Lin, Paper: [http://arxiv.org/abs/2211.10440v1](http://arxiv.org/abs/2211.10440v1)
+- 2022-11-17, **AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training**, Yifan Jiang et.al., Lab: Tianfan Xue, Paper: [http://arxiv.org/abs/2211.09682v1](http://arxiv.org/abs/2211.09682v1)
+- 2022-11-16, **CoNFies: Controllable Neural Face Avatars**, Heng Yu et.al., Lab: Laszlo A. Jeni, Paper: [http://arxiv.org/abs/2211.08610v1](http://arxiv.org/abs/2211.08610v1)
 
 <p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
 
@@ -914,6 +936,16 @@
 - 2022-11-11, **ParticleNeRF: A Particle-Based Encoding for Online Neural Radiance Fields in Dynamic Scenes**, Jad Abou-Chakra et.al., Lab: Niko Sünderhauf, Paper: [http://arxiv.org/abs/2211.04041v2](http://arxiv.org/abs/2211.04041v2)
 - 2022-11-16, **QRF: Implicit Neural Representations with Quantum Radiance Fields**, YuanFu Yang et.al., Lab: Min Sun, Paper: [http://arxiv.org/abs/2211.03418v3](http://arxiv.org/abs/2211.03418v3)
 - 2022-11-06, **Computational anatomy atlas using multilayer perceptron with Lipschitz regularization**, Konstantin Ushenin et.al., Lab: Vladislav Dordiuk, Paper: [http://arxiv.org/abs/2211.03122v1](http://arxiv.org/abs/2211.03122v1), Code: **[https://github.com/nndt-team/nndt](https://github.com/nndt-team/nndt)**
+- 2022-11-03, **nerf2nerf: Pairwise Registration of Neural Radiance Fields**, Lily Goli et.al., Lab: Andrea Tagliasacchi, Paper: [http://arxiv.org/abs/2211.01600v1](http://arxiv.org/abs/2211.01600v1)
+- 2022-11-01, **Leveraging commonsense for object localisation in partial scenes**, Francesco Giuliari et.al., Lab: Yiming Wang, Paper: [http://arxiv.org/abs/2211.00562v1](http://arxiv.org/abs/2211.00562v1)
+- 2022-11-01, **Learning Neural Implicit Representations with Surface Signal Parameterizations**, Yanran Guan et.al., Lab: Derek Nowrouzezahrai, Paper: [http://arxiv.org/abs/2211.00519v1](http://arxiv.org/abs/2211.00519v1)
+- 2022-11-01, **TITAN: Bringing The Deep Image Prior to Implicit Representations**, Daniel LeJeune et.al., Lab: Richard G. Baraniuk, Paper: [http://arxiv.org/abs/2211.00219v1](http://arxiv.org/abs/2211.00219v1)
+- 2022-10-31, **gCoRF: Generative Compositional Radiance Fields**, Mallikarjun BR et.al., Lab: Christian Theobalt, Paper: [http://arxiv.org/abs/2210.17344v1](http://arxiv.org/abs/2210.17344v1)
+- 2022-10-28, **NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields**, Liangchen Song et.al., Lab: Andreas Geiger, Paper: [http://arxiv.org/abs/2210.15947v1](http://arxiv.org/abs/2210.15947v1)
+- 2022-10-28, **Vox-Fusion: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation**, Xingrui Yang et.al., Lab: Guofeng Zhang, Paper: [http://arxiv.org/abs/2210.15858v1](http://arxiv.org/abs/2210.15858v1), Code: **[https://github.com/zju3dv/vox-fusion](https://github.com/zju3dv/vox-fusion)**
+- 2022-10-23, **Single Image Super-Resolution via a Dual Interactive Implicit Neural Network**, Quan H. Nguyen et.al., Lab: William J. Beksi, Paper: [http://arxiv.org/abs/2210.12593v1](http://arxiv.org/abs/2210.12593v1), Code: **[https://github.com/robotic-vision-lab/dual-interactive-implicit-neural-network](https://github.com/robotic-vision-lab/dual-interactive-implicit-neural-network)**
+- 2022-10-21, **Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**, Fukun Yin et.al., Lab: Gang YU, Paper: [http://arxiv.org/abs/2210.11170v2](http://arxiv.org/abs/2210.11170v2), Code: **[https://github.com/fukunyin/coco-nerf](https://github.com/fukunyin/coco-nerf)**
+- 2022-10-17, **S$^3$-NeRF: Neural Reflectance Field from Shading and Shadow under a Single Viewpoint**, Wenqi Yang et.al., Lab: Kwan-Yee K. Wong, Paper: [http://arxiv.org/abs/2210.08936v1](http://arxiv.org/abs/2210.08936v1)
 
 <p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
 
@@ -929,15 +961,16 @@
 - 2022-11-22, **On the well posedness of a mathematical model for a singular nonlinear fractional pseudo-hyperbolic system with nonlocal boundary conditions and frictional damping**, Said Mesloub et.al., Lab: Lotfi Kasmi, Paper: [http://arxiv.org/abs/2211.12474v1](http://arxiv.org/abs/2211.12474v1)
 - 2022-11-22, **Diffusion with stochastic resetting screened by a semipermeable interface**, Paul C Bressloff et.al., Lab: Paul C Bressloff, Paper: [http://arxiv.org/abs/2211.12468v1](http://arxiv.org/abs/2211.12468v1)
 - 2022-11-22, **A problem of Erdős-Graham-Granville-Selfridge on integral points on hyperelliptic curves**, Hung M. Bui et.al., Lab: Alexandru Zaharescu, Paper: [http://arxiv.org/abs/2211.12467v1](http://arxiv.org/abs/2211.12467v1)
+- 2022-11-22, **Simulation of potential and species distribution in a Li||Bi liquid metal battery using coupled meshes**, Carolina Duczek et.al., Lab: Tom Weier, Paper: [http://arxiv.org/abs/2211.12466v1](http://arxiv.org/abs/2211.12466v1)
+- 2022-11-22, **Noncommutative linear systems and noncommutative elliptic curves**, Daniel Chan et.al., Lab: Adam Nyman, Paper: [http://arxiv.org/abs/2211.12465v1](http://arxiv.org/abs/2211.12465v1)
+- 2022-11-22, **A Neural-Network-Based Convex Regularizer for Image Reconstruction**, Alexis Goujon et.al., Lab: Michael Unser, Paper: [http://arxiv.org/abs/2211.12461v1](http://arxiv.org/abs/2211.12461v1)
+- 2022-11-22, **EDICT: Exact Diffusion Inversion via Coupled Transformations**, Bram Wallace et.al., Lab: Nikhil Naik, Paper: [http://arxiv.org/abs/2211.12446v1](http://arxiv.org/abs/2211.12446v1)
+- 2022-11-22, **Learning context-aware adaptive solvers to accelerate quadratic programming**, Haewon Jung et.al., Lab: Jinkyoo Park, Paper: [http://arxiv.org/abs/2211.12443v1](http://arxiv.org/abs/2211.12443v1)
+- 2022-11-22, **Loewner Theory for Bernstein functions II: applications to inhomogeneous continuous-state branching processes**, Pavel Gumenyuk et.al., Lab: José-Luis Pérez, Paper: [http://arxiv.org/abs/2211.12442v1](http://arxiv.org/abs/2211.12442v1)
+- 2022-11-22, **Nichtnegativstellensatz on singular varieties under the denseness of regular loci**, Ngoc Hoang Anh Mai et.al., Lab: Ngoc Hoang Anh Mai, Paper: [http://arxiv.org/abs/2211.12440v1](http://arxiv.org/abs/2211.12440v1)
+- 2022-11-22, **Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**, Beerend G. A. Gerats et.al., Lab: Ivo A. M. J. Broeders, Paper: [http://arxiv.org/abs/2211.12436v1](http://arxiv.org/abs/2211.12436v1)
+- 2022-11-22, **Expansive Participatory AI: Supporting Dreaming within Inequitable Institutions**, Michael Alan Chang et.al., Lab: Shiran Dudy, Paper: [http://arxiv.org/abs/2211.12434v1](http://arxiv.org/abs/2211.12434v1)
+- 2022-11-22, **TF-GridNet: Integrating Full- and Sub-Band Modeling for Speech Separation**, Zhong-Qiu Wang et.al., Lab: Shinji Watanabe, Paper: [http://arxiv.org/abs/2211.12433v1](http://arxiv.org/abs/2211.12433v1)
 
 <p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
-
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
 
