@@ -6,13 +6,17 @@ import os
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
-def get_authors(authors, first_author = False):
+def get_authors(authors, first_author = False, last_author = False):
     output = str()
-    if first_author == False:
-        output = ", ".join(str(author) for author in authors)
-    else:
+    if first_author == True:
         output = authors[0]
+    elif last_author == True:
+        output = authors[-1]
+    else:
+        output = ", ".join(str(author) for author in authors)
+        
     return output
+
 def sort_papers(papers):
     output = dict()
     keys = list(papers.keys())
@@ -51,7 +55,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         code_url            = base_url + paper_id
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
+        paper_first_author  = get_authors(result.authors, first_author = True)
+        paper_last_author   = get_authors(result.authors, last_author = True)
         primary_category    = result.primary_category
         publish_time        = result.published.date()
         update_time         = result.updated.date()
@@ -61,7 +66,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
       
         print("Time = ", update_time ,
               " title = ", paper_title,
-              " author = ", paper_first_author)
+              " author = ", paper_first_author,
+              " lab = ", paper_last_author)
 
         # eg: 2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
@@ -76,12 +82,12 @@ def get_daily_papers(topic,query="slam", max_results=2):
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|{paper_last_author}|[{paper_id}]({paper_url})|**[code]({repo_url})**|\n"
+                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Lab: {paper_last_author}, Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
 
             else:
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|{paper_last_author}|[{paper_id}]({paper_url})|{'    '}|\n"
+                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Lab: {paper_last_author}, Paper: [{paper_url}]({paper_url})"
 
             # TODO: select useful comments
             comments = None
@@ -186,10 +192,10 @@ def json_to_md(filename,md_filename,
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    f.write("|Publish Date|Title|Authors|Lab|PDF|Code|\n" + "|---|---|---|---|---|---|\n")
                 else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    f.write("| Publish Date | Title | Authors | Lab | PDF | Code |\n")
+                    f.write("|:---------|:-----------------------|:---------|:---------|:------|:------|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
@@ -225,9 +231,11 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["3D Reconstruction"]   = "3D Reconstruction"
-    keywords['Generative Models']   = "\"GANs\"OR\"Diffusion Models\""
-    keywords["NeRF"]                = "NeRF"
+    keywords["Neural Rendering"]                = "\"NeRF\"OR\"Neural Radiance Fields\""
+    keywords["3D Reconstruction"]               = "3D Reconstruction"
+    keywords["Generative Models"]               = "\"GANs\"OR\"Diffusion Models\"OR\"Generative Adversarial Networks\""
+    keywords["Scene Representation"]            = "\"Scene Representation\"OR\"Implicit Representation\""
+    keywords["Geometry Processing"]             = "Geometry Processing"
 
     for topic,keyword in keywords.items():
  

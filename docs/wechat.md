@@ -16,6 +16,9 @@
     <li><a href=#NeRF>NeRF</a></li>
     <li><a href=#3D-Reconstruction>3D Reconstruction</a></li>
     <li><a href=#Generative-Models>Generative Models</a></li>
+    <li><a href=#Neural-Rendering>Neural Rendering</a></li>
+    <li><a href=#Scene-Representation>Scene Representation</a></li>
+    <li><a href=#Geometry-Processing>Geometry Processing</a></li>
   </ol>
 </details>
 
@@ -836,6 +839,16 @@
 
 ## 3D Reconstruction
 
+- 2022-11-22, **AeDet: Azimuth-invariant Multi-view 3D Object Detection**, Chengjian Feng et.al., Lab: Lin Ma, Paper: [http://arxiv.org/abs/2211.12501v1](http://arxiv.org/abs/2211.12501v1)
+- 2022-11-22, **Instant Volumetric Head Avatars**, Wojciech Zielonka et.al., Lab: Justus Thies, Paper: [http://arxiv.org/abs/2211.12499v1](http://arxiv.org/abs/2211.12499v1)
+- 2022-11-22, **MagicPony: Learning Articulated 3D Animals in the Wild**, Shangzhe Wu et.al., Lab: Andrea Vedaldi, Paper: [http://arxiv.org/abs/2211.12497v1](http://arxiv.org/abs/2211.12497v1)
+- 2022-11-22, **Minimal positive stencils in meshfree finite difference methods for linear elliptic equations in non-divergence form**, Qihao Ye et.al., Lab: Xiaochuan Tian, Paper: [http://arxiv.org/abs/2211.12490v1](http://arxiv.org/abs/2211.12490v1)
+- 2022-11-22, **The 3D narrow capture problem for traps with semipermeable interfaces**, Paul C Bressloff et.al., Lab: Paul C Bressloff, Paper: [http://arxiv.org/abs/2211.12472v1](http://arxiv.org/abs/2211.12472v1)
+- 2022-11-22, **Diffusion with stochastic resetting screened by a semipermeable interface**, Paul C Bressloff et.al., Lab: Paul C Bressloff, Paper: [http://arxiv.org/abs/2211.12468v1](http://arxiv.org/abs/2211.12468v1)
+- 2022-11-22, **A Neural-Network-Based Convex Regularizer for Image Reconstruction**, Alexis Goujon et.al., Lab: Michael Unser, Paper: [http://arxiv.org/abs/2211.12461v1](http://arxiv.org/abs/2211.12461v1)
+- 2022-11-22, **3D Lovelock Gravity and the Holographic c-Theorem**, Gokhan Alkac et.al., Lab: Gun Suer, Paper: [http://arxiv.org/abs/2211.12450v1](http://arxiv.org/abs/2211.12450v1)
+- 2022-11-22, **EDICT: Exact Diffusion Inversion via Coupled Transformations**, Bram Wallace et.al., Lab: Nikhil Naik, Paper: [http://arxiv.org/abs/2211.12446v1](http://arxiv.org/abs/2211.12446v1)
+- 2022-11-22, **Asymptotically isometric codes for holography**, Thomas Faulkner et.al., Lab: Min Li, Paper: [http://arxiv.org/abs/2211.12439v1](http://arxiv.org/abs/2211.12439v1)
 - 2022-11-21, **SPARF: Neural Radiance Fields from Sparse and Noisy Poses**, Prune Truong et.al., Paper: [http://arxiv.org/abs/2211.11738v1](http://arxiv.org/abs/2211.11738v1)
 - 2022-11-21, **PLIKS: A Pseudo-Linear Inverse Kinematic Solver for 3D Human Body Estimation**, Karthik Shetty et.al., Paper: [http://arxiv.org/abs/2211.11734v1](http://arxiv.org/abs/2211.11734v1)
 - 2022-11-21, **A tactile model of the night summer northern sky for the teaching of astronomy to the BVI**, E. Pérez-Montero et.al., Paper: [http://arxiv.org/abs/2211.11707v1](http://arxiv.org/abs/2211.11707v1)
@@ -851,6 +864,16 @@
 
 ## Generative Models
 
+- 2022-11-22, **Person Image Synthesis via Denoising Diffusion Model**, Ankan Kumar Bhunia et.al., Lab: Fahad Shahbaz Khan, Paper: [http://arxiv.org/abs/2211.12500v1](http://arxiv.org/abs/2211.12500v1), Code: **[https://github.com/ankanbhunia/PIDM](https://github.com/ankanbhunia/PIDM)**
+- 2022-11-22, **EDICT: Exact Diffusion Inversion via Coupled Transformations**, Bram Wallace et.al., Lab: Nikhil Naik, Paper: [http://arxiv.org/abs/2211.12446v1](http://arxiv.org/abs/2211.12446v1)
+- 2022-11-22, **SinDiffusion: Learning a Diffusion Model from a Single Natural Image**, Weilun Wang et.al., Lab: Houqiang Li, Paper: [http://arxiv.org/abs/2211.12445v1](http://arxiv.org/abs/2211.12445v1), Code: **[https://github.com/weilunwang/sindiffusion](https://github.com/weilunwang/sindiffusion)**
+- 2022-11-22, **Can denoising diffusion probabilistic models generate realistic astrophysical fields?**, Nayantara Mudur et.al., Lab: Douglas P. Finkbeiner, Paper: [http://arxiv.org/abs/2211.12444v1](http://arxiv.org/abs/2211.12444v1), Code: **[https://github.com/nmudur/diffusion-models-astrophysical-fields-mlps](https://github.com/nmudur/diffusion-models-astrophysical-fields-mlps)**
+- 2022-11-22, **GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**, Chao Wang et.al., Lab: Thomas Leimkuehler, Paper: [http://arxiv.org/abs/2211.12352v1](http://arxiv.org/abs/2211.12352v1)
+- 2022-11-22, **DOLCE: A Model-Based Probabilistic Diffusion Framework for Limited-Angle CT Reconstruction**, Jiaming Liu et.al., Lab: Hyojin Kim, Paper: [http://arxiv.org/abs/2211.12340v1](http://arxiv.org/abs/2211.12340v1)
+- 2022-11-22, **Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces**, Shengbang Fang et.al., Lab: Matthew C Stamm, Paper: [http://arxiv.org/abs/2211.12314v1](http://arxiv.org/abs/2211.12314v1)
+- 2022-11-22, **Bayesian estimation in a multidimensional diffusion model with high frequency data**, Marc Hoffmann et.al., Lab: Kolyan Ray, Paper: [http://arxiv.org/abs/2211.12267v1](http://arxiv.org/abs/2211.12267v1)
+- 2022-11-22, **$S^2$-Flow: Joint Semantic and Style Editing of Facial Images**, Krishnakant Singh et.al., Lab: Stefan Roth, Paper: [http://arxiv.org/abs/2211.12209v1](http://arxiv.org/abs/2211.12209v1), Code: **[https://github.com/visinf/s2-flow](https://github.com/visinf/s2-flow)**
+- 2022-11-22, **Photonic Quantum Computing For Polymer Classification**, Alexandrina Stoyanova et.al., Lab: Bogdan Penkovsky, Paper: [http://arxiv.org/abs/2211.12207v1](http://arxiv.org/abs/2211.12207v1)
 - 2022-11-21, **SinFusion: Training Diffusion Models on a Single Image or Video**, Yaniv Nikankin et.al., Paper: [http://arxiv.org/abs/2211.11743v1](http://arxiv.org/abs/2211.11743v1)
 - 2022-11-21, **SceneComposer: Any-Level Semantic Image Synthesis**, Yu Zeng et.al., Paper: [http://arxiv.org/abs/2211.11742v1](http://arxiv.org/abs/2211.11742v1)
 - 2022-11-22, **CLAWSAT: Towards Both Robust and Accurate Code Models**, Jinghan Jia et.al., Paper: [http://arxiv.org/abs/2211.11711v2](http://arxiv.org/abs/2211.11711v2)
@@ -861,6 +884,51 @@
 - 2022-11-21, **VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models**, Ajay Jain et.al., Paper: [http://arxiv.org/abs/2211.11319v1](http://arxiv.org/abs/2211.11319v1)
 - 2022-11-21, **TCBERT: A Technical Report for Chinese Topic Classification BERT**, Ting Han et.al., Paper: [http://arxiv.org/abs/2211.11304v1](http://arxiv.org/abs/2211.11304v1)
 - 2022-11-21, **Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection**, Luping Liu et.al., Paper: [http://arxiv.org/abs/2211.11255v1](http://arxiv.org/abs/2211.11255v1), Code: **[https://github.com/luping-liu/DiffOOD](https://github.com/luping-liu/DiffOOD)**
+
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
+
+## Neural Rendering
+
+- 2022-11-22, **Instant Volumetric Head Avatars**, Wojciech Zielonka et.al., Lab: Justus Thies, Paper: [http://arxiv.org/abs/2211.12499v1](http://arxiv.org/abs/2211.12499v1)
+- 2022-11-22, **Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**, Beerend G. A. Gerats et.al., Lab: Ivo A. M. J. Broeders, Paper: [http://arxiv.org/abs/2211.12436v1](http://arxiv.org/abs/2211.12436v1)
+- 2022-11-22, **Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition**, Jiaxiang Tang et.al., Lab: Jingdong Wang, Paper: [http://arxiv.org/abs/2211.12368v1](http://arxiv.org/abs/2211.12368v1)
+- 2022-11-22, **Exact-NeRF: An Exploration of a Precise Volumetric Parameterization for Neural Radiance Fields**, Brian K. S. Isaac-Medina et.al., Lab: Toby P. Breckon, Paper: [http://arxiv.org/abs/2211.12285v1](http://arxiv.org/abs/2211.12285v1)
+- 2022-11-22, **SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields**, Ashkan Mirzaei et.al., Lab: Alex Levinshtein, Paper: [http://arxiv.org/abs/2211.12254v1](http://arxiv.org/abs/2211.12254v1)
+- 2022-11-22, **Deblurred Neural Radiance Field with Physical Scene Priors**, Dogyoon Lee et.al., Lab: Sangyoun Lee, Paper: [http://arxiv.org/abs/2211.12046v1](http://arxiv.org/abs/2211.12046v1)
+- 2022-11-22, **ONeRF: Unsupervised 3D Object Segmentation from Multiple Views**, Shengnan Liang et.al., Lab: Chi-Keung Tang, Paper: [http://arxiv.org/abs/2211.12038v1](http://arxiv.org/abs/2211.12038v1)
+- 2022-11-21, **Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**, David Ramirez et.al., Lab: Andreas Spanias, Paper: [http://arxiv.org/abs/2211.11836v1](http://arxiv.org/abs/2211.11836v1)
+- 2022-11-21, **SPARF: Neural Radiance Fields from Sparse and Noisy Poses**, Prune Truong et.al., Lab: Federico Tombari, Paper: [http://arxiv.org/abs/2211.11738v1](http://arxiv.org/abs/2211.11738v1)
+- 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Lab: François Fleuret, Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
+
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
+
+## Scene Representation
+
+- 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Lab: François Fleuret, Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
+- 2022-11-21, **An Implicit Parametric Morphable Dental Model**, Congyi Zhang et.al., Lab: Wenping Wang, Paper: [http://arxiv.org/abs/2211.11402v1](http://arxiv.org/abs/2211.11402v1)
+- 2022-11-21, **NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**, Shitao Tang et.al., Lab: Yasutaka Furukawa, Paper: [http://arxiv.org/abs/2211.11177v1](http://arxiv.org/abs/2211.11177v1)
+- 2022-11-18, **CNeRV: Content-adaptive Neural Representation for Visual Data**, Hao Chen et.al., Lab: Abhinav Shrivastava, Paper: [http://arxiv.org/abs/2211.10421v1](http://arxiv.org/abs/2211.10421v1)
+- 2022-11-17, **Probing for Incremental Parse States in Autoregressive Language Models**, Tiwalayo Eisape et.al., Lab: Yoon Kim, Paper: [http://arxiv.org/abs/2211.09748v1](http://arxiv.org/abs/2211.09748v1)
+- 2022-11-14, **AsyncNeRF: Learning Large-scale Radiance Fields from Asynchronous RGB-D Sequences with Time-Pose Function**, Zirui Wu et.al., Lab: Guyue Zhou, Paper: [http://arxiv.org/abs/2211.07459v1](http://arxiv.org/abs/2211.07459v1)
+- 2022-11-13, **Improved Dynamic Colouring of Sparse Graphs**, Aleksander B. G. Christiansen et.al., Lab: Eva Rotenberg, Paper: [http://arxiv.org/abs/2211.06858v1](http://arxiv.org/abs/2211.06858v1)
+- 2022-11-11, **ParticleNeRF: A Particle-Based Encoding for Online Neural Radiance Fields in Dynamic Scenes**, Jad Abou-Chakra et.al., Lab: Niko Sünderhauf, Paper: [http://arxiv.org/abs/2211.04041v2](http://arxiv.org/abs/2211.04041v2)
+- 2022-11-16, **QRF: Implicit Neural Representations with Quantum Radiance Fields**, YuanFu Yang et.al., Lab: Min Sun, Paper: [http://arxiv.org/abs/2211.03418v3](http://arxiv.org/abs/2211.03418v3)
+- 2022-11-06, **Computational anatomy atlas using multilayer perceptron with Lipschitz regularization**, Konstantin Ushenin et.al., Lab: Vladislav Dordiuk, Paper: [http://arxiv.org/abs/2211.03122v1](http://arxiv.org/abs/2211.03122v1), Code: **[https://github.com/nndt-team/nndt](https://github.com/nndt-team/nndt)**
+
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
+
+## Geometry Processing
+
+- 2022-11-22, **AeDet: Azimuth-invariant Multi-view 3D Object Detection**, Chengjian Feng et.al., Lab: Lin Ma, Paper: [http://arxiv.org/abs/2211.12501v1](http://arxiv.org/abs/2211.12501v1)
+- 2022-11-22, **Instant Volumetric Head Avatars**, Wojciech Zielonka et.al., Lab: Justus Thies, Paper: [http://arxiv.org/abs/2211.12499v1](http://arxiv.org/abs/2211.12499v1)
+- 2022-11-22, **Minimal positive stencils in meshfree finite difference methods for linear elliptic equations in non-divergence form**, Qihao Ye et.al., Lab: Xiaochuan Tian, Paper: [http://arxiv.org/abs/2211.12490v1](http://arxiv.org/abs/2211.12490v1)
+- 2022-11-22, **PIC-Score: Probabilistic Interpretable Comparison Score for Optimal Matching Confidence in Single- and Multi-Biometric (Face) Recognition**, Pedro C. Neto et.al., Lab: Philipp Terhörst, Paper: [http://arxiv.org/abs/2211.12483v1](http://arxiv.org/abs/2211.12483v1)
+- 2022-11-22, **Adaptive Prototypical Networks**, Manas Gogoi et.al., Lab: Shekhar Verma, Paper: [http://arxiv.org/abs/2211.12479v1](http://arxiv.org/abs/2211.12479v1)
+- 2022-11-22, **Polarization From A Radially Stratified Off-Axis GRB Outflow**, A. C. Caligula do E. S. Pedreira et.al., Lab: P. Veres, Paper: [http://arxiv.org/abs/2211.12477v1](http://arxiv.org/abs/2211.12477v1)
+- 2022-11-22, **On the BPS sector in AdS_3/CFT_2 Holography**, Emil J. Martinec et.al., Lab: David Turton, Paper: [http://arxiv.org/abs/2211.12476v1](http://arxiv.org/abs/2211.12476v1)
+- 2022-11-22, **On the well posedness of a mathematical model for a singular nonlinear fractional pseudo-hyperbolic system with nonlocal boundary conditions and frictional damping**, Said Mesloub et.al., Lab: Lotfi Kasmi, Paper: [http://arxiv.org/abs/2211.12474v1](http://arxiv.org/abs/2211.12474v1)
+- 2022-11-22, **Diffusion with stochastic resetting screened by a semipermeable interface**, Paul C Bressloff et.al., Lab: Paul C Bressloff, Paper: [http://arxiv.org/abs/2211.12468v1](http://arxiv.org/abs/2211.12468v1)
+- 2022-11-22, **A problem of Erdős-Graham-Granville-Selfridge on integral points on hyperelliptic curves**, Hung M. Bui et.al., Lab: Alexandru Zaharescu, Paper: [http://arxiv.org/abs/2211.12467v1](http://arxiv.org/abs/2211.12467v1)
 
 <p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
 
