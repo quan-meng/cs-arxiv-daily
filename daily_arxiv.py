@@ -3,7 +3,9 @@ import requests
 import json
 import arxiv
 import os
+from datetime import date
 
+today = date.today()
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
 def get_authors(authors, first_author = False, last_author = False):
@@ -25,7 +27,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="slam", max_results=float('inf')):
     """
     @param topic: str
     @param query: str
@@ -46,8 +48,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
     )
 
     cnt = 0
-
-    for result in search_engine.results():
+    d = 0
+    for idx, result in enumerate(search_engine.results()):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -62,8 +64,12 @@ def get_daily_papers(topic,query="slam", max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
-
-      
+        if idx == 0:
+            d = update_time
+        else:
+            if update_time != d:
+                break
+        
         print("Time = ", update_time ,
               " title = ", paper_title,
               " author = ", paper_first_author,
@@ -231,7 +237,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Neural Rendering"]                = "\"NeRF\"OR\"Neural Radiance Fields\""
+    keywords["Neural Rendering"]                = "\"NeRF\"OR\"Neural Radiance Fields\"OR\"Neural Rendering\""
     keywords["3D Reconstruction"]               = "3D Reconstruction"
     keywords["Generative Models"]               = "\"GANs\"OR\"Diffusion Models\"OR\"Generative Adversarial Networks\""
     keywords["Scene Representation"]            = "\"Scene Representation\"OR\"Implicit Representation\""
@@ -242,7 +248,7 @@ if __name__ == "__main__":
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 20)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results=200)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
