@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.22
+## Updated on 2022.11.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -14,6 +14,8 @@
     <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#3D-Reconstruction>3D Reconstruction</a></li>
+    <li><a href=#Generative-Models>Generative Models</a></li>
   </ol>
 </details>
 
@@ -333,7 +335,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
 
 ## SFM
 
@@ -404,7 +406,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -649,7 +651,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -749,7 +751,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
 
 ## Image Matching
 
@@ -838,7 +840,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
 
 ## NeRF
 
@@ -847,7 +849,7 @@
 |**2022-11-21**|**SPARF: Neural Radiance Fields from Sparse and Noisy Poses**|Prune Truong et.al.|[2211.11738v1](http://arxiv.org/abs/2211.11738v1)|null|
 |**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
 |**2022-11-21**|**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**|Dario Pavllo et.al.|[2211.11674v1](http://arxiv.org/abs/2211.11674v1)|null|
-|**2022-11-21**|**NeRF-RPN: A general framework for object detection in NeRFs**|Benran Hu et.al.|[2211.11646v1](http://arxiv.org/abs/2211.11646v1)|null|
+|**2022-11-22**|**NeRF-RPN: A general framework for object detection in NeRFs**|Benran Hu et.al.|[2211.11646v2](http://arxiv.org/abs/2211.11646v2)|null|
 |**2022-11-21**|**Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields**|Yue Chen et.al.|[2211.11505v1](http://arxiv.org/abs/2211.11505v1)|null|
 |**2022-11-21**|**SegNeRF: 3D Part Segmentation with Neural Radiance Fields**|Jesus Zarzar et.al.|[2211.11215v1](http://arxiv.org/abs/2211.11215v1)|null|
 |**2022-11-21**|**FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields**|Hao Zhang et.al.|[2211.11202v1](http://arxiv.org/abs/2211.11202v1)|null|
@@ -939,7 +941,41 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
+
+## 3D Reconstruction
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2022-11-21**|**SPARF: Neural Radiance Fields from Sparse and Noisy Poses**|Prune Truong et.al.|[2211.11738v1](http://arxiv.org/abs/2211.11738v1)|null|
+|**2022-11-21**|**PLIKS: A Pseudo-Linear Inverse Kinematic Solver for 3D Human Body Estimation**|Karthik Shetty et.al.|[2211.11734v1](http://arxiv.org/abs/2211.11734v1)|null|
+|**2022-11-21**|**A tactile model of the night summer northern sky for the teaching of astronomy to the BVI**|E. Pérez-Montero et.al.|[2211.11707v1](http://arxiv.org/abs/2211.11707v1)|null|
+|**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
+|**2022-11-21**|**Radon-based Image Reconstruction for MPI using a continuously rotating FFL**|Stephanie Blanke et.al.|[2211.11683v1](http://arxiv.org/abs/2211.11683v1)|null|
+|**2022-11-21**|**PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning**|Xiangyang Zhu et.al.|[2211.11682v1](http://arxiv.org/abs/2211.11682v1)|**[link](https://github.com/yangyangyang127/pointclip_v2)**|
+|**2022-11-21**|**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**|Dario Pavllo et.al.|[2211.11674v1](http://arxiv.org/abs/2211.11674v1)|null|
+|**2022-11-21**|**Phase Retrieval of Vortices in Bose-Einstein Condensates**|Ron Ziv et.al.|[2211.11668v1](http://arxiv.org/abs/2211.11668v1)|null|
+|**2022-11-22**|**NeRF-RPN: A general framework for object detection in NeRFs**|Benran Hu et.al.|[2211.11646v2](http://arxiv.org/abs/2211.11646v2)|null|
+|**2022-11-21**|**Charmonium production in $p$Ne collisions at $\sqrt{s_{\rm NN}}=68.5$ GeV**|LHCb Collaboration et.al.|[2211.11645v1](http://arxiv.org/abs/2211.11645v1)|null|
+
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
+
+## Generative Models
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2022-11-21**|**SinFusion: Training Diffusion Models on a Single Image or Video**|Yaniv Nikankin et.al.|[2211.11743v1](http://arxiv.org/abs/2211.11743v1)|null|
+|**2022-11-21**|**SceneComposer: Any-Level Semantic Image Synthesis**|Yu Zeng et.al.|[2211.11742v1](http://arxiv.org/abs/2211.11742v1)|null|
+|**2022-11-22**|**CLAWSAT: Towards Both Robust and Accurate Code Models**|Jinghan Jia et.al.|[2211.11711v2](http://arxiv.org/abs/2211.11711v2)|null|
+|**2022-11-21**|**Exploring Discrete Diffusion Models for Image Captioning**|Zixin Zhu et.al.|[2211.11694v1](http://arxiv.org/abs/2211.11694v1)|null|
+|**2022-11-21**|**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**|Dario Pavllo et.al.|[2211.11674v1](http://arxiv.org/abs/2211.11674v1)|null|
+|**2022-11-21**|**Delving StyleGAN Inversion for Image Editing: A Foundation Latent Space Viewpoint**|Hongyu Liu et.al.|[2211.11448v1](http://arxiv.org/abs/2211.11448v1)|null|
+|**2022-11-21**|**SPIN: Simulated Poisoning and Inversion Network for Federated Learning-Based 6G Vehicular Networks**|Sunder Ali Khowaja et.al.|[2211.11321v1](http://arxiv.org/abs/2211.11321v1)|null|
+|**2022-11-21**|**VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models**|Ajay Jain et.al.|[2211.11319v1](http://arxiv.org/abs/2211.11319v1)|null|
+|**2022-11-21**|**TCBERT: A Technical Report for Chinese Topic Classification BERT**|Ting Han et.al.|[2211.11304v1](http://arxiv.org/abs/2211.11304v1)|null|
+|**2022-11-21**|**Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection**|Luping Liu et.al.|[2211.11255v1](http://arxiv.org/abs/2211.11255v1)|**[link](https://github.com/luping-liu/DiffOOD)**|
+
+<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
