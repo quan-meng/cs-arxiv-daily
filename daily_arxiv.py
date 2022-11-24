@@ -119,6 +119,12 @@ def update_json_file(filename,data_all):
             
     json_data = m.copy() 
     
+    write_json_file(filename, data_all, json_data)
+
+
+def write_json_file(filename, data_all, json_data={}):
+    json_data = {}
+    
     # update papers in each keywords         
     for data in data_all:
         for keyword in data.keys():
@@ -131,6 +137,7 @@ def update_json_file(filename,data_all):
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
+
     
 def json_to_md(filename,md_filename,
                to_web = False, 
@@ -258,7 +265,7 @@ if __name__ == "__main__":
     json_file = "cv-arxiv-daily.json"
     md_file   = "README.md"
     # update json data
-    update_json_file(json_file,data_collector)
+    write_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file,md_file)
 
@@ -266,7 +273,7 @@ if __name__ == "__main__":
     json_file = "./docs/cv-arxiv-daily-web.json"
     md_file   = "./docs/index.md"
     # update json data
-    update_json_file(json_file,data_collector)
+    write_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file, md_file, to_web = True)
 
@@ -274,6 +281,6 @@ if __name__ == "__main__":
     json_file = "./docs/cv-arxiv-daily-wechat.json"
     md_file   = "./docs/wechat.md"
     # update json data
-    update_json_file(json_file, data_collector_web)
+    write_json_file(json_file, data_collector_web)
     # json data to markdown
     json_to_md(json_file, md_file, to_web=False, use_title= False)
