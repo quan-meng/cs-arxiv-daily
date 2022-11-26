@@ -73,7 +73,7 @@
 |**2022-11-23**|**Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths**|Yingqing He et.al.|Qifeng Chen|[2211.13221v1](http://arxiv.org/abs/2211.13221v1)|**[code](https://github.com/yingqinghe/lvdm)**|
 |**2022-11-23**|**Tetrahedral Diffusion Models for 3D Shape Generation**|Nikolai Kalischek et.al.|Konrad Schindler|[2211.13220v1](http://arxiv.org/abs/2211.13220v1)|    |
 |**2022-11-23**|**Inversion-Based Creativity Transfer with Diffusion Models**|Yuxin Zhang et.al.|Changsheng Xu|[2211.13203v1](http://arxiv.org/abs/2211.13203v1)|**[code](https://github.com/zyxelsa/creativity-transfer)**|
-|**2022-11-23**|**Schrödinger's Bat: Diffusion Models Sometimes Generate Polysemous Words in Superposition**|Jennifer C. White et.al.|Ryan Cotterell|[2211.13095v1](http://arxiv.org/abs/2211.13095v1)|    |
+|**2022-11-23**|**Schrödinger's Bat: Diffusion Models Sometimes Generate Polysemous Words in Superposition**|Jennifer C. White et.al.|Ryan Cotterell|[2211.13095v1](http://arxiv.org/abs/2211.13095v1)|**[code](https://github.com/rycolab/diffusion-polysemy)**|
 |**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|Chuah|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|    |
 |**2022-11-23**|**Evaluating and Mitigating Static Bias of Action Representations in the Background and the Foreground**|Haoxin Li et.al.|Boyang Li|[2211.12883v1](http://arxiv.org/abs/2211.12883v1)|    |
 |**2022-11-23**|**Is there a Dynamic Difference between Stealthy and Standard CMEs?**|Beili Ying et.al.|Weiqun Gan|[2211.12825v1](http://arxiv.org/abs/2211.12825v1)|    |
