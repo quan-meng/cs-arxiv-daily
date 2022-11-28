@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.27
+## Updated on 2022.11.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +25,7 @@ layout: default
 |**2022-11-23**|**PANeRF: Pseudo-view Augmentation for Improved Neural Radiance Fields Based on Few-shot Inputs**|Young Chun Ahn et.al.|Nahyup Kang|[2211.12758v1](http://arxiv.org/abs/2211.12758v1)|    |
 |**2022-11-23**|**ActiveRMAP: Radiance Field for Active Mapping And Planning**|Huangying Zhan et.al.|Hamid Rezatofighi|[2211.12656v1](http://arxiv.org/abs/2211.12656v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -66,7 +66,7 @@ layout: default
 |**2022-11-23**|**FRE: A Fast Method For Anomaly Detection And Segmentation**|Ibrahima Ndiour et.al.|Omesh Tickoo|[2211.12650v1](http://arxiv.org/abs/2211.12650v1)|    |
 |**2022-11-23**|**Predicting Topological Maps for Visual Navigation in Unexplored Environments**|Huangying Zhan et.al.|Ian Reid|[2211.12649v1](http://arxiv.org/abs/2211.12649v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
 
 ## Generative Models
 
@@ -87,7 +87,7 @@ layout: default
 |**2022-11-23**|**RoentGen: Vision-Language Foundation Model for Chest X-ray Generation**|Pierre Chambon et.al.|Akshay Chaudhari|[2211.12737v1](http://arxiv.org/abs/2211.12737v1)|    |
 |**2022-11-23**|**Semantic-aware One-shot Face Re-enactment with Dense Correspondence Estimation**|Yunfan Liu et.al.|Tieniu Tan|[2211.12674v1](http://arxiv.org/abs/2211.12674v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -95,7 +95,7 @@ layout: default
 |:---------|:-----------------------|:---------|:---------|:------|:------|
 |**2022-11-23**|**ActiveRMAP: Radiance Field for Active Mapping And Planning**|Huangying Zhan et.al.|Hamid Rezatofighi|[2211.12656v1](http://arxiv.org/abs/2211.12656v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -231,5 +231,5 @@ layout: default
 |**2022-11-23**|**TRANSLATE -- A Monte Carlo Simulation of Electron Transport in Liquid Argon**|Zach Beever et.al.|Jacob Zettlemoyer|[2211.12645v1](http://arxiv.org/abs/2211.12645v1)|    |
 |**2022-11-23**|**Scalable Predictive Beamforming for IRS-Assisted Multi-User Communications: A Deep Learning Approach**|Chang Liu et.al.|Robert Schober|[2211.12644v1](http://arxiv.org/abs/2211.12644v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
 
