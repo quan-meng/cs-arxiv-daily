@@ -1,4 +1,4 @@
-## Updated on 2022.12.04
+## Updated on 2022.12.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,7 @@
 |**2022-12-01**|**ViewNeRF: Unsupervised Viewpoint Estimation Using Category-Level Neural Radiance Fields**|Octave Mariotti et.al.|Hakan Bilen|[2212.00436v1](http://arxiv.org/abs/2212.00436v1)|    |
 |**2022-12-01**|**Mixed Neural Voxels for Fast Multi-view Video Synthesis**|Feng Wang et.al.|Huaping Liu|[2212.00190v1](http://arxiv.org/abs/2212.00190v1)|**[code](https://github.com/fengres/mixvoxels)**|
 
-<p align=right>(<a href=#Updated-on-20221204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -73,7 +73,7 @@
 |**2022-12-01**|**A novel TomoSAR imaging method with few observations based on nested array**|Pengyu Jiang et.al.|Zhongqiu Xu|[2212.00216v1](http://arxiv.org/abs/2212.00216v1)|    |
 |**2022-12-01**|**Mixed Neural Voxels for Fast Multi-view Video Synthesis**|Feng Wang et.al.|Huaping Liu|[2212.00190v1](http://arxiv.org/abs/2212.00190v1)|**[code](https://github.com/fengres/mixvoxels)**|
 
-<p align=right>(<a href=#Updated-on-20221204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
 
 ## Generative Models
 
@@ -95,7 +95,7 @@
 |**2022-12-01**|**Shape-Guided Diffusion with Inside-Outside Attention**|Dong Huk Park et.al.|Trevor Darrell|[2212.00210v1](http://arxiv.org/abs/2212.00210v1)|    |
 |**2022-12-01**|**GAN-MC: a Variance Reduction Tool for Derivatives Pricing**|Weishi Wang et.al.|Weishi Wang|[2212.00197v1](http://arxiv.org/abs/2212.00197v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -104,7 +104,7 @@
 |**2022-12-01**|**SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction**|Zhizhuo Zhou et.al.|Shubham Tulsiani|[2212.00792v1](http://arxiv.org/abs/2212.00792v1)|    |
 |**2022-12-01**|**3D-Aware Object Goal Navigation via Simultaneous Exploration and Identification**|Jiazhao Zhang et.al.|He Wang|[2212.00338v1](http://arxiv.org/abs/2212.00338v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -269,5 +269,5 @@
 |**2022-12-01**|**Mixed Neural Voxels for Fast Multi-view Video Synthesis**|Feng Wang et.al.|Huaping Liu|[2212.00190v1](http://arxiv.org/abs/2212.00190v1)|**[code](https://github.com/fengres/mixvoxels)**|
 |**2022-12-01**|**Learning for Control of Rolling ubots**|Logan E Beaver et.al.|Calin Belta|[2212.00188v1](http://arxiv.org/abs/2212.00188v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
 
