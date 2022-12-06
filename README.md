@@ -1,4 +1,4 @@
-## Updated on 2022.12.05
+## Updated on 2022.12.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@
 |**2022-12-02**|**3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation**|Zutao Jiang et.al.|Hang Xu|[2212.01103v1](http://arxiv.org/abs/2212.01103v1)|    |
 |**2022-12-02**|**QFF: Quantized Fourier Features for Neural Field Representations**|Jae Yong Lee et.al.|Derek Hoiem|[2212.00914v1](http://arxiv.org/abs/2212.00914v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -56,7 +56,7 @@
 |**2022-12-02**|**Single-shot ToF sensing with sub-mm precision using conventional CMOS sensors**|Manuel Ballester et.al.|Florian Willomitzer|[2212.00928v1](http://arxiv.org/abs/2212.00928v1)|    |
 |**2022-12-02**|**Geometry-Aware Network for Domain Adaptive Semantic Segmentation**|Yinghong Liao et.al.|Zhen Li|[2212.00920v1](http://arxiv.org/abs/2212.00920v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
 ## Generative Models
 
@@ -75,7 +75,7 @@
 |**2022-12-02**|**JAX-FEM: A differentiable GPU-accelerated 3D finite element solver for automatic inverse design and mechanistic data science**|Tianju Xue et.al.|Jian Cao|[2212.00964v1](http://arxiv.org/abs/2212.00964v1)|    |
 |**2022-12-02**|**ObjectStitch: Generative Object Compositing**|Yizhi Song et.al.|Daniel Aliaga|[2212.00932v1](http://arxiv.org/abs/2212.00932v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -83,7 +83,7 @@
 |---|---|---|---|---|---|
 |**2022-12-02**|**Private Multiparty Perception for Navigation**|Hui Lu et.al.|Carl Vondrick|[2212.00912v1](http://arxiv.org/abs/2212.00912v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -207,5 +207,5 @@
 |**2022-12-02**|**Transport of Cosmic ray electrons from 1 AU to the Sun**|Vahe' Petrosian et.al.|Andrew Strong|[2212.00929v1](http://arxiv.org/abs/2212.00929v1)|    |
 |**2022-12-02**|**Geometry-Aware Network for Domain Adaptive Semantic Segmentation**|Yinghong Liao et.al.|Zhen Li|[2212.00920v1](http://arxiv.org/abs/2212.00920v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
