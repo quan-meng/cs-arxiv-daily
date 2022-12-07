@@ -1,4 +1,4 @@
-> Updated on 2022.12.06
+> Updated on 2022.12.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,7 +20,7 @@
 - 2022-12-05, **GARF:Geometry-Aware Generalized Neural Radiance Field**, Yue Shi et.al., Lab: Wenjun Zhang, Paper: [http://arxiv.org/abs/2212.02280v1](http://arxiv.org/abs/2212.02280v1)
 - 2022-12-05, **INGeo: Accelerating Instant Neural Scene Reconstruction with Noisy Geometry Priors**, Chaojian Li et.al., Lab: Peter Vajda, Paper: [http://arxiv.org/abs/2212.01959v1](http://arxiv.org/abs/2212.01959v1)
 
-<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221207>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -67,7 +67,7 @@
 - 2022-12-05, **Spherical Essentially Non-Oscillatory (SENO) Interpolation**, Ki Wai Fong et.al., Lab: Shingyu Leung, Paper: [http://arxiv.org/abs/2212.01963v1](http://arxiv.org/abs/2212.01963v1)
 - 2022-12-05, **INGeo: Accelerating Instant Neural Scene Reconstruction with Noisy Geometry Priors**, Chaojian Li et.al., Lab: Peter Vajda, Paper: [http://arxiv.org/abs/2212.01959v1](http://arxiv.org/abs/2212.01959v1)
 
-<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221207>back to top</a>)</p>
 
 ## Generative Models
 
@@ -77,13 +77,13 @@
 - 2022-12-05, **Unidirectional Imaging using Deep Learning-Designed Materials**, Jingxi Li et.al., Lab: Aydogan Ozcan, Paper: [http://arxiv.org/abs/2212.02025v1](http://arxiv.org/abs/2212.02025v1)
 - 2022-12-05, **Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models**, Naoki Matsunaga et.al., Lab: Takuya Narihira, Paper: [http://arxiv.org/abs/2212.02024v1](http://arxiv.org/abs/2212.02024v1)
 
-<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221207>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2022-12-02, **Private Multiparty Perception for Navigation**, Hui Lu et.al., Lab: Carl Vondrick, Paper: [http://arxiv.org/abs/2212.00912v1](http://arxiv.org/abs/2212.00912v1)
 
-<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221207>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -201,7 +201,7 @@
 - 2022-12-05, **Superior Electron Mobility in Si-doped (010) $β$-Ga$_2$O$_3$ films with Low-Temperature Buffer Layers**, Arkka Bhattacharyya et.al., Lab: Sriram Krishnamoorthy, Paper: [http://arxiv.org/abs/2212.02062v1](http://arxiv.org/abs/2212.02062v1)
 - 2022-12-05, **Bayesian phase difference estimation algorithm for direct calculation of fine structure splitting: accelerated simulation of relativistic and quantum many-body effects**, Kenji Sugisaki et.al., Lab: B. P. Das, Paper: [http://arxiv.org/abs/2212.02058v1](http://arxiv.org/abs/2212.02058v1)
 - 2022-12-05, **DA-CIL: Towards Domain Adaptive Class-Incremental 3D Object Detection**, Ziyuan Zhao et.al., Lab: Richard Chang, Paper: [http://arxiv.org/abs/2212.02057v1](http://arxiv.org/abs/2212.02057v1)
-- 2022-12-05, **Graph Convolutional Neural Networks with Diverse Negative Samples via Decomposed Determinant Point Processes**, Wei Duan et.al., Lab: Jie Lu, Paper: [http://arxiv.org/abs/2212.02055v1](http://arxiv.org/abs/2212.02055v1)
+- 2022-12-05, **Graph Convolutional Neural Networks with Diverse Negative Samples via Decomposed Determinant Point Processes**, Wei Duan et.al., Lab: Jie Lu, Paper: [http://arxiv.org/abs/2212.02055v1](http://arxiv.org/abs/2212.02055v1), Code: **[https://github.com/Wei9711/NegGCNs](https://github.com/Wei9711/NegGCNs)**
 - 2022-12-05, **Equitable 6G Access Service via Cloud-Enabled HAPS for Optimizing Hybrid Air-Ground Networks**, Rawan Alghamdi et.al., Lab: Mohamed-Slim Alouini, Paper: [http://arxiv.org/abs/2212.02052v1](http://arxiv.org/abs/2212.02052v1)
 - 2022-12-05, **A torsion property of zero of Kodaira-Spencer over $\mathbb{P}^1$ removing four points**, Xiaojin Lin et.al., Lab: Jianping Wang, Paper: [http://arxiv.org/abs/2212.02038v1](http://arxiv.org/abs/2212.02038v1)
 - 2022-12-05, **Towards Generating Diverse Audio Captions via Adversarial Training**, Xinhao Mei et.al., Lab: Wenwu Wang, Paper: [http://arxiv.org/abs/2212.02033v1](http://arxiv.org/abs/2212.02033v1)
@@ -225,5 +225,5 @@
 - 2022-12-05, **Preparing Remote States for Genuine Quantum Networks**, Shih-Hsuan Chen et.al., Lab: Che-Ming Li, Paper: [http://arxiv.org/abs/2212.01965v1](http://arxiv.org/abs/2212.01965v1)
 - 2022-12-05, **INGeo: Accelerating Instant Neural Scene Reconstruction with Noisy Geometry Priors**, Chaojian Li et.al., Lab: Peter Vajda, Paper: [http://arxiv.org/abs/2212.01959v1](http://arxiv.org/abs/2212.01959v1)
 
-<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221207>back to top</a>)</p>
 
