@@ -1,4 +1,4 @@
-> Updated on 2022.12.11
+> Updated on 2022.12.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 - 2022-12-08, **Multi-View Mesh Reconstruction with Neural Deferred Shading**, Markus Worchel et.al., Lab: Peter Eisert, Paper: [http://arxiv.org/abs/2212.04386v1](http://arxiv.org/abs/2212.04386v1)
 - 2022-12-08, **NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing**, Chunyi Sun et.al., Lab: Stephen Gould, Paper: [http://arxiv.org/abs/2212.03848v2](http://arxiv.org/abs/2212.03848v2)
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -50,14 +50,8 @@
 - 2022-12-08, **Can high-redshift Hubble diagrams rule out the standard model of cosmology in the context of cosmographic method?**, S. Pourojaghi et.al., Lab: M. Malekjani, Paper: [http://arxiv.org/abs/2212.04118v1](http://arxiv.org/abs/2212.04118v1)
 - 2022-12-08, **f(T) cosmology against the cosmographic method: A new study using mock and observational data**, M. Sabiee et.al., Lab: D. Mohammad Zadeh Jassur, Paper: [http://arxiv.org/abs/2212.04113v1](http://arxiv.org/abs/2212.04113v1)
 - 2022-12-08, **Shadow Removal by High-Quality Shadow Synthesis**, Yunshan Zhong et.al., Lab: Rongrong Ji, Paper: [http://arxiv.org/abs/2212.04108v1](http://arxiv.org/abs/2212.04108v1), Code: **[https://github.com/zysxmu/hqss](https://github.com/zysxmu/hqss)**
-- 2022-12-08, **Frozen CLIP Model is Efficient Point Cloud Backbone**, Xiaoshui Huang et.al., Lab: Wanli Ouyang, Paper: [http://arxiv.org/abs/2212.04098v1](http://arxiv.org/abs/2212.04098v1)
-- 2022-12-08, **ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction**, Zhen Wang et.al., Lab: Achuta Kadambi, Paper: [http://arxiv.org/abs/2212.04096v1](http://arxiv.org/abs/2212.04096v1)
-- 2022-12-08, **Numerical Fréchet derivatives of the displacement tensor for 2.5-D frequency-domain seismic full-waveform inversion in viscoelastic TTI media**, Qingjie Yang et.al., Lab: Stewart Greenhalgh, Paper: [http://arxiv.org/abs/2212.04086v1](http://arxiv.org/abs/2212.04086v1)
-- 2022-12-08, **Constraining the cosmic merger history of intermediate-mass black holes with gravitational wave detectors**, Giacomo Fragione et.al., Lab: Abraham Loeb, Paper: [http://arxiv.org/abs/2212.04056v1](http://arxiv.org/abs/2212.04056v1)
-- 2022-12-08, **Occlusion-Robust FAU Recognition by Mining Latent Space of Masked Autoencoders**, Minyang Jiang et.al., Lab: Z. Jane Wang, Paper: [http://arxiv.org/abs/2212.04029v1](http://arxiv.org/abs/2212.04029v1)
-- 2022-12-08, **An Open-Source Gazebo Plugin for GNSS Multipath Signal Emulation in Virtual Urban Canyons**, Kartik Anand Pant et.al., Lab: Inseok Hwang, Paper: [http://arxiv.org/abs/2212.04018v1](http://arxiv.org/abs/2212.04018v1), Code: **[https://github.com/kpant14/multipath_sim](https://github.com/kpant14/multipath_sim)**
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Generative Models
 
@@ -70,14 +64,14 @@
 - 2022-12-08, **Surround-view Fisheye BEV-Perception for Valet Parking: Dataset, Baseline and Distortion-insensitive Multi-task Framework**, Zizhang Wu et.al., Lab: Fan Wang, Paper: [http://arxiv.org/abs/2212.04111v1](http://arxiv.org/abs/2212.04111v1)
 - 2022-12-08, **Executing your Commands via Motion Diffusion in Latent Space**, Xin Chen et.al., Lab: Gang Yu, Paper: [http://arxiv.org/abs/2212.04048v1](http://arxiv.org/abs/2212.04048v1), Code: **[https://github.com/chenfengye/motion-latent-diffusion](https://github.com/chenfengye/motion-latent-diffusion)**
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2022-12-06, **PRISM: Probabilistic Real-Time Inference in Spatial World Models**, Atanas Mirchev et.al., Lab: Justin Bayer, Paper: [http://arxiv.org/abs/2212.02988v1](http://arxiv.org/abs/2212.02988v1)
 - 2022-12-06, **Pixel2ISDF: Implicit Signed Distance Fields based Human Body Model from Multi-view and Multi-pose Images**, Jianchuan Chen et.al., Lab: Huchuan Lu, Paper: [http://arxiv.org/abs/2212.02765v1](http://arxiv.org/abs/2212.02765v1)
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -178,5 +172,5 @@
 - 2022-12-08, **Quantum-Inspired Approximations to Constraint Satisfaction Problems**, S. Andrew Lanham et.al., Lab: S. Andrew Lanham, Paper: [http://arxiv.org/abs/2212.04016v1](http://arxiv.org/abs/2212.04016v1)
 - 2022-12-08, **Direct Collapse to Precursors of Supermassive Black Hole Seeds:Radiation Feedback-Generated Outflows**, Yang Luo et.al., Lab: Kentaro Nagamine, Paper: [http://arxiv.org/abs/2212.04015v1](http://arxiv.org/abs/2212.04015v1)
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 

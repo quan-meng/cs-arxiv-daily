@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.11
+## Updated on 2022.12.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@ layout: default
 |**2022-12-08**|**Multi-View Mesh Reconstruction with Neural Deferred Shading**|Markus Worchel et.al.|Peter Eisert|[2212.04386v1](http://arxiv.org/abs/2212.04386v1)|    |
 |**2022-12-08**|**NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing**|Chunyi Sun et.al.|Stephen Gould|[2212.03848v2](http://arxiv.org/abs/2212.03848v2)|    |
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -58,14 +58,8 @@ layout: default
 |**2022-12-08**|**Can high-redshift Hubble diagrams rule out the standard model of cosmology in the context of cosmographic method?**|S. Pourojaghi et.al.|M. Malekjani|[2212.04118v1](http://arxiv.org/abs/2212.04118v1)|    |
 |**2022-12-08**|**f(T) cosmology against the cosmographic method: A new study using mock and observational data**|M. Sabiee et.al.|D. Mohammad Zadeh Jassur|[2212.04113v1](http://arxiv.org/abs/2212.04113v1)|    |
 |**2022-12-08**|**Shadow Removal by High-Quality Shadow Synthesis**|Yunshan Zhong et.al.|Rongrong Ji|[2212.04108v1](http://arxiv.org/abs/2212.04108v1)|**[code](https://github.com/zysxmu/hqss)**|
-|**2022-12-08**|**Frozen CLIP Model is Efficient Point Cloud Backbone**|Xiaoshui Huang et.al.|Wanli Ouyang|[2212.04098v1](http://arxiv.org/abs/2212.04098v1)|    |
-|**2022-12-08**|**ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction**|Zhen Wang et.al.|Achuta Kadambi|[2212.04096v1](http://arxiv.org/abs/2212.04096v1)|    |
-|**2022-12-08**|**Numerical Fréchet derivatives of the displacement tensor for 2.5-D frequency-domain seismic full-waveform inversion in viscoelastic TTI media**|Qingjie Yang et.al.|Stewart Greenhalgh|[2212.04086v1](http://arxiv.org/abs/2212.04086v1)|    |
-|**2022-12-08**|**Constraining the cosmic merger history of intermediate-mass black holes with gravitational wave detectors**|Giacomo Fragione et.al.|Abraham Loeb|[2212.04056v1](http://arxiv.org/abs/2212.04056v1)|    |
-|**2022-12-08**|**Occlusion-Robust FAU Recognition by Mining Latent Space of Masked Autoencoders**|Minyang Jiang et.al.|Z. Jane Wang|[2212.04029v1](http://arxiv.org/abs/2212.04029v1)|    |
-|**2022-12-08**|**An Open-Source Gazebo Plugin for GNSS Multipath Signal Emulation in Virtual Urban Canyons**|Kartik Anand Pant et.al.|Inseok Hwang|[2212.04018v1](http://arxiv.org/abs/2212.04018v1)|**[code](https://github.com/kpant14/multipath_sim)**|
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Generative Models
 
@@ -80,7 +74,7 @@ layout: default
 |**2022-12-08**|**Surround-view Fisheye BEV-Perception for Valet Parking: Dataset, Baseline and Distortion-insensitive Multi-task Framework**|Zizhang Wu et.al.|Fan Wang|[2212.04111v1](http://arxiv.org/abs/2212.04111v1)|    |
 |**2022-12-08**|**Executing your Commands via Motion Diffusion in Latent Space**|Xin Chen et.al.|Gang Yu|[2212.04048v1](http://arxiv.org/abs/2212.04048v1)|**[code](https://github.com/chenfengye/motion-latent-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -89,7 +83,7 @@ layout: default
 |**2022-12-06**|**PRISM: Probabilistic Real-Time Inference in Spatial World Models**|Atanas Mirchev et.al.|Justin Bayer|[2212.02988v1](http://arxiv.org/abs/2212.02988v1)|    |
 |**2022-12-06**|**Pixel2ISDF: Implicit Signed Distance Fields based Human Body Model from Multi-view and Multi-pose Images**|Jianchuan Chen et.al.|Huchuan Lu|[2212.02765v1](http://arxiv.org/abs/2212.02765v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -192,5 +186,5 @@ layout: default
 |**2022-12-08**|**Quantum-Inspired Approximations to Constraint Satisfaction Problems**|S. Andrew Lanham et.al.|S. Andrew Lanham|[2212.04016v1](http://arxiv.org/abs/2212.04016v1)|    |
 |**2022-12-08**|**Direct Collapse to Precursors of Supermassive Black Hole Seeds:Radiation Feedback-Generated Outflows**|Yang Luo et.al.|Kentaro Nagamine|[2212.04015v1](http://arxiv.org/abs/2212.04015v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
