@@ -1,4 +1,4 @@
-> Updated on 2022.12.12
+> Updated on 2022.12.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2022-12-09, **Memories are One-to-Many Mapping Alleviators in Talking Face Generation**, Anni Tang et.al., Lab: Jiang Bian, Paper: [http://arxiv.org/abs/2212.05005v1](http://arxiv.org/abs/2212.05005v1)
 - 2022-12-09, **4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**, Zhongshu Wang et.al., Lab: Liefeng Bo, Paper: [http://arxiv.org/abs/2212.04701v1](http://arxiv.org/abs/2212.04701v1), Code: **[https://github.com/frozoul/4k-nerf](https://github.com/frozoul/4k-nerf)**
 
-<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -45,7 +45,7 @@
 - 2022-12-09, **A PINN Approach to Symbolic Differential Operator Discovery with Sparse Data**, Lena Podina et.al., Lab: Mohammad Kohandel, Paper: [http://arxiv.org/abs/2212.04630v1](http://arxiv.org/abs/2212.04630v1)
 - 2022-12-09, **Digital Twin for Real-time Li-ion Battery State of Health Estimation with Partially Discharged Cycling Data**, Yan Qin et.al., Lab: Chau Yuen, Paper: [http://arxiv.org/abs/2212.04622v1](http://arxiv.org/abs/2212.04622v1)
 
-<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
 
 ## Generative Models
 
@@ -56,13 +56,13 @@
 - 2022-12-09, **Validating quantum-supremacy experiments with exact and fast tensor network contraction**, Yong Liu et.al., Lab: Jiangang Gao, Paper: [http://arxiv.org/abs/2212.04749v1](http://arxiv.org/abs/2212.04749v1)
 - 2022-12-09, **ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**, Lanqing Guo et.al., Lab: Bihan Wen, Paper: [http://arxiv.org/abs/2212.04711v1](http://arxiv.org/abs/2212.04711v1)
 
-<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2022-12-09, **Neural Volume Super-Resolution**, Yuval Bahat et.al., Lab: Felix Heide, Paper: [http://arxiv.org/abs/2212.04666v1](http://arxiv.org/abs/2212.04666v1)
 
-<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -170,5 +170,5 @@
 - 2022-12-09, **UNet Based Pipeline for Lung Segmentation from Chest X-Ray Images**, Shashank Shekhar et.al., Lab: H Srikanth Kamath, Paper: [http://arxiv.org/abs/2212.04617v1](http://arxiv.org/abs/2212.04617v1)
 - 2022-12-09, **On Distribution Grid Optimal Power Flow Development and Integration**, Sarmad Hanif et.al., Lab: Rui Yang, Paper: [http://arxiv.org/abs/2212.04616v1](http://arxiv.org/abs/2212.04616v1)
 
-<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
 
