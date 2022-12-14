@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.13
+## Updated on 2022.12.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@ layout: default
 |**2022-12-12**|**Neural Assets: Volumetric Object Capture and Rendering for Interactive Environments**|Aljaž Božič et.al.|Christoph Lassner|[2212.06125v1](http://arxiv.org/abs/2212.06125v1)|    |
 |**2022-12-12**|**Memories are One-to-Many Mapping Alleviators in Talking Face Generation**|Anni Tang et.al.|Jiang Bian|[2212.05005v2](http://arxiv.org/abs/2212.05005v2)|    |
 
-<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -58,7 +58,7 @@ layout: default
 |**2022-12-12**|**A global adaptive velocity space for general discrete velocity framework in predictions of rarefied and multi-scale flows**|Jianfeng Chen et.al.|Congshan Zhuo|[2212.05645v1](http://arxiv.org/abs/2212.05645v1)|    |
 |**2022-12-12**|**Cross-Modal Learning with 3D Deformable Attention for Action Recognition**|Sangwon Kim et.al.|Byoung Chul Ko|[2212.05638v1](http://arxiv.org/abs/2212.05638v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
 
 ## Generative Models
 
@@ -73,7 +73,7 @@ layout: default
 |**2022-12-12**|**Diff-Font: Diffusion Model for Robust One-Shot Font Generation**|Haibin He et.al.|Yu Qiao|[2212.05895v1](http://arxiv.org/abs/2212.05895v1)|    |
 |**2022-12-12**|**A scheme for excitation of thorium-229 nuclei based on the electronic bridge excitaion**|Lin Li et.al.|Xin Tong|[2212.05693v1](http://arxiv.org/abs/2212.05693v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -81,7 +81,7 @@ layout: default
 |:---------|:-----------------------|:---------|:---------|:------|:------|
 |**2022-12-12**|**MIRA: Mental Imagery for Robotic Affordances**|Lin Yen-Chen et.al.|Phillip Isola|[2212.06088v1](http://arxiv.org/abs/2212.06088v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -204,5 +204,5 @@ layout: default
 |**2022-12-12**|**Cross-Modal Learning with 3D Deformable Attention for Action Recognition**|Sangwon Kim et.al.|Byoung Chul Ko|[2212.05638v1](http://arxiv.org/abs/2212.05638v1)|    |
 |**2022-12-12**|**Plasmonic and metamaterial biosensors: A game-changer for virus detection**|Junfei Wang et.al.|Domna G. Kotsifaki|[2212.05636v1](http://arxiv.org/abs/2212.05636v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
 
