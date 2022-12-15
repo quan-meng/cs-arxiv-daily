@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.14
+## Updated on 2022.12.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@ layout: default
 |**2022-12-12**|**Neural Assets: Volumetric Object Capture and Rendering for Interactive Environments**|Aljaž Božič et.al.|Christoph Lassner|[2212.06125v1](http://arxiv.org/abs/2212.06125v1)|    |
 |**2022-12-12**|**Memories are One-to-Many Mapping Alleviators in Talking Face Generation**|Anni Tang et.al.|Jiang Bian|[2212.05005v2](http://arxiv.org/abs/2212.05005v2)|    |
 
-<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221215>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -60,12 +60,8 @@ layout: default
 |**2022-12-13**|**Robust Split Federated Learning for U-shaped Medical Image Networks**|Ziyuan Yang et.al.|Yi Zhang|[2212.06378v1](http://arxiv.org/abs/2212.06378v1)|    |
 |**2022-12-13**|**Towards deep generation of guided wave representations for composite materials**|Mahindra Rautela et.al.|S. Gopalakrishnan|[2212.06365v1](http://arxiv.org/abs/2212.06365v1)|    |
 |**2022-12-13**|**Foveated Thermal Computational Imaging in the Wild Using All-Silicon Meta-Optics**|Vishwanath Saragadam et.al.|Ashok Veeraraghavan|[2212.06345v1](http://arxiv.org/abs/2212.06345v1)|    |
-|**2022-12-13**|**DA Wand: Distortion-Aware Selection using Neural Mesh Parameterization**|Richard Liu et.al.|Rana Hanocka|[2212.06344v1](http://arxiv.org/abs/2212.06344v1)|**[code](https://github.com/threedle/DA-Wand)**|
-|**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|Subhransu Maji|[2212.06300v1](http://arxiv.org/abs/2212.06300v1)|    |
-|**2022-12-13**|**Moiré pattern formation in epitaxial growth on a covalent substrate: Sb on InSb(111)A**|Bing Liu et.al.|Ralph Claessen|[2212.06297v1](http://arxiv.org/abs/2212.06297v1)|    |
-|**2022-12-13**|**The cosmic DANCe of Perseus I: Membership, phase-space structure, mass, and energy distributions**|J. Olivares et.al.|A. Berihuete|[2212.06291v1](http://arxiv.org/abs/2212.06291v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221215>back to top</a>)</p>
 
 ## Generative Models
 
@@ -79,7 +75,7 @@ layout: default
 |**2022-12-13**|**Are Quantum Circuits Better than Neural Networks at Learning Multi-dimensional Discrete Data? An Investigation into Practical Quantum Circuit Generative Models**|Pengyuan Zhai et.al.|Pengyuan Zhai|[2212.06380v1](http://arxiv.org/abs/2212.06380v1)|    |
 |**2022-12-13**|**Score-based Generative Modeling Secretly Minimizes the Wasserstein Distance**|Dohyun Kwon et.al.|Kangwook Lee|[2212.06359v1](http://arxiv.org/abs/2212.06359v1)|**[code](https://github.com/uw-madison-lee-lab/score-wasserstein)**|
 
-<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221215>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -88,7 +84,7 @@ layout: default
 |**2022-12-12**|**ROAD: Learning an Implicit Recursive Octree Auto-Decoder to Efficiently Encode 3D Shapes**|Sergey Zakharov et.al.|Adrien Gaidon|[2212.06193v1](http://arxiv.org/abs/2212.06193v1)|    |
 |**2022-12-12**|**MIRA: Mental Imagery for Robotic Affordances**|Lin Yen-Chen et.al.|Phillip Isola|[2212.06088v1](http://arxiv.org/abs/2212.06088v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221215>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -229,5 +225,5 @@ layout: default
 |**2022-12-13**|**Mist and Edge Computing Cyber-Physical Human-Centered Systems for Industry 5.0: A Cost-Effective IoT Thermal Imaging Safety System**|P. Fraga-Lamas et.al.|T. M. Fernández-Caramés|[2212.06294v1](http://arxiv.org/abs/2212.06294v1)|    |
 |**2022-12-13**|**Nonlinear Cone Separation Theorems in Real Topological Linear Spaces**|Christian Günther et.al.|Christiane Tammer|[2212.06293v1](http://arxiv.org/abs/2212.06293v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221215>back to top</a>)</p>
 
