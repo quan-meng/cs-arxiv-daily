@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.16
+## Updated on 2022.12.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@ layout: default
 |**2022-12-15**|**NeRF-Art: Text-Driven Neural Radiance Fields Stylization**|Can Wang et.al.|Jing Liao|[2212.08070v1](http://arxiv.org/abs/2212.08070v1)|**[code](https://github.com/cassiePython/NeRF-Art)**|
 |**2022-12-15**|**Real-Time Neural Light Field on Mobile Devices**|Junli Cao et.al.|Jian Ren|[2212.08057v1](http://arxiv.org/abs/2212.08057v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221217>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -72,7 +72,7 @@ layout: default
 |**2022-12-15**|**Man-recon: manifold learning for reconstruction with deep autoencoder for smart seismic interpretation**|Ahmad Mustafa et.al.|Ghassan AlRegib|[2212.07568v1](http://arxiv.org/abs/2212.07568v1)|    |
 |**2022-12-15**|**Multi-level and multi-modal feature fusion for accurate 3D object detection in Connected and Automated Vehicles**|Yiming Hou et.al.|Richard Romano|[2212.07560v1](http://arxiv.org/abs/2212.07560v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221217>back to top</a>)</p>
 
 ## Generative Models
 
@@ -84,7 +84,7 @@ layout: default
 |**2022-12-15**|**Hybrid Quantum Generative Adversarial Networks for Molecular Simulation and Drug Discovery**|Prateek Jain et.al.|Srinjoy Ganguly|[2212.07826v1](http://arxiv.org/abs/2212.07826v1)|    |
 |**2022-12-15**|**Universal Generative Modeling in Dual-domain for Dynamic MR Imaging**|Chuanming Yu et.al.|Qiegen Liu|[2212.07599v1](http://arxiv.org/abs/2212.07599v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221217>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -93,7 +93,7 @@ layout: default
 |**2022-12-12**|**ROAD: Learning an Implicit Recursive Octree Auto-Decoder to Efficiently Encode 3D Shapes**|Sergey Zakharov et.al.|Adrien Gaidon|[2212.06193v1](http://arxiv.org/abs/2212.06193v1)|    |
 |**2022-12-12**|**MIRA: Mental Imagery for Robotic Affordances**|Lin Yen-Chen et.al.|Phillip Isola|[2212.06088v1](http://arxiv.org/abs/2212.06088v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221217>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -230,5 +230,5 @@ layout: default
 |**2022-12-15**|**Multi-level and multi-modal feature fusion for accurate 3D object detection in Connected and Automated Vehicles**|Yiming Hou et.al.|Richard Romano|[2212.07560v1](http://arxiv.org/abs/2212.07560v1)|    |
 |**2022-12-15**|**Comparing the roles of time overhead and spatial dimensions on Brownian processes with potential bias and stochastic resetting**|Saeed Ahmad et.al.|Dibyendu Das|[2212.07557v1](http://arxiv.org/abs/2212.07557v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221217>back to top</a>)</p>
 
