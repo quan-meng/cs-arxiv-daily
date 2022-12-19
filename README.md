@@ -61,12 +61,6 @@
 |**2022-12-15**|**CNN-based real-time 2D-3D deformable registration from a single X-ray projection**|François Lecomte et.al.|Stéphane Cotin|[2212.07692v1](http://arxiv.org/abs/2212.07692v1)|    |
 |**2022-12-15**|**Lattice reconstruction in MoSe$_2$-WSe$_2$ heterobilayers synthesized by chemical vapor deposition**|Zhijie Li et.al.|Alexander Högele|[2212.07686v1](http://arxiv.org/abs/2212.07686v1)|    |
 |**2022-12-15**|**Two-stage Contextual Transformer-based Convolutional Neural Network for Airway Extraction from CT Images**|Yanan Wu et.al.|Hongliang Ren|[2212.07651v1](http://arxiv.org/abs/2212.07651v1)|**[code](https://github.com/zhaozsq/airway_segmentation)**|
-|**2022-12-15**|**Relightable Neural Human Assets from Multi-view Gradient Illuminations**|Taotao Zhou et.al.|Jingyi Yi|[2212.07648v1](http://arxiv.org/abs/2212.07648v1)|    |
-|**2022-12-15**|**NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions**|Juze Zhang et.al.|Jingya Wang|[2212.07626v1](http://arxiv.org/abs/2212.07626v1)|    |
-|**2022-12-15**|**Solubility of Additive Forms of Twice Odd Degree over Totally Ramified Extensions of $\mathbb{Q}_2$**|Drew Duncan et.al.|Drew Duncan|[2212.07604v1](http://arxiv.org/abs/2212.07604v1)|    |
-|**2022-12-15**|**Universal Generative Modeling in Dual-domain for Dynamic MR Imaging**|Chuanming Yu et.al.|Qiegen Liu|[2212.07599v1](http://arxiv.org/abs/2212.07599v1)|    |
-|**2022-12-15**|**Man-recon: manifold learning for reconstruction with deep autoencoder for smart seismic interpretation**|Ahmad Mustafa et.al.|Ghassan AlRegib|[2212.07568v1](http://arxiv.org/abs/2212.07568v1)|    |
-|**2022-12-15**|**Multi-level and multi-modal feature fusion for accurate 3D object detection in Connected and Automated Vehicles**|Yiming Hou et.al.|Richard Romano|[2212.07560v1](http://arxiv.org/abs/2212.07560v1)|    |
 
 <p align=right>(<a href=#Updated-on-20221219>back to top</a>)</p>
 
@@ -189,42 +183,6 @@
 |**2022-12-15**|**Passive bistatic radar probes of the subsurface on airless bodies using high energy cosmic rays via the Askaryan effect**|R. L. Prechelt et.al.|G. S. Varner|[2212.07689v1](http://arxiv.org/abs/2212.07689v1)|    |
 |**2022-12-15**|**Networks of reinforced stochastic processes: estimation of the probability of asymptotic polarization**|Giacomo Aletti et.al.|Andrea Ghiglietti|[2212.07687v1](http://arxiv.org/abs/2212.07687v1)|    |
 |**2022-12-15**|**BPS Lie algebras for totally negative 2-Calabi-Yau categories and nonabelian Hodge theory for stacks**|Ben Davison et.al.|Sebastian Schlegel Mejia|[2212.07668v1](http://arxiv.org/abs/2212.07668v1)|    |
-|**2022-12-15**|**Surrogate-assisted level-based learning evolutionary search for heat extraction optimization of enhanced geothermal system**|Guodong Chen et.al.|Jiu Jimmy Jiao|[2212.07666v1](http://arxiv.org/abs/2212.07666v1)|    |
-|**2022-12-15**|**Writer Retrieval and Writer Identification in Greek Papyri**|Vincent Christlein et.al.|Mathias Seuret|[2212.07664v1](http://arxiv.org/abs/2212.07664v1)|    |
-|**2022-12-15**|**Cross-Link Channel Prediction for Massive IoT Networks**|Kun Woo Cho et.al.|Kyle Jamieson|[2212.07663v1](http://arxiv.org/abs/2212.07663v1)|    |
-|**2022-12-15**|**Timelike Compton scattering in ultraperipheral $pPb$ collisions**|Ya-Ping Xie et.al.|V. P. Goncalves|[2212.07657v1](http://arxiv.org/abs/2212.07657v1)|    |
-|**2022-12-15**|**Two-stage Contextual Transformer-based Convolutional Neural Network for Airway Extraction from CT Images**|Yanan Wu et.al.|Hongliang Ren|[2212.07651v1](http://arxiv.org/abs/2212.07651v1)|**[code](https://github.com/zhaozsq/airway_segmentation)**|
-|**2022-12-15**|**Improving Fast-slow Encoder based Transducer with Streaming Deliberation**|Ke Li et.al.|Duc Le|[2212.07650v1](http://arxiv.org/abs/2212.07650v1)|    |
-|**2022-12-15**|**Integrated vortex soliton microcombs**|Yanwu Liu et.al.|Qi-Fan Yang|[2212.07639v1](http://arxiv.org/abs/2212.07639v1)|    |
-|**2022-12-15**|**Probing the Evolution of Electron Spin Wavefunction of NV Center in diamond via Pressure Tuning**|Kin On Ho et.al.|Sen Yang|[2212.07637v1](http://arxiv.org/abs/2212.07637v1)|    |
-|**2022-12-15**|**On transverse single-spin asymmetries in $D$-meson production at the SPD NICA experiment**|Anton Karpishkov et.al.|Vladimir Saleev|[2212.07636v1](http://arxiv.org/abs/2212.07636v1)|    |
-|**2022-12-15**|**Let's consider more general nonlinear approaches to study teleconnections of climate variables**|D. Bueso et.al.|G. Camps-Valls|[2212.07635v1](http://arxiv.org/abs/2212.07635v1)|    |
-|**2022-12-15**|**Gradient-based Intra-attention Pruning on Pre-trained Language Models**|Ziqing Yang et.al.|Shijin Wang|[2212.07634v1](http://arxiv.org/abs/2212.07634v1)|    |
-|**2022-12-15**|**NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions**|Juze Zhang et.al.|Jingya Wang|[2212.07626v1](http://arxiv.org/abs/2212.07626v1)|    |
-|**2022-12-15**|**Isoparametric functions on Finsler space forms**|Yali Chen et.al.|Qun He|[2212.07625v1](http://arxiv.org/abs/2212.07625v1)|    |
-|**2022-12-15**|**Legendre singularities of sub-Riemannian geodesics**|Goo Ishikawa et.al.|Yumiko Kitagawa|[2212.07615v1](http://arxiv.org/abs/2212.07615v1)|    |
-|**2022-12-15**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|Zhuangli Ma|[2212.07613v1](http://arxiv.org/abs/2212.07613v1)|    |
-|**2022-12-15**|**TED: Towards Discovering Top-k Edge-Diversified Patterns in a Graph Database**|Kai Huang et.al.|Xiaofang Zhou|[2212.07612v1](http://arxiv.org/abs/2212.07612v1)|    |
-|**2022-12-15**|**Output-Dependent Gaussian Process State-Space Model**|Zhidi Lin et.al.|Shuguang Cui|[2212.07608v1](http://arxiv.org/abs/2212.07608v1)|    |
-|**2022-12-15**|**Modifying Survival Models To Accommodate Thresholding Behavior**|Michael Betancourt et.al.|Michael Betancourt|[2212.07602v1](http://arxiv.org/abs/2212.07602v1)|    |
-|**2022-12-15**|**Design of a Parallel Elastic Actuator with a Continuously-Adjustable Equilibrium Position**|Evangelos Chatziandreou et.al.|David J. Braun|[2212.07601v1](http://arxiv.org/abs/2212.07601v1)|    |
-|**2022-12-15**|**Tail Bounds on the Spectral Norm of Sub-Exponential Random Matrices**|Guozheng Dai et.al.|Hanchao Wang|[2212.07600v1](http://arxiv.org/abs/2212.07600v1)|    |
-|**2022-12-15**|**Universal Generative Modeling in Dual-domain for Dynamic MR Imaging**|Chuanming Yu et.al.|Qiegen Liu|[2212.07599v1](http://arxiv.org/abs/2212.07599v1)|    |
-|**2022-12-15**|**Comparing two spatial variables with the probability of agreement**|Jonathan Acosta et.al.|Mario de Castro|[2212.07598v1](http://arxiv.org/abs/2212.07598v1)|**[code](https://github.com/jacosta-hub/comparing-two-spatial-variables-with-the-probability-of-agreement)**|
-|**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|Lihua Xie|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|**[code](https://github.com/xukuanHIT/AirVO)**|
-|**2022-12-15**|**Enhanced Training of Query-Based Object Detection via Selective Query Recollection**|Fangyi Chen et.al.|Marios Savvides|[2212.07593v1](http://arxiv.org/abs/2212.07593v1)|**[code](https://github.com/fangyi-chen/sqr)**|
-|**2022-12-15**|**An efficient symmetric primal-dual algorithmic framework for saddle point problems**|Hongjin He et.al.|Jintao Yu|[2212.07587v1](http://arxiv.org/abs/2212.07587v1)|    |
-|**2022-12-15**|**Syzygies of tangent developable surfaces and K3 carpets via secant varieties**|Jinhyung Park et.al.|Jinhyung Park|[2212.07584v1](http://arxiv.org/abs/2212.07584v1)|    |
-|**2022-12-15**|**Frolicher structures, diffieties, and a formal KP hierarchy**|Jean-Pierre Magnot et.al.|Vladimir Rubtsov|[2212.07583v1](http://arxiv.org/abs/2212.07583v1)|    |
-|**2022-12-15**|**Edema Estimation From Facial Images Taken Before and After Dialysis via Contrastive Multi-Patient Pre-Training**|Yusuke Akamatsu et.al.|Hideo Tsurushima|[2212.07582v1](http://arxiv.org/abs/2212.07582v1)|    |
-|**2022-12-15**|**Distinguishing thixotropy, anti-thixotropy, and viscoelasticity using hysteresis**|Yilin Wang et.al.|Randy H. Ewoldt|[2212.07572v1](http://arxiv.org/abs/2212.07572v1)|    |
-|**2022-12-15**|**DeFT-AN: Dense Frequency-Time Attentive Network for Multichannel Speech Enhancement**|Dongheon Lee et.al.|Jung-Woo Choi|[2212.07570v1](http://arxiv.org/abs/2212.07570v1)|    |
-|**2022-12-15**|**Reciprocity of the Chern-Simons invariants of 3-manifolds**|Takefumi Nosaka et.al.|Takefumi Nosaka|[2212.07569v1](http://arxiv.org/abs/2212.07569v1)|    |
-|**2022-12-15**|**Man-recon: manifold learning for reconstruction with deep autoencoder for smart seismic interpretation**|Ahmad Mustafa et.al.|Ghassan AlRegib|[2212.07568v1](http://arxiv.org/abs/2212.07568v1)|    |
-|**2022-12-15**|**AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions**|Florent Bonnet et.al.|Patrick Gallinari|[2212.07564v1](http://arxiv.org/abs/2212.07564v1)|    |
-|**2022-12-15**|**Explainable Machine Learning for Hydrocarbon Prospect Risking**|Ahmad Mustafa et.al.|Ghassan AlRegib|[2212.07563v1](http://arxiv.org/abs/2212.07563v1)|    |
-|**2022-12-15**|**Multi-level and multi-modal feature fusion for accurate 3D object detection in Connected and Automated Vehicles**|Yiming Hou et.al.|Richard Romano|[2212.07560v1](http://arxiv.org/abs/2212.07560v1)|    |
-|**2022-12-15**|**Comparing the roles of time overhead and spatial dimensions on Brownian processes with potential bias and stochastic resetting**|Saeed Ahmad et.al.|Dibyendu Das|[2212.07557v1](http://arxiv.org/abs/2212.07557v1)|    |
 
 <p align=right>(<a href=#Updated-on-20221219>back to top</a>)</p>
 
