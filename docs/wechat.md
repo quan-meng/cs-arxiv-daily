@@ -1,4 +1,4 @@
-> Updated on 2022.12.19
+> Updated on 2022.12.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2022-12-16, **MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields**, Jaeyoung Chung et.al., Lab: Kyoung Mu Lee, Paper: [http://arxiv.org/abs/2212.08328v1](http://arxiv.org/abs/2212.08328v1)
 
-<p align=right>(<a href=#Updated-on-20221219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -41,7 +41,7 @@
 - 2022-12-16, **SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation**, Jee Seok Yoon et.al., Lab: Xiaoxiao Li, Paper: [http://arxiv.org/abs/2212.08228v1](http://arxiv.org/abs/2212.08228v1)
 - 2022-12-16, **Implementing Simulation of Simplicity for geometric degeneracies**, W. Randolph Franklin et.al., Lab: Salles Viana Gomes de Magalhães, Paper: [http://arxiv.org/abs/2212.08226v1](http://arxiv.org/abs/2212.08226v1)
 
-<p align=right>(<a href=#Updated-on-20221219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
 
 ## Generative Models
 
@@ -54,7 +54,7 @@
 - 2022-12-16, **Text-to-speech synthesis based on latent variable conversion using diffusion probabilistic model and variational autoencoder**, Yusuke Yasuda et.al., Lab: Tomoki Toda, Paper: [http://arxiv.org/abs/2212.08329v1](http://arxiv.org/abs/2212.08329v1)
 - 2022-12-16, **SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation**, Jee Seok Yoon et.al., Lab: Xiaoxiao Li, Paper: [http://arxiv.org/abs/2212.08228v1](http://arxiv.org/abs/2212.08228v1)
 
-<p align=right>(<a href=#Updated-on-20221219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -62,7 +62,7 @@
 - 2022-12-16, **PointAvatar: Deformable Point-based Head Avatars from Videos**, Yufeng Zheng et.al., Lab: Otmar Hilliges, Paper: [http://arxiv.org/abs/2212.08377v1](http://arxiv.org/abs/2212.08377v1)
 - 2022-12-16, **MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields**, Jaeyoung Chung et.al., Lab: Kyoung Mu Lee, Paper: [http://arxiv.org/abs/2212.08328v1](http://arxiv.org/abs/2212.08328v1)
 
-<p align=right>(<a href=#Updated-on-20221219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -93,7 +93,7 @@
 - 2022-12-16, **Context-aware Fine-tuning of Self-supervised Speech Models**, Suwon Shon et.al., Lab: Shinji Watanabe, Paper: [http://arxiv.org/abs/2212.08542v1](http://arxiv.org/abs/2212.08542v1)
 - 2022-12-16, **Dynamic formation of multi-threaded prominences in arcade configurations**, V. Jerčić et.al., Lab: R. Keppens, Paper: [http://arxiv.org/abs/2212.08537v1](http://arxiv.org/abs/2212.08537v1)
 - 2022-12-16, **Semantic Sensing and Communications for Ultimate Extended Reality**, Bowen Zhang et.al., Lab: Geoffrey Ye Li, Paper: [http://arxiv.org/abs/2212.08533v1](http://arxiv.org/abs/2212.08533v1)
-- 2022-12-16, **Rewriting the Infinite Chase**, Michael Benedikt et.al., Lab: Boris Motik, Paper: [http://arxiv.org/abs/2212.08522v1](http://arxiv.org/abs/2212.08522v1)
+- 2022-12-16, **Rewriting the Infinite Chase**, Michael Benedikt et.al., Lab: Boris Motik, Paper: [http://arxiv.org/abs/2212.08522v1](http://arxiv.org/abs/2212.08522v1), Code: **[https://github.com/KRR-Oxford/Guarded-saturation](https://github.com/KRR-Oxford/Guarded-saturation)**
 - 2022-12-16, **The Yang problem for complete bounded complex submanifolds: a survey**, Antonio Alarcon et.al., Lab: Antonio Alarcon, Paper: [http://arxiv.org/abs/2212.08521v1](http://arxiv.org/abs/2212.08521v1)
 - 2022-12-16, **Investigating the vertical distribution of the disk as a function of radial action**, Yunpeng Jia et.al., Lab: Gang zhao, Paper: [http://arxiv.org/abs/2212.08519v1](http://arxiv.org/abs/2212.08519v1)
 - 2022-12-16, **Moate Simulation of Stochastic Processes**, Michael E. Mura et.al., Lab: Michael E. Mura, Paper: [http://arxiv.org/abs/2212.08509v1](http://arxiv.org/abs/2212.08509v1)
@@ -159,7 +159,7 @@
 - 2022-12-16, **Enriched evolution of global sea surface height via generalized Schrodinger bridge and Fokker-Planck solver**, Guangzhen Jin et.al., Lab: Guangzhen Jin, Paper: [http://arxiv.org/abs/2212.08268v1](http://arxiv.org/abs/2212.08268v1)
 - 2022-12-16, **Quantum communication through devices in an indefinite input-output direction**, Zixuan Liu et.al., Lab: Giulio Chiribella, Paper: [http://arxiv.org/abs/2212.08265v1](http://arxiv.org/abs/2212.08265v1)
 - 2022-12-16, **A Census of the Low Accretors. II: Accretion Properties**, Thanawuth Thanathibodee et.al., Lab: Ramiro Franco-Hernández, Paper: [http://arxiv.org/abs/2212.08261v1](http://arxiv.org/abs/2212.08261v1)
-- 2022-12-16, **Quantum control via chirped coherent anti-Stokes Raman spectroscopy**, Jabir Chathanathil et.al., Lab: Dmitry Budker, Paper: [http://arxiv.org/abs/2212.08258v1](http://arxiv.org/abs/2212.08258v1)
+- 2022-12-16, **Quantum control via chirped coherent anti-Stokes Raman spectroscopy**, Jabir Chathanathil et.al., Lab: Svetlana A. Malinovskaya, Paper: [http://arxiv.org/abs/2212.08258v1](http://arxiv.org/abs/2212.08258v1)
 - 2022-12-16, **A Sieve Quasi-likelihood Ratio Test for Neural Networks with Applications to Genetic Association Studies**, Xiaoxi Shen et.al., Lab: Qing Lu, Paper: [http://arxiv.org/abs/2212.08255v1](http://arxiv.org/abs/2212.08255v1)
 - 2022-12-16, **RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers**, Zhikai Li et.al., Lab: Qingyi Gu, Paper: [http://arxiv.org/abs/2212.08254v1](http://arxiv.org/abs/2212.08254v1)
 - 2022-12-16, **Testing of $P$ and $CP$ Symmetries with $e^+e^- \to J/ψ\to Λ\bar Λ$**, X. G. He et.al., Lab: J. P. Ma, Paper: [http://arxiv.org/abs/2212.08243v1](http://arxiv.org/abs/2212.08243v1)
@@ -174,5 +174,5 @@
 - 2022-12-16, **LegalRelectra: Mixed-domain Language Modeling for Long-range Legal Text Comprehension**, Wenyue Hua et.al., Lab: Melanie Weber, Paper: [http://arxiv.org/abs/2212.08204v1](http://arxiv.org/abs/2212.08204v1)
 - 2022-12-16, **Identifying the 3FHL catalog: VI. Results of the 2019 Gemini optical spectroscopy campaign**, M. Rajagopal et.al., Lab: M. Ajello, Paper: [http://arxiv.org/abs/2212.08203v1](http://arxiv.org/abs/2212.08203v1)
 
-<p align=right>(<a href=#Updated-on-20221219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
 
