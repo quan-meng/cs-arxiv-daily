@@ -1,4 +1,4 @@
-> Updated on 2022.12.20
+> Updated on 2022.12.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2022-12-19, **Correspondence Distillation from NeRF-based GAN**, Yushi Lan et.al., Lab: Bo Dai, Paper: [http://arxiv.org/abs/2212.09735v1](http://arxiv.org/abs/2212.09735v1)
 - 2022-12-19, **StyleTRF: Stylizing Tensorial Radiance Fields**, Rahul Goel et.al., Lab: P. J. Narayanan, Paper: [http://arxiv.org/abs/2212.09330v1](http://arxiv.org/abs/2212.09330v1)
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -42,7 +42,7 @@
 - 2022-12-19, **Measurement of medium-induced modification of jet yield and acoplanarity using semi-inclusive $γ_{\text{dir}}$+jet and $π^{0}$+jet distributions in $p$+$p$ and central Au+Au collisions at $\sqrt{s_{NN}} = 200$ GeV by STAR**, Derek Anderson et.al., Lab: Derek Anderson, Paper: [http://arxiv.org/abs/2212.09202v1](http://arxiv.org/abs/2212.09202v1)
 - 2022-12-19, **Randomized Quantization for Data Agnostic Representation Learning**, Huimin Wu et.al., Lab: Zhirong Wu, Paper: [http://arxiv.org/abs/2212.08663v1](http://arxiv.org/abs/2212.08663v1), Code: **[https://github.com/microsoft/random_quantize](https://github.com/microsoft/random_quantize)**
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 
 ## Generative Models
 
@@ -54,13 +54,13 @@
 - 2022-12-19, **Synthetic Data Augmentation Using GAN For Improved Automated Visual Inspection**, Jože M. Rožanec et.al., Lab: Dunja Mladenić, Paper: [http://arxiv.org/abs/2212.09317v1](http://arxiv.org/abs/2212.09317v1)
 - 2022-12-19, **Photo-Realistic Out-of-domain GAN inversion via Invertibility Decomposition**, Xin Yang et.al., Lab: Yingcong Chen, Paper: [http://arxiv.org/abs/2212.09262v1](http://arxiv.org/abs/2212.09262v1), Code: **[https://github.com/AbnerVictor/OOD-GAN-inversion](https://github.com/AbnerVictor/OOD-GAN-inversion)**
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2022-12-19, **HARP: Personalized Hand Reconstruction from a Monocular RGB Video**, Korrawe Karunratanakul et.al., Lab: Siyu Tang, Paper: [http://arxiv.org/abs/2212.09530v1](http://arxiv.org/abs/2212.09530v1)
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -78,7 +78,7 @@
 - 2022-12-19, **Differential geometry of space curves: forgotten chapters**, Dmitry Fuchs et.al., Lab: Serge Tabachnikov, Paper: [http://arxiv.org/abs/2212.09716v1](http://arxiv.org/abs/2212.09716v1)
 - 2022-12-19, **Discrete geodesic local time converges under KPZ scaling**, Shirshendu Ganguly et.al., Lab: Lingfu Zhang, Paper: [http://arxiv.org/abs/2212.09707v1](http://arxiv.org/abs/2212.09707v1)
 - 2022-12-19, **Rate-Privacy-Storage Tradeoff in Federated Learning with Top $r$ Sparsification**, Sajani Vithana et.al., Lab: Sennur Ulukus, Paper: [http://arxiv.org/abs/2212.09704v1](http://arxiv.org/abs/2212.09704v1)
-- 2022-12-19, **Graph-based Semantical Extractive Text Analysis**, Mina Samizadeh et.al., Lab: Mina Samizadeh, Paper: [http://arxiv.org/abs/2212.09701v1](http://arxiv.org/abs/2212.09701v1)
+- 2022-12-19, **Graph-based Semantical Extractive Text Analysis**, Mina Samizadeh et.al., Lab: Mina Samizadeh, Paper: [http://arxiv.org/abs/2212.09701v1](http://arxiv.org/abs/2212.09701v1), Code: **[https://github.com/minasmz/persian-summarization](https://github.com/minasmz/persian-summarization)**
 - 2022-12-19, **SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations**, Ioannis Tsiamas et.al., Lab: Marta R. Costa-jussà, Paper: [http://arxiv.org/abs/2212.09699v1](http://arxiv.org/abs/2212.09699v1)
 - 2022-12-19, **Nodal-antinodal dichotomy from anisotropic quantum critical continua in holographic models**, Ronnie Rodgers et.al., Lab: Alexander Krikun, Paper: [http://arxiv.org/abs/2212.09694v1](http://arxiv.org/abs/2212.09694v1)
 - 2022-12-19, **Non-perturbative intertwining between spin and charge correlations: A "smoking gun" single-boson-exchange result**, Severino Adler et.al., Lab: Alessandro Toschi, Paper: [http://arxiv.org/abs/2212.09693v1](http://arxiv.org/abs/2212.09693v1)
@@ -199,5 +199,5 @@
 - 2022-12-19, **A local gap theorem for Ricci shrinkers**, Pak-Yeung Chan et.al., Lab: Yongjia Zhang, Paper: [http://arxiv.org/abs/2212.09203v1](http://arxiv.org/abs/2212.09203v1)
 - 2022-12-19, **The Compton amplitude and nucleon structure functions**, K. Utku Can et.al., Lab: K. Utku Can, Paper: [http://arxiv.org/abs/2212.09197v1](http://arxiv.org/abs/2212.09197v1)
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 

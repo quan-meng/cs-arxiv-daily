@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.20
+## Updated on 2022.12.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@ layout: default
 |**2022-12-19**|**Correspondence Distillation from NeRF-based GAN**|Yushi Lan et.al.|Bo Dai|[2212.09735v1](http://arxiv.org/abs/2212.09735v1)|    |
 |**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|P. J. Narayanan|[2212.09330v1](http://arxiv.org/abs/2212.09330v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -50,7 +50,7 @@ layout: default
 |**2022-12-19**|**Measurement of medium-induced modification of jet yield and acoplanarity using semi-inclusive $γ_{\text{dir}}$+jet and $π^{0}$+jet distributions in $p$+$p$ and central Au+Au collisions at $\sqrt{s_{NN}} = 200$ GeV by STAR**|Derek Anderson et.al.|Derek Anderson|[2212.09202v1](http://arxiv.org/abs/2212.09202v1)|    |
 |**2022-12-19**|**Randomized Quantization for Data Agnostic Representation Learning**|Huimin Wu et.al.|Zhirong Wu|[2212.08663v1](http://arxiv.org/abs/2212.08663v1)|**[code](https://github.com/microsoft/random_quantize)**|
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 
 ## Generative Models
 
@@ -64,7 +64,7 @@ layout: default
 |**2022-12-19**|**Synthetic Data Augmentation Using GAN For Improved Automated Visual Inspection**|Jože M. Rožanec et.al.|Dunja Mladenić|[2212.09317v1](http://arxiv.org/abs/2212.09317v1)|    |
 |**2022-12-19**|**Photo-Realistic Out-of-domain GAN inversion via Invertibility Decomposition**|Xin Yang et.al.|Yingcong Chen|[2212.09262v1](http://arxiv.org/abs/2212.09262v1)|**[code](https://github.com/AbnerVictor/OOD-GAN-inversion)**|
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -72,7 +72,7 @@ layout: default
 |:---------|:-----------------------|:---------|:---------|:------|:------|
 |**2022-12-19**|**HARP: Personalized Hand Reconstruction from a Monocular RGB Video**|Korrawe Karunratanakul et.al.|Siyu Tang|[2212.09530v1](http://arxiv.org/abs/2212.09530v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -92,7 +92,7 @@ layout: default
 |**2022-12-19**|**Differential geometry of space curves: forgotten chapters**|Dmitry Fuchs et.al.|Serge Tabachnikov|[2212.09716v1](http://arxiv.org/abs/2212.09716v1)|    |
 |**2022-12-19**|**Discrete geodesic local time converges under KPZ scaling**|Shirshendu Ganguly et.al.|Lingfu Zhang|[2212.09707v1](http://arxiv.org/abs/2212.09707v1)|    |
 |**2022-12-19**|**Rate-Privacy-Storage Tradeoff in Federated Learning with Top $r$ Sparsification**|Sajani Vithana et.al.|Sennur Ulukus|[2212.09704v1](http://arxiv.org/abs/2212.09704v1)|    |
-|**2022-12-19**|**Graph-based Semantical Extractive Text Analysis**|Mina Samizadeh et.al.|Mina Samizadeh|[2212.09701v1](http://arxiv.org/abs/2212.09701v1)|    |
+|**2022-12-19**|**Graph-based Semantical Extractive Text Analysis**|Mina Samizadeh et.al.|Mina Samizadeh|[2212.09701v1](http://arxiv.org/abs/2212.09701v1)|**[code](https://github.com/minasmz/persian-summarization)**|
 |**2022-12-19**|**SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations**|Ioannis Tsiamas et.al.|Marta R. Costa-jussà|[2212.09699v1](http://arxiv.org/abs/2212.09699v1)|    |
 |**2022-12-19**|**Nodal-antinodal dichotomy from anisotropic quantum critical continua in holographic models**|Ronnie Rodgers et.al.|Alexander Krikun|[2212.09694v1](http://arxiv.org/abs/2212.09694v1)|    |
 |**2022-12-19**|**Non-perturbative intertwining between spin and charge correlations: A "smoking gun" single-boson-exchange result**|Severino Adler et.al.|Alessandro Toschi|[2212.09693v1](http://arxiv.org/abs/2212.09693v1)|    |
@@ -213,5 +213,5 @@ layout: default
 |**2022-12-19**|**A local gap theorem for Ricci shrinkers**|Pak-Yeung Chan et.al.|Yongjia Zhang|[2212.09203v1](http://arxiv.org/abs/2212.09203v1)|    |
 |**2022-12-19**|**The Compton amplitude and nucleon structure functions**|K. Utku Can et.al.|K. Utku Can|[2212.09197v1](http://arxiv.org/abs/2212.09197v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
 
