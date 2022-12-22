@@ -1,4 +1,4 @@
-> Updated on 2022.12.21
+> Updated on 2022.12.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2022-12-20, **Correspondence Distillation from NeRF-based GAN**, Yushi Lan et.al., Lab: Bo Dai, Paper: [http://arxiv.org/abs/2212.09735v2](http://arxiv.org/abs/2212.09735v2)
 
-<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221222>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -44,7 +44,7 @@
 - 2022-12-20, **MM-3DScene: 3D Scene Understanding by Customizing Masked Modeling with Informative-Preserved Reconstruction and Self-Distilled Consistency**, Mingye Xu et.al., Lab: Yu Qiao, Paper: [http://arxiv.org/abs/2212.09948v1](http://arxiv.org/abs/2212.09948v1)
 - 2022-12-20, **Validation of the Quantum Physics Processes Underlying the Integrated Optimization of Proton FLASH Radiotherapy**, Nathan Harrison et.al., Lab: Liyong Lin, Paper: [http://arxiv.org/abs/2212.09936v1](http://arxiv.org/abs/2212.09936v1)
 
-<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221222>back to top</a>)</p>
 
 ## Generative Models
 
@@ -59,13 +59,13 @@
 - 2022-12-20, **Texture Representation via Analysis and Synthesis with Generative Adversarial Networks**, Jue Lin et.al., Lab: Thrasyvoulos N. Pappas, Paper: [http://arxiv.org/abs/2212.09983v1](http://arxiv.org/abs/2212.09983v1)
 - 2022-12-20, **Conditioned Generative Transformers for Histopathology Image Synthetic Augmentation**, Meng Li et.al., Lab: Brian Lovell, Paper: [http://arxiv.org/abs/2212.09977v1](http://arxiv.org/abs/2212.09977v1)
 
-<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221222>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2022-12-19, **HARP: Personalized Hand Reconstruction from a Monocular RGB Video**, Korrawe Karunratanakul et.al., Lab: Siyu Tang, Paper: [http://arxiv.org/abs/2212.09530v1](http://arxiv.org/abs/2212.09530v1)
 
-<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221222>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -201,5 +201,5 @@
 - 2022-12-20, **The Role of RNA Condensation in Reducing Gene Expression Noise**, Alex Mayer et.al., Lab: Marcus Roper, Paper: [http://arxiv.org/abs/2212.09923v1](http://arxiv.org/abs/2212.09923v1)
 - 2022-12-20, **Normalized Stochastic Gradient Descent Training of Deep Neural Networks**, Salih Atici et.al., Lab: Ahmet Enis Cetin, Paper: [http://arxiv.org/abs/2212.09921v1](http://arxiv.org/abs/2212.09921v1)
 
-<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221222>back to top</a>)</p>
 
