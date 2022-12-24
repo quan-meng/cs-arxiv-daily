@@ -1,4 +1,4 @@
-## Updated on 2022.12.23
+## Updated on 2022.12.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 |---|---|---|---|---|---|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|Sara Vicente|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221224>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -53,7 +53,7 @@
 |**2022-12-22**|**Transient chirp reconstruction of electron beam via tightly focused chirped laser pulse**|Zhijun Zhang et.al.|Yan Lv|[2212.11496v1](http://arxiv.org/abs/2212.11496v1)|    |
 |**2022-12-22**|**IPProtect: protecting the intellectual property of visual datasets during data valuation**|Gursimran Singh et.al.|Yong Zhang|[2212.11468v1](http://arxiv.org/abs/2212.11468v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221224>back to top</a>)</p>
 
 ## Generative Models
 
@@ -71,7 +71,7 @@
 |**2022-12-22**|**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|Mike Zheng Shou|[2212.11565v1](http://arxiv.org/abs/2212.11565v1)|    |
 |**2022-12-22**|**Supervised Anomaly Detection Method Combining Generative Adversarial Networks and Three-Dimensional Data in Vehicle Inspections**|Yohei Baba et.al.|Gaurang Gavai|[2212.11507v1](http://arxiv.org/abs/2212.11507v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221224>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -79,7 +79,7 @@
 |---|---|---|---|---|---|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|Sara Vicente|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221224>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -218,5 +218,5 @@
 |**2022-12-22**|**Near-infrared spectroscopy of a massive young stellar object in the direction toward the Galactic Center: XCN and aromatic C-D features**|Takashi Onaka et.al.|Takashi Shimonishi|[2212.11424v1](http://arxiv.org/abs/2212.11424v1)|    |
 |**2022-12-22**|**Deformation cone of Tesler polytopes**|Yonggyu Lee et.al.|Fu Liu|[2212.11423v1](http://arxiv.org/abs/2212.11423v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221224>back to top</a>)</p>
 
