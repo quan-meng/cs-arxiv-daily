@@ -1,4 +1,4 @@
-## Updated on 2022.12.26
+## Updated on 2022.12.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 |---|---|---|---|---|---|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|Sara Vicente|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -47,7 +47,7 @@
 |**2022-12-23**|**A construction of Maximally Recoverable LRCs for small number of local groups**|Manik Dhar et.al.|Sivakanth Gopi|[2212.12123v1](http://arxiv.org/abs/2212.12123v1)|    |
 |**2022-12-23**|**Security and Interpretability in Automotive Systems**|Shailja Thakur et.al.|Shailja Thakur|[2212.12101v1](http://arxiv.org/abs/2212.12101v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
 
 ## Generative Models
 
@@ -65,7 +65,7 @@
 |**2022-12-22**|**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|Mike Zheng Shou|[2212.11565v1](http://arxiv.org/abs/2212.11565v1)|    |
 |**2022-12-22**|**Supervised Anomaly Detection Method Combining Generative Adversarial Networks and Three-Dimensional Data in Vehicle Inspections**|Yohei Baba et.al.|Gaurang Gavai|[2212.11507v1](http://arxiv.org/abs/2212.11507v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -73,7 +73,7 @@
 |---|---|---|---|---|---|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|Sara Vicente|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -172,5 +172,5 @@
 |**2022-12-23**|**Tracking the evolution of satellite galaxies: mass stripping and dark-matter deficient galaxies**|Antonio D. Montero-Dorta et.al.|Jonas Chaves-Montero|[2212.12090v1](http://arxiv.org/abs/2212.12090v1)|    |
 |**2022-12-23**|**Diffusive fluctuations of long-range symmetric exclusion with a slow barrier**|Pedro Cardoso et.al.|Byron JimÉnez-Oviedo|[2212.12089v1](http://arxiv.org/abs/2212.12089v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
 
