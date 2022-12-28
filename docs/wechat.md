@@ -1,4 +1,4 @@
-> Updated on 2022.12.27
+> Updated on 2022.12.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2022-12-26, **MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**, Fengrui Tian et.al., Lab: Yueqi Duan, Paper: [http://arxiv.org/abs/2212.13056v1](http://arxiv.org/abs/2212.13056v1)
 
-<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221228>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -31,19 +31,19 @@
 - 2022-12-26, **Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models**, Zijian Zhang et.al., Lab: Zhijie Lin, Paper: [http://arxiv.org/abs/2212.12990v1](http://arxiv.org/abs/2212.12990v1)
 - 2022-12-26, **Application of Unsupervised Domain Adaptation for Structural MRI Analysis**, Pranath Reddy et.al., Lab: Pranath Reddy, Paper: [http://arxiv.org/abs/2212.12986v1](http://arxiv.org/abs/2212.12986v1)
 
-<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221228>back to top</a>)</p>
 
 ## Generative Models
 
 - 2022-12-26, **Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**, Weizhi Du et.al., Lab: Harvery Tian, Paper: [http://arxiv.org/abs/2212.13068v1](http://arxiv.org/abs/2212.13068v1)
 
-<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221228>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2022-12-22, **Removing Objects From Neural Radiance Fields**, Silvan Weder et.al., Lab: Sara Vicente, Paper: [http://arxiv.org/abs/2212.11966v1](http://arxiv.org/abs/2212.11966v1)
 
-<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221228>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -108,5 +108,5 @@
 - 2022-12-26, **Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models**, Zijian Zhang et.al., Lab: Zhijie Lin, Paper: [http://arxiv.org/abs/2212.12990v1](http://arxiv.org/abs/2212.12990v1)
 - 2022-12-26, **Application of Unsupervised Domain Adaptation for Structural MRI Analysis**, Pranath Reddy et.al., Lab: Pranath Reddy, Paper: [http://arxiv.org/abs/2212.12986v1](http://arxiv.org/abs/2212.12986v1)
 
-<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221228>back to top</a>)</p>
 
