@@ -1,4 +1,4 @@
-## Updated on 2022.12.30
+## Updated on 2022.12.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 |---|---|---|---|---|---|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|Yueqi Duan|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221230>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221231>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -40,7 +40,7 @@
 |**2022-12-28**|**Sharp depletion of radial distribution function of particles due to collision and coagulation inside turbulent flow**|Xiaohui Meng et.al.|Ewe-Wei Saw|[2212.13665v1](http://arxiv.org/abs/2212.13665v1)|    |
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|Serena Yeung|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221230>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221231>back to top</a>)</p>
 
 ## Generative Models
 
@@ -54,7 +54,7 @@
 |**2022-12-28**|**Exploring Vision Transformers as Diffusion Learners**|He Cao et.al.|Lei Zhang|[2212.13771v1](http://arxiv.org/abs/2212.13771v1)|    |
 |**2022-12-28**|**Distribution Estimation of Contaminated Data via DNN-based MoM-GANs**|Fang Xie et.al.|Huiming Zhang|[2212.13741v1](http://arxiv.org/abs/2212.13741v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221230>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221231>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -62,7 +62,7 @@
 |---|---|---|---|---|---|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|Sara Vicente|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221230>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221231>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -156,5 +156,5 @@
 |**2022-12-28**|**On the Finkelberg-Ginzburg Mirabolic Monodromy Conjecture**|Valerio Toledano-Laredo et.al.|Robin Walters|[2212.13648v1](http://arxiv.org/abs/2212.13648v1)|    |
 |**2022-12-28**|**Does Big Data Require Complex Systems? A Performance Comparison Between Spark and Unicage Shell Scripts**|Duarte M. Nascimento et.al.|Miguel L. Pardal|[2212.13647v1](http://arxiv.org/abs/2212.13647v1)|    |
 
-<p align=right>(<a href=#Updated-on-20221230>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221231>back to top</a>)</p>
 
