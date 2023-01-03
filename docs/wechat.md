@@ -1,4 +1,4 @@
-> Updated on 2023.01.02
+> Updated on 2023.01.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2022-12-30, **SE(3)-Equivariant Reconstruction from Light Field**, Yinshuang Xu et.al., Lab: Kostas Daniilidis, Paper: [http://arxiv.org/abs/2212.14871v1](http://arxiv.org/abs/2212.14871v1)
 - 2022-12-30, **NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**, Pengwei Yin et.al., Lab: Shiliang Pu, Paper: [http://arxiv.org/abs/2212.14710v1](http://arxiv.org/abs/2212.14710v1)
 
-<p align=right>(<a href=#Updated-on-20230102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -38,7 +38,7 @@
 - 2022-12-30, **Improving Visual Representation Learning through Perceptual Understanding**, Samyakh Tukra et.al., Lab: Ken Chatfield, Paper: [http://arxiv.org/abs/2212.14504v1](http://arxiv.org/abs/2212.14504v1)
 - 2022-12-30, **Growth of 2D topological material Bi on InSb(111)B with fractal surface structures**, Yoshiyuki Ohtsubo et.al., Lab: Shin-ichi Kimura, Paper: [http://arxiv.org/abs/2212.14493v1](http://arxiv.org/abs/2212.14493v1)
 
-<p align=right>(<a href=#Updated-on-20230102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
 
 ## Generative Models
 
@@ -46,13 +46,13 @@
 - 2022-12-30, **Non-existence of quantum black hole horizons in the improved dynamics approach**, Wen-Cong Gan et.al., Lab: Bin Wang, Paper: [http://arxiv.org/abs/2212.14535v1](http://arxiv.org/abs/2212.14535v1)
 - 2022-12-30, **ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech**, Zehua Chen et.al., Lab: Danilo Mandic, Paper: [http://arxiv.org/abs/2212.14518v1](http://arxiv.org/abs/2212.14518v1)
 
-<p align=right>(<a href=#Updated-on-20230102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2022-12-30, **NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-wise Modeling**, Shishira R Maiya et.al., Lab: Abhinav Shrivastava, Paper: [http://arxiv.org/abs/2212.14593v1](http://arxiv.org/abs/2212.14593v1)
 
-<p align=right>(<a href=#Updated-on-20230102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -136,5 +136,5 @@
 - 2022-12-30, **Multi-modal deep learning system for depression and anxiety detection**, Brian Diep et.al., Lab: Jekaterina Novikova, Paper: [http://arxiv.org/abs/2212.14490v1](http://arxiv.org/abs/2212.14490v1)
 - 2022-12-30, **Power Control for 6G Industrial Wireless Subnetworks: A Graph Neural Network Approach**, Daniel Abode et.al., Lab: Gilberto Berardinelli, Paper: [http://arxiv.org/abs/2212.14051v1](http://arxiv.org/abs/2212.14051v1), Code: **[https://github.com/danieloaAAU/Power_Control_GNN](https://github.com/danieloaAAU/Power_Control_GNN)**
 
-<p align=right>(<a href=#Updated-on-20230102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
 
