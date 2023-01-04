@@ -1,4 +1,4 @@
-## Updated on 2023.01.03
+## Updated on 2023.01.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 |---|---|---|---|---|---|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|Guan Huang|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[code](https://github.com/luciferbobo/d4nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -42,7 +42,7 @@
 |**2023-01-02**|**Heterogeneous Graph Neural Network for Identifying Hadronically Decayed Tau Leptons at the High Luminosity LHC**|Andris Huang et.al.|Landon Reed|[2301.00501v1](http://arxiv.org/abs/2301.00501v1)|    |
 |**2023-01-02**|**Argoverse 2: Next Generation Datasets for Self-Driving Perception and Forecasting**|Benjamin Wilson et.al.|James Hays|[2301.00493v1](http://arxiv.org/abs/2301.00493v1)|**[code](https://github.com/argoverse/av2-api)**|
 
-<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
 
 ## Generative Models
 
@@ -53,7 +53,7 @@
 |**2023-01-02**|**Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data**|Jumin Lee et.al.|Sung-Eui Yoon|[2301.00527v1](http://arxiv.org/abs/2301.00527v1)|**[code](https://github.com/zoomin-lee/scene-scale-diffusion)**|
 |**2023-01-02**|**Spectral Bandwidth Recovery of Optical Coherence Tomography Images using Deep Learning**|Timothy T. Yu et.al.|Marinko V. Sarunic|[2301.00504v1](http://arxiv.org/abs/2301.00504v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -61,7 +61,7 @@
 |---|---|---|---|---|---|
 |**2023-01-02**|**SIRL: Similarity-based Implicit Representation Learning**|Andreea Bobu et.al.|Anca D. Dragan|[2301.00810v1](http://arxiv.org/abs/2301.00810v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -138,5 +138,5 @@
 |**2023-01-02**|**Adaptive Fine-tuning for Multiclass Classification over Software Requirement Data**|Savas Yildirim et.al.|Ayse Basar|[2301.00495v1](http://arxiv.org/abs/2301.00495v1)|    |
 |**2023-01-02**|**Argoverse 2: Next Generation Datasets for Self-Driving Perception and Forecasting**|Benjamin Wilson et.al.|James Hays|[2301.00493v1](http://arxiv.org/abs/2301.00493v1)|**[code](https://github.com/argoverse/av2-api)**|
 
-<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
 
