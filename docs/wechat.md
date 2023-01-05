@@ -1,4 +1,4 @@
-> Updated on 2023.01.04
+> Updated on 2023.01.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2023-01-03, **Neural Point Catacaustics for Novel-View Synthesis of Reflections**, Georgios Kopanas et.al., Lab: George Drettakis, Paper: [http://arxiv.org/abs/2301.01087v1](http://arxiv.org/abs/2301.01087v1)
 - 2023-01-03, **Class-Continuous Conditional Generative Neural Radiance Field**, Jiwook Kim et.al., Lab: Minhyeok Lee, Paper: [http://arxiv.org/abs/2301.00950v1](http://arxiv.org/abs/2301.00950v1)
 
-<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230105>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -38,7 +38,7 @@
 - 2023-01-03, **Surveillance Face Anti-spoofing**, Hao Fang et.al., Lab: Zhen Lei, Paper: [http://arxiv.org/abs/2301.00975v1](http://arxiv.org/abs/2301.00975v1)
 - 2023-01-03, **Class-Continuous Conditional Generative Neural Radiance Field**, Jiwook Kim et.al., Lab: Minhyeok Lee, Paper: [http://arxiv.org/abs/2301.00950v1](http://arxiv.org/abs/2301.00950v1)
 
-<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230105>back to top</a>)</p>
 
 ## Generative Models
 
@@ -48,13 +48,13 @@
 - 2023-01-03, **Data Augmentation and Classification of Sea-Land Clutter for Over-the-Horizon Radar Using AC-VAEGAN**, Xiaoxuan Zhang et.al., Lab: Quan Pan, Paper: [http://arxiv.org/abs/2301.00947v1](http://arxiv.org/abs/2301.00947v1)
 - 2023-01-03, **Exploring Complex Dynamical Systems via Nonconvex Optimization**, Hunter Elliott et.al., Lab: Hunter Elliott, Paper: [http://arxiv.org/abs/2301.00923v1](http://arxiv.org/abs/2301.00923v1), Code: **[https://github.com/hunterelliott/dense-rdn](https://github.com/hunterelliott/dense-rdn)**
 
-<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230105>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-03, **SIRL: Similarity-based Implicit Representation Learning**, Andreea Bobu et.al., Lab: Anca D. Dragan, Paper: [http://arxiv.org/abs/2301.00810v2](http://arxiv.org/abs/2301.00810v2)
 
-<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230105>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -163,5 +163,5 @@
 - 2023-01-03, **Modularity of counting functions of convex planar polygons with rationality conditions**, Kathrin Bringmann et.al., Lab: Jie Zhou, Paper: [http://arxiv.org/abs/2301.00902v1](http://arxiv.org/abs/2301.00902v1)
 - 2023-01-03, **Hyperuniform disordered parametric loudspeaker array**, Kun Tang et.al., Lab: Junhui Shi, Paper: [http://arxiv.org/abs/2301.00833v1](http://arxiv.org/abs/2301.00833v1)
 
-<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230105>back to top</a>)</p>
 
