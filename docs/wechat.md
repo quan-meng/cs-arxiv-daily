@@ -52,7 +52,7 @@
 
 ## Scene Representation
 
-- 2023-01-05, **HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**, Benjamin Attal et.al., Lab: Changil Kim, Paper: [http://arxiv.org/abs/2301.02238v1](http://arxiv.org/abs/2301.02238v1)
+- 2023-01-05, **HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**, Benjamin Attal et.al., Lab: Changil Kim, Paper: [http://arxiv.org/abs/2301.02238v1](http://arxiv.org/abs/2301.02238v1), Code: **[https://github.com/facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel)**
 
 <p align=right>(<a href=#Updated-on-20230107>back to top</a>)</p>
 
@@ -65,7 +65,7 @@
 - 2023-01-05, **MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**, Chaoyi Wu et.al., Lab: Weidi Xie, Paper: [http://arxiv.org/abs/2301.02228v1](http://arxiv.org/abs/2301.02228v1)
 - 2023-01-05, **Logarithm Corrections and Thermodynamics for Horndeski gravity like Black Holes**, Riasat Ali et.al., Lab: Xia Tiecheng, Paper: [http://arxiv.org/abs/2301.02216v1](http://arxiv.org/abs/2301.02216v1)
 - 2023-01-05, **On $1/2$ estimate for global Newlander-Nirenberg theorem**, Ziming Shi et.al., Lab: Ziming Shi, Paper: [http://arxiv.org/abs/2301.02215v1](http://arxiv.org/abs/2301.02215v1)
-- 2023-01-05, **Automatic Sound Event Detection and Classification of Great Ape Calls Using Neural Networks**, Zifan Jiang et.al., Lab: Steven Moran, Paper: [http://arxiv.org/abs/2301.02214v1](http://arxiv.org/abs/2301.02214v1)
+- 2023-01-05, **Automatic Sound Event Detection and Classification of Great Ape Calls Using Neural Networks**, Zifan Jiang et.al., Lab: Steven Moran, Paper: [http://arxiv.org/abs/2301.02214v1](http://arxiv.org/abs/2301.02214v1), Code: **[https://github.com/j22melody/sed_great_ape](https://github.com/j22melody/sed_great_ape)**
 - 2023-01-05, **Quillen stratification in equivariant homotopy theory**, Tobias Barthel et.al., Lab: Luca Pol, Paper: [http://arxiv.org/abs/2301.02212v1](http://arxiv.org/abs/2301.02212v1)
 - 2023-01-05, **On the Equality of Test Ideals**, Ian Aberbach et.al., Lab: Thomas Polstra, Paper: [http://arxiv.org/abs/2301.02202v1](http://arxiv.org/abs/2301.02202v1)
 - 2023-01-05, **Builtin Types viewed as Inductive Families**, Guillaume Allais et.al., Lab: Guillaume Allais, Paper: [http://arxiv.org/abs/2301.02194v1](http://arxiv.org/abs/2301.02194v1)
@@ -84,7 +84,7 @@
 - 2023-01-05, **HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age**, John Banovetz et.al., Lab: Jon A. Morse, Paper: [http://arxiv.org/abs/2301.02128v1](http://arxiv.org/abs/2301.02128v1)
 - 2023-01-05, **Origin of Multifractality in Solar Wind Turbulence: the Role of Current Sheets**, Leonardo F. Gomes et.al., Lab: Silvio Gama, Paper: [http://arxiv.org/abs/2301.02118v1](http://arxiv.org/abs/2301.02118v1)
 - 2023-01-05, **Evidence of coherence in strong-field electron photoemission from a semiconductor**, Marie Froidevaux et.al., Lab: Hamed Merdji1, Paper: [http://arxiv.org/abs/2301.02115v1](http://arxiv.org/abs/2301.02115v1)
-- 2023-01-05, **Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers**, Chengyi Wang et.al., Lab: Furu Wei, Paper: [http://arxiv.org/abs/2301.02111v1](http://arxiv.org/abs/2301.02111v1)
+- 2023-01-05, **Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers**, Chengyi Wang et.al., Lab: Furu Wei, Paper: [http://arxiv.org/abs/2301.02111v1](http://arxiv.org/abs/2301.02111v1), Code: **[https://github.com/microsoft/unilm](https://github.com/microsoft/unilm)**
 - 2023-01-05, **FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion**, Martin Pernuš et.al., Lab: Simon Dobrišek, Paper: [http://arxiv.org/abs/2301.02110v1](http://arxiv.org/abs/2301.02110v1), Code: **[https://github.com/martinpernus/fice](https://github.com/martinpernus/fice)**
 - 2023-01-05, **Control of magnetic response in curved stripes by tailoring cross-section**, Kostiantyn V. Yershov et.al., Lab: Denis D. Sheka, Paper: [http://arxiv.org/abs/2301.02096v1](http://arxiv.org/abs/2301.02096v1)
 - 2023-01-05, **A MUSCL-like finite volumes approximation of the momentum convection operator for low-order nonconforming face-centred discretizations**, Aubin Brunel et.al., Lab: Jean-Claude Latché, Paper: [http://arxiv.org/abs/2301.02087v1](http://arxiv.org/abs/2301.02087v1)
