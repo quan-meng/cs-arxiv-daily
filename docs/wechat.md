@@ -1,4 +1,4 @@
-> Updated on 2023.01.07
+> Updated on 2023.01.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2023-01-04, **Towards a Pipeline for Real-Time Visualization of Faces for VR-based Telepresence and Live Broadcasting Utilizing Neural Rendering**, Philipp Ladwig et.al., Lab: Christian Geiger, Paper: [http://arxiv.org/abs/2301.01490v1](http://arxiv.org/abs/2301.01490v1), Code: **[https://github.com/mirevi/face-synthesizer-jvrb](https://github.com/mirevi/face-synthesizer-jvrb)**
 
-<p align=right>(<a href=#Updated-on-20230107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230108>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -41,20 +41,20 @@
 - 2023-01-05, **TAC+: Drastically Optimizing Error-Bounded Lossy Compression for 3D AMR Simulations**, Daoce Wang et.al., Lab: Dingwen Tao, Paper: [http://arxiv.org/abs/2301.01901v1](http://arxiv.org/abs/2301.01901v1)
 - 2023-01-05, **Nanoparticles Passive Targeting Allows Optical Imaging of Bone Diseases**, Chao Mi et.al., Lab: Dayong Jin, Paper: [http://arxiv.org/abs/2301.01896v1](http://arxiv.org/abs/2301.01896v1)
 
-<p align=right>(<a href=#Updated-on-20230107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230108>back to top</a>)</p>
 
 ## Generative Models
 
 - 2023-01-05, **Mapping confinement potentials and charge densities of interacting quantum systems using pix2pix**, Calin-Andrei Pantis-Simut et.al., Lab: George Alexandru Nemnes, Paper: [http://arxiv.org/abs/2301.02122v1](http://arxiv.org/abs/2301.02122v1)
 - 2023-01-05, **FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion**, Martin Pernuš et.al., Lab: Simon Dobrišek, Paper: [http://arxiv.org/abs/2301.02110v1](http://arxiv.org/abs/2301.02110v1), Code: **[https://github.com/martinpernus/fice](https://github.com/martinpernus/fice)**
 
-<p align=right>(<a href=#Updated-on-20230107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230108>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-05, **HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**, Benjamin Attal et.al., Lab: Changil Kim, Paper: [http://arxiv.org/abs/2301.02238v1](http://arxiv.org/abs/2301.02238v1), Code: **[https://github.com/facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel)**
 
-<p align=right>(<a href=#Updated-on-20230107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230108>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -151,5 +151,5 @@
 - 2023-01-05, **Weak Deflection Angle, Hawking Radiation and Greybody Bound of Reissner-Nordström Black Hole Corrected by Bounce Parameter**, Wajiha Javed et.al., Lab: Ali Övgün, Paper: [http://arxiv.org/abs/2301.01855v1](http://arxiv.org/abs/2301.01855v1)
 - 2023-01-05, **The political ideology of conversational AI: Converging evidence on ChatGPT's pro-environmental, left-libertarian orientation**, Jochen Hartmann et.al., Lab: Maximilian Witte, Paper: [http://arxiv.org/abs/2301.01768v1](http://arxiv.org/abs/2301.01768v1)
 
-<p align=right>(<a href=#Updated-on-20230107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230108>back to top</a>)</p>
 
