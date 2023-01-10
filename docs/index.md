@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.01.09
+## Updated on 2023.01.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@ layout: default
 |:---------|:-----------------------|:---------|:---------|:------|:------|
 |**2023-01-04**|**Towards a Pipeline for Real-Time Visualization of Faces for VR-based Telepresence and Live Broadcasting Utilizing Neural Rendering**|Philipp Ladwig et.al.|Christian Geiger|[2301.01490v1](http://arxiv.org/abs/2301.01490v1)|**[code](https://github.com/mirevi/face-synthesizer-jvrb)**|
 
-<p align=right>(<a href=#Updated-on-20230109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -55,7 +55,7 @@ layout: default
 |**2023-01-06**|**Object as Query: Equipping Any 2D Object Detector with 3D Detection Ability**|Zitian Wang et.al.|Si Liu|[2301.02364v1](http://arxiv.org/abs/2301.02364v1)|    |
 |**2023-01-06**|**Recovering source location, polarization, and shape of obstacle from elastic scattering data**|Yan Chang et.al.|Deyue Zhang|[2301.02355v1](http://arxiv.org/abs/2301.02355v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
 
 ## Generative Models
 
@@ -65,7 +65,7 @@ layout: default
 |**2023-01-06**|**Analysis of a spatio-temporal advection-diffusion model for human behaviors during a catastrophic event**|K. Khalil et.al.|D. Provitolo|[2301.02520v1](http://arxiv.org/abs/2301.02520v1)|    |
 |**2023-01-06**|**Algorithm Unrolling-Based Distributed Optimization for RIS-Assisted Cell-Free Networks**|Wangyang Xu et.al.|Chau Yuen|[2301.02360v1](http://arxiv.org/abs/2301.02360v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -73,7 +73,7 @@ layout: default
 |:---------|:-----------------------|:---------|:---------|:------|:------|
 |**2023-01-05**|**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**|Benjamin Attal et.al.|Changil Kim|[2301.02238v1](http://arxiv.org/abs/2301.02238v1)|**[code](https://github.com/facebookresearch/hyperreel)**|
 
-<p align=right>(<a href=#Updated-on-20230109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -163,5 +163,5 @@ layout: default
 |**2023-01-06**|**A SIR Stochastic Epidemic Model in Continuous Space: Law of Large Numbers and Central Limit Theorem**|Alphonse Emakoua et.al.|Alphonse Emakoua|[2301.02343v1](http://arxiv.org/abs/2301.02343v1)|    |
 |**2023-01-06**|**A survey on Organoid Image Analysis Platforms**|Alireza Ranjbaran et.al.|Azadeh Nazemi|[2301.02341v1](http://arxiv.org/abs/2301.02341v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
 
