@@ -1,4 +1,4 @@
-> Updated on 2023.01.10
+> Updated on 2023.01.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2023-01-08, **Towards Open World NeRF-Based SLAM**, Daniil Lisus et.al., Lab: Connor Holmes, Paper: [http://arxiv.org/abs/2301.03102v1](http://arxiv.org/abs/2301.03102v1)
 - 2023-01-08, **Traditional Readability Formulas Compared for English**, Bruce W. Lee et.al., Lab: Jason Hyung-Jong Lee, Paper: [http://arxiv.org/abs/2301.02975v1](http://arxiv.org/abs/2301.02975v1)
 
-<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -45,7 +45,7 @@
 - 2023-01-09, **3D Diffusion MRI Using Simultaneous Multi-slab with Blipped-CAIPI (Blipped-SMSlab) in a 4D K-space Framework**, Simin Liu et.al., Lab: Hua Guo, Paper: [http://arxiv.org/abs/2301.03153v1](http://arxiv.org/abs/2301.03153v1)
 - 2023-01-09, **Locomotion-Action-Manipulation: Synthesizing Human-Scene Interactions in Complex 3D Environments**, Jiye Lee et.al., Lab: Hanbyul Joo, Paper: [http://arxiv.org/abs/2301.02667v1](http://arxiv.org/abs/2301.02667v1)
 
-<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
 
 ## Generative Models
 
@@ -53,13 +53,13 @@
 - 2023-01-09, **Enabling AI-Generated Content (AIGC) Services in Wireless Edge Networks**, Hongyang Du et.al., Lab: Dong In Kim, Paper: [http://arxiv.org/abs/2301.03220v1](http://arxiv.org/abs/2301.03220v1)
 - 2023-01-09, **Combinatorial Fock spaces and quantum symmetric pairs**, Michael Ehrig et.al., Lab: Kaixuan Gan, Paper: [http://arxiv.org/abs/2301.03181v1](http://arxiv.org/abs/2301.03181v1)
 
-<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-05, **HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**, Benjamin Attal et.al., Lab: Changil Kim, Paper: [http://arxiv.org/abs/2301.02238v1](http://arxiv.org/abs/2301.02238v1), Code: **[https://github.com/facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel)**
 
-<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -176,5 +176,5 @@
 - 2023-01-09, **Positivity-preserving entropy filtering for the ideal magnetohydrodynamics equations**, Tarik Dzanic et.al., Lab: Freddie D. Witherden, Paper: [http://arxiv.org/abs/2301.03129v1](http://arxiv.org/abs/2301.03129v1)
 - 2023-01-09, **Lax colimits of posets with structure sheaves: applications to descent**, J. Sánchez González et.al., Lab: J. Sánchez González, Paper: [http://arxiv.org/abs/2301.03123v1](http://arxiv.org/abs/2301.03123v1)
 
-<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
 
