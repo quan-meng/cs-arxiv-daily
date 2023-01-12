@@ -1,4 +1,4 @@
-## Updated on 2023.01.11
+## Updated on 2023.01.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 |**2023-01-10**|**Neural Radiance Field Codebooks**|Matthew Wallingford et.al.|Ali Farhadi|[2301.04101v1](http://arxiv.org/abs/2301.04101v1)|    |
 |**2023-01-10**|**Benchmarking Robustness in Neural Radiance Fields**|Chen Wang et.al.|Cihang Xie|[2301.04075v1](http://arxiv.org/abs/2301.04075v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -43,7 +43,7 @@
 |**2023-01-10**|**UnifySpeech: A Unified Framework for Zero-shot Text-to-Speech and Voice Conversion**|Haogeng Liu et.al.|Jianhua Tao|[2301.03801v1](http://arxiv.org/abs/2301.03801v1)|    |
 |**2023-01-10**|**Fair Recommendation by Geometric Interpretation and Analysis of Matrix Factorization**|Hao Wang et.al.|Hao Wang|[2301.03791v1](http://arxiv.org/abs/2301.03791v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
 
 ## Generative Models
 
@@ -53,7 +53,7 @@
 |**2023-01-10**|**Evaluation of variational quantum states entanglement on a quantum computer by the mean value of spin**|Kh. P. Gnatenko et.al.|Kh. P. Gnatenko|[2301.03885v1](http://arxiv.org/abs/2301.03885v1)|    |
 |**2023-01-10**|**DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis**|Shuai Shen et.al.|Jiwen Lu|[2301.03786v1](http://arxiv.org/abs/2301.03786v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -61,7 +61,7 @@
 |---|---|---|---|---|---|
 |**2023-01-05**|**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**|Benjamin Attal et.al.|Changil Kim|[2301.02238v1](http://arxiv.org/abs/2301.02238v1)|**[code](https://github.com/facebookresearch/hyperreel)**|
 
-<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -172,5 +172,5 @@
 |**2023-01-10**|**Design Optimization of Noise Filter using Quantum Annealer**|Akihisa Okada et.al.|Tadashi Kadowaki|[2301.03733v1](http://arxiv.org/abs/2301.03733v1)|    |
 |**2023-01-10**|**A Schur's theorem via a monotonicity and the expansion module**|Lei Ni et.al.|Lei Ni|[2301.03732v1](http://arxiv.org/abs/2301.03732v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
 
