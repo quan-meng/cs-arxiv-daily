@@ -117,7 +117,7 @@
 |**2023-01-12**|**Study of software developers' experience using the Github Copilot Tool in the software development process**|Mateusz Jaworski et.al.|Dariusz Piotrkowski|[2301.04991v1](http://arxiv.org/abs/2301.04991v1)|    |
 |**2023-01-12**|**Hierarchical multinomial processing tree models for meta-analysis of diagnostic accuracy studies**|Annamaria Guolo et.al.|Annamaria Guolo|[2301.04985v1](http://arxiv.org/abs/2301.04985v1)|    |
 |**2023-01-12**|**Modeling the evolution of temporal knowledge graphs with uncertainty**|Soeren Nolting et.al.|Volker Tresp|[2301.04977v1](http://arxiv.org/abs/2301.04977v1)|    |
-|**2023-01-12**|**A Dataset of Kurdish (Sorani) Named Entities -- An Amendment to Kurdish-BLARK Named Entities**|Sazan Salar et.al.|Hossein Hassani|[2301.04962v1](http://arxiv.org/abs/2301.04962v1)|    |
+|**2023-01-12**|**A Dataset of Kurdish (Sorani) Named Entities -- An Amendment to Kurdish-BLARK Named Entities**|Sazan Salar et.al.|Hossein Hassani|[2301.04962v1](http://arxiv.org/abs/2301.04962v1)|**[code](https://github.com/kurdishblark/kurdishnamedentities)**|
 |**2023-01-12**|**Silicon Carbide Metasurfaces for Controlling the Spontaneous Emission of Embedded Color Centers**|Mohammed Ashahar Ahamad et.al.|Stefania Castelletto|[2301.04961v1](http://arxiv.org/abs/2301.04961v1)|    |
 |**2023-01-12**|**Exchange Bias Demonstrated in Bulk Nanocomposites Processed by High Pressure Torsion**|Michael Zawodzki et.al.|Andrea Bachmaier|[2301.04960v1](http://arxiv.org/abs/2301.04960v1)|    |
 |**2023-01-12**|**Spatial evolution of the turbulent/turbulent interface geometry in a cylinder wake**|Jiangang Chen et.al.|Oliver R. H. Buxton|[2301.04959v1](http://arxiv.org/abs/2301.04959v1)|    |
