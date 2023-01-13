@@ -1,4 +1,4 @@
-> Updated on 2023.01.12
+> Updated on 2023.01.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2023-01-10, **Neural Radiance Field Codebooks**, Matthew Wallingford et.al., Lab: Ali Farhadi, Paper: [http://arxiv.org/abs/2301.04101v1](http://arxiv.org/abs/2301.04101v1)
 - 2023-01-10, **Benchmarking Robustness in Neural Radiance Fields**, Chen Wang et.al., Lab: Cihang Xie, Paper: [http://arxiv.org/abs/2301.04075v1](http://arxiv.org/abs/2301.04075v1)
 
-<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -54,24 +54,21 @@
 - 2023-01-11, **Optothermal rotation of micro-/nano-objects in liquids**, Hongru Ding et.al., Lab: Yuebing Zheng, Paper: [http://arxiv.org/abs/2301.04297v1](http://arxiv.org/abs/2301.04297v1)
 - 2023-01-11, **3D photophoretic aircraft made from ultralight porous materials can carry kg-scale payloads in the mesosphere**, Thomas Celenza et.al., Lab: Igor Bargatin, Paper: [http://arxiv.org/abs/2301.04281v1](http://arxiv.org/abs/2301.04281v1)
 - 2023-01-11, **Bismuth antiphase domain wall: A three-dimensional manifestation of the Su-Schrieffer-Heeger model**, Jinwoong Kim et.al., Lab: Nicholas Kioussis, Paper: [http://arxiv.org/abs/2301.04278v1](http://arxiv.org/abs/2301.04278v1)
-- 2023-01-11, **Simulations of Disordered Matter in 3D with the Morphological Autoregressive Protocol (MAP): Water**, Ata Madanchi et.al., Lab: Lena Simine, Paper: [http://arxiv.org/abs/2301.04277v1](http://arxiv.org/abs/2301.04277v1)
-- 2023-01-11, **Towards Microstructural State Variables in Materials Systems**, Veera Sundararaghavan et.al., Lab: Jeff P. Simmons, Paper: [http://arxiv.org/abs/2301.04261v1](http://arxiv.org/abs/2301.04261v1)
-- 2023-01-11, **Quantum tracking control of the orientation of symmetric top molecules**, Alicia B. Magann et.al., Lab: Herschel A. Rabitz, Paper: [http://arxiv.org/abs/2301.04255v1](http://arxiv.org/abs/2301.04255v1)
 
-<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
 
 ## Generative Models
 
 - 2023-01-11, **Face Attribute Editing with Disentangled Latent Vectors**, Yusuf Dalva et.al., Lab: Ayşegül Dündar, Paper: [http://arxiv.org/abs/2301.04628v1](http://arxiv.org/abs/2301.04628v1)
 - 2023-01-11, **LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis**, Jiapeng Zhu et.al., Lab: Qifeng Chen, Paper: [http://arxiv.org/abs/2301.04604v1](http://arxiv.org/abs/2301.04604v1)
 
-<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-05, **HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**, Benjamin Attal et.al., Lab: Changil Kim, Paper: [http://arxiv.org/abs/2301.02238v1](http://arxiv.org/abs/2301.02238v1), Code: **[https://github.com/facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel)**
 
-<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -129,7 +126,7 @@
 - 2023-01-11, **Quantum sensing of electric field distributions of liquid electrolytes with NV-centers in nanodiamonds**, M. Hollendonner et.al., Lab: R. Nagy, Paper: [http://arxiv.org/abs/2301.04427v1](http://arxiv.org/abs/2301.04427v1)
 - 2023-01-11, **Ultrafast two-colour X-ray emission spectroscopy reveals excited state landscape in a base metal dyad**, Michal Nowakowski et.al., Lab: Matthias Bauer, Paper: [http://arxiv.org/abs/2301.04425v1](http://arxiv.org/abs/2301.04425v1)
 - 2023-01-11, **Riemannian Geometry and Molecular Similarity II: Kähler Quantization**, Daniel J. Cole et.al., Lab: Rachael Pirie, Paper: [http://arxiv.org/abs/2301.04424v1](http://arxiv.org/abs/2301.04424v1)
-- 2023-01-11, **Multi-Scanner Canine Cutaneous Squamous Cell Carcinoma Histopathology Dataset**, Frauke Wilm et.al., Lab: Marc Aubreville, Paper: [http://arxiv.org/abs/2301.04423v1](http://arxiv.org/abs/2301.04423v1)
+- 2023-01-11, **Multi-Scanner Canine Cutaneous Squamous Cell Carcinoma Histopathology Dataset**, Frauke Wilm et.al., Lab: Marc Aubreville, Paper: [http://arxiv.org/abs/2301.04423v1](http://arxiv.org/abs/2301.04423v1), Code: **[https://github.com/deeppathology/multiscanner_scc](https://github.com/deeppathology/multiscanner_scc)**
 - 2023-01-11, **pyssam -- a Python library for statistical modelling of biomedical shape and appearance**, Josh Williams et.al., Lab: Uwe Wolfram, Paper: [http://arxiv.org/abs/2301.04416v1](http://arxiv.org/abs/2301.04416v1)
 - 2023-01-11, **Controllable tunnelling of single flux-quanta mediated by quantum phase-slip in disordered superconducting loops**, Jamie A. Potter et.al., Lab: Paul A. Warburton, Paper: [http://arxiv.org/abs/2301.04411v1](http://arxiv.org/abs/2301.04411v1)
 - 2023-01-11, **Secure access system using signature verification over tablet PC**, Fernando Alonso-Fernandez et.al., Lab: Joaquin Gonzalez-Rodriguez, Paper: [http://arxiv.org/abs/2301.04402v1](http://arxiv.org/abs/2301.04402v1)
@@ -167,8 +164,8 @@
 - 2023-01-11, **Variational Bayes Inference for Data Detection in Cell-Free Massive MIMO**, Ly V. Nguyen et.al., Lab: Duy H. N. Nguyen, Paper: [http://arxiv.org/abs/2301.04260v1](http://arxiv.org/abs/2301.04260v1)
 - 2023-01-11, **SOAP-GPU: Efficient Spectral Modelling of Stellar Activity Using Graphical Processing Units**, Yinan Zhao et.al., Lab: Xavier Dumusque, Paper: [http://arxiv.org/abs/2301.04259v1](http://arxiv.org/abs/2301.04259v1)
 - 2023-01-11, **Quantum backreaction for overspinning BTZ geometries**, Olaf Baake et.al., Lab: Jorge Zanelli, Paper: [http://arxiv.org/abs/2301.04256v1](http://arxiv.org/abs/2301.04256v1)
-- 2023-01-11, **ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English**, Tanmay Laud et.al., Lab: Taylor Berg-Kirkpatrick, Paper: [http://arxiv.org/abs/2301.04253v1](http://arxiv.org/abs/2301.04253v1)
+- 2023-01-11, **ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English**, Tanmay Laud et.al., Lab: Taylor Berg-Kirkpatrick, Paper: [http://arxiv.org/abs/2301.04253v1](http://arxiv.org/abs/2301.04253v1), Code: **[https://github.com/climabench/climabench](https://github.com/climabench/climabench)**
 - 2023-01-11, **Application of machine learning to gas flaring**, Rong Lu et.al., Lab: Rong Lu, Paper: [http://arxiv.org/abs/2301.04141v1](http://arxiv.org/abs/2301.04141v1)
 
-<p align=right>(<a href=#Updated-on-20230112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
 
