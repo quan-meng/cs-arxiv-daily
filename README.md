@@ -1,4 +1,4 @@
-## Updated on 2023.01.13
+## Updated on 2023.01.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 |**2023-01-10**|**Neural Radiance Field Codebooks**|Matthew Wallingford et.al.|Ali Farhadi|[2301.04101v1](http://arxiv.org/abs/2301.04101v1)|    |
 |**2023-01-10**|**Benchmarking Robustness in Neural Radiance Fields**|Chen Wang et.al.|Cihang Xie|[2301.04075v1](http://arxiv.org/abs/2301.04075v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230114>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -40,7 +40,7 @@
 |**2023-01-12**|**An approximation to peak detection power using Gaussian random field theory**|Yu Zhao et.al.|Armin Schwartzman|[2301.04830v1](http://arxiv.org/abs/2301.04830v1)|    |
 |**2023-01-12**|**Self-Attention Amortized Distributional Projection Optimization for Sliced Wasserstein Point-Cloud Reconstruction**|Khai Nguyen et.al.|Nhat Ho|[2301.04791v1](http://arxiv.org/abs/2301.04791v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230114>back to top</a>)</p>
 
 ## Generative Models
 
@@ -52,7 +52,7 @@
 |**2023-01-12**|**Diffusion-based Data Augmentation for Skin Disease Classification: Impact Across Original Medical Datasets to Fully Synthetic Images**|Mohamed Akrout et.al.|István Fazekas|[2301.04802v1](http://arxiv.org/abs/2301.04802v1)|    |
 |**2023-01-12**|**Semiconductor thermal and electrical properties decoupled by localized phonon resonances**|Bryan T. Spann et.al.|Kris A. Bertness|[2301.04769v1](http://arxiv.org/abs/2301.04769v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230114>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -60,7 +60,7 @@
 |---|---|---|---|---|---|
 |**2023-01-05**|**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**|Benjamin Attal et.al.|Changil Kim|[2301.02238v1](http://arxiv.org/abs/2301.02238v1)|**[code](https://github.com/facebookresearch/hyperreel)**|
 
-<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230114>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -164,5 +164,5 @@
 |**2023-01-12**|**Quantum critical phase of FeO spans conditions of Earth's lower mantle**|Wai-Ga D. Ho et.al.|Vasilije V. Dobrosavljevic|[2301.04777v1](http://arxiv.org/abs/2301.04777v1)|    |
 |**2023-01-12**|**A Decentralized Pilot Assignment Methodology for Scalable O-RAN Cell-Free Massive MIMO**|Myeung Suk Oh et.al.|Christopher G. Brinton|[2301.04774v1](http://arxiv.org/abs/2301.04774v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230114>back to top</a>)</p>
 
