@@ -69,11 +69,11 @@
 |**2023-01-13**|**Non-Stochastic CDF Estimation Using Threshold Queries**|Princewill Okoroafor et.al.|Eleanor Goh|[2301.05682v1](http://arxiv.org/abs/2301.05682v1)|    |
 |**2023-01-13**|**Counterexamples to the double soul conjecture**|Jason DeVito et.al.|Jason DeVito|[2301.05675v1](http://arxiv.org/abs/2301.05675v1)|    |
 |**2023-01-13**|**Random Telegraph Noise based True Random Number Generator for Fully Integrated Systems**|Gilson Wirth et.al.|Roberto da Silva|[2301.05665v1](http://arxiv.org/abs/2301.05665v1)|    |
-|**2023-01-13**|**Natural Language Processing of Aviation Occurrence Reports for Safety Management**|Patrick Jonk et.al.|Evangelos Kanoulas|[2301.05663v1](http://arxiv.org/abs/2301.05663v1)|    |
+|**2023-01-13**|**Natural Language Processing of Aviation Occurrence Reports for Safety Management**|Patrick Jonk et.al.|Evangelos Kanoulas|[2301.05663v1](http://arxiv.org/abs/2301.05663v1)|**[code](https://github.com/aviationnlp/nlp_aviation_safety)**|
 |**2023-01-13**|**Motion Classification Based on Harmonic Micro-Doppler Signatures Using a Convolutional Neural Network**|Cory Hilton et.al.|Jeffrey A. Nanzer|[2301.05652v1](http://arxiv.org/abs/2301.05652v1)|    |
 |**2023-01-13**|**Filtering Down to Size: A Theory of Consideration**|Tonna Emenuga et.al.|Tonna Emenuga|[2301.05649v1](http://arxiv.org/abs/2301.05649v1)|    |
 |**2023-01-13**|**Reconfigurable Intelligent Surface Empowered Rate-Splitting Multiple Access for Simultaneous Wireless Information and Power Transfer**|Chengzhong Tian et.al.|Bruno Clerckx|[2301.05648v1](http://arxiv.org/abs/2301.05648v1)|    |
-|**2023-01-13**|**Guidelines for the use of spatially-varying coefficients in species distribution models**|Jeffrey W. Doser et.al.|Elise F. Zipkin|[2301.05645v1](http://arxiv.org/abs/2301.05645v1)|    |
+|**2023-01-13**|**Guidelines for the use of spatially-varying coefficients in species distribution models**|Jeffrey W. Doser et.al.|Elise F. Zipkin|[2301.05645v1](http://arxiv.org/abs/2301.05645v1)|**[code](https://github.com/doserjef/doser_et__2023_svc)**|
 |**2023-01-13**|**Excitation-Dependent High-Lying Excitonic Exchange via Interlayer Energy Transfer from Lower-to-Higher Bandgap 2D Material**|Arka Karmakar et.al.|Maciej R. Molas|[2301.05644v1](http://arxiv.org/abs/2301.05644v1)|    |
 |**2023-01-13**|**Split Boot -- True Network-Based Booting on Heterogeneous MPSoCs**|Marvin Fuchs et.al.|Oliver Sander|[2301.05642v1](http://arxiv.org/abs/2301.05642v1)|    |
 |**2023-01-13**|**Deep Learning Symmetries and Their Lie Groups, Algebras, and Subalgebras from First Principles**|Roy T. Forestano et.al.|Sarunas Verner|[2301.05638v1](http://arxiv.org/abs/2301.05638v1)|    |
@@ -102,7 +102,7 @@
 |**2023-01-13**|**Recognizing Unit Disk Graphs in Hyperbolic Geometry is $\exists\mathbb{R}$-Complete**|Nicholas Bieker et.al.|Paul Jungeblut|[2301.05550v1](http://arxiv.org/abs/2301.05550v1)|    |
 |**2023-01-13**|**Tangent categories as a bridge between differential geometry and algebraic geometry**|G. S. H. Cruttwell et.al.|Jean-Simon Pacaud Lemay|[2301.05542v1](http://arxiv.org/abs/2301.05542v1)|    |
 |**2023-01-13**|**Nonasymptotic error rates of the sample average approximation method to solve risk averse stochastic programs**|Volker Krätschmer et.al.|Volker Krätschmer|[2301.05539v1](http://arxiv.org/abs/2301.05539v1)|    |
-|**2023-01-13**|**PMFault: Faulting and Bricking Server CPUs through Management Interfaces**|Zitai Chen et.al.|David Oswald|[2301.05538v1](http://arxiv.org/abs/2301.05538v1)|    |
+|**2023-01-13**|**PMFault: Faulting and Bricking Server CPUs through Management Interfaces**|Zitai Chen et.al.|David Oswald|[2301.05538v1](http://arxiv.org/abs/2301.05538v1)|**[code](https://github.com/zt-chen/pmfault)**|
 |**2023-01-13**|**Almost Surely $\sqrt{T}$ Regret Bound for Adaptive LQR**|Yiwen Lu et.al.|Yilin Mo|[2301.05537v1](http://arxiv.org/abs/2301.05537v1)|    |
 |**2023-01-13**|**An Electromagnetic-Information-Theory Based Model for Efficient Characterization of MIMO Systems in Complex Space**|Ruifeng Li et.al.|Er-Ping Li|[2301.05536v1](http://arxiv.org/abs/2301.05536v1)|    |
 |**2023-01-13**|**Strain-mediated ion-ion interaction in rare-earth-doped solids**|Anne Louchet-Chauvet et.al.|Thierry Chanelière|[2301.05531v1](http://arxiv.org/abs/2301.05531v1)|    |
@@ -117,13 +117,13 @@
 |**2023-01-13**|**Multi-Active/Passive-IRS Enabled Wireless Information and Power Transfer: Active IRS Deployment and Performance Analysis**|Min Fu et.al.|Rui Zhang|[2301.05469v1](http://arxiv.org/abs/2301.05469v1)|    |
 |**2023-01-13**|**Stochastic Mechanics and the Unification of Quantum Mechanics with Brownian Motion**|Folkert Kuipers et.al.|Folkert Kuipers|[2301.05467v1](http://arxiv.org/abs/2301.05467v1)|    |
 |**2023-01-13**|**Quick Minimization of Tardy Processing Time on a Single Machine**|Baruch Schieber et.al.|Pranav Sitaraman|[2301.05460v1](http://arxiv.org/abs/2301.05460v1)|    |
-|**2023-01-13**|**EWF : simulating exact paths of the Wright--Fisher diffusion**|Jaromir Sant et.al.|Dario Spanò|[2301.05459v1](http://arxiv.org/abs/2301.05459v1)|    |
+|**2023-01-13**|**EWF : simulating exact paths of the Wright--Fisher diffusion**|Jaromir Sant et.al.|Dario Spanò|[2301.05459v1](http://arxiv.org/abs/2301.05459v1)|**[code](https://github.com/jarosant/ewf)**|
 |**2023-01-13**|**DarSIA: An open-source Python toolbox for two-scale image processing of dynamics in porous media**|Jan Martin Nordbotten et.al.|Martin A. Fernø|[2301.05455v1](http://arxiv.org/abs/2301.05455v1)|    |
 |**2023-01-13**|**It's Just a Matter of Time: Detecting Depression with Time-Enriched Multimodal Transformers**|Ana-Maria Bucur et.al.|Liviu P. Dinu|[2301.05453v1](http://arxiv.org/abs/2301.05453v1)|**[code](https://github.com/cosmaadrian/time-enriched-multimodal-depression-detection)**|
 |**2023-01-13**|**Average Communication Rate for Event-Triggered Stochastic Control Systems**|Zengjie Zhang et.al.|Sandra Hirche|[2301.05445v1](http://arxiv.org/abs/2301.05445v1)|    |
 |**2023-01-13**|**Upper bound preservation of the total scalar curvature in a conformal class**|Shota Hamanaka et.al.|Shota Hamanaka|[2301.05444v1](http://arxiv.org/abs/2301.05444v1)|    |
 |**2023-01-13**|**LVRNet: Lightweight Image Restoration for Aerial Images under Low Visibility**|Esha Pahwa et.al.|Pratik Narang|[2301.05434v1](http://arxiv.org/abs/2301.05434v1)|    |
-|**2023-01-13**|**The Moments of Orientation Estimations Considering Molecular Symmetry in Cryo-EM**|Qi Zhang et.al.|Mingxu Hu|[2301.05426v1](http://arxiv.org/abs/2301.05426v1)|    |
+|**2023-01-13**|**The Moments of Orientation Estimations Considering Molecular Symmetry in Cryo-EM**|Qi Zhang et.al.|Mingxu Hu|[2301.05426v1](http://arxiv.org/abs/2301.05426v1)|**[code](https://github.com/mxhulab/pysymstat)**|
 |**2023-01-13**|**Single-shot refractive index slice imaging using spectrally multiplexed optical transfer function reshaping**|Chungha Lee et.al.|Yongkeun Park|[2301.05425v1](http://arxiv.org/abs/2301.05425v1)|    |
 |**2023-01-13**|**Analyzing and Improving the Pyramidal Predictive Network for Future Video Frame Prediction**|Chaofan Ling et.al.|Junpei Zhong|[2301.05421v1](http://arxiv.org/abs/2301.05421v1)|**[code](https://github.com/ling-cf/ppnv2)**|
 |**2023-01-13**|**Analysis of LGM Model for sEMG Signals related to Weight Training**|Durgesh Kusuru et.al.|Mainak Thakur|[2301.05417v1](http://arxiv.org/abs/2301.05417v1)|    |
@@ -134,7 +134,7 @@
 |**2023-01-13**|**Prompting Neural Machine Translation with Translation Memories**|Abudurexiti Reheman et.al.|Jingbo Zhu|[2301.05380v1](http://arxiv.org/abs/2301.05380v1)|    |
 |**2023-01-13**|**Concentration in Gossip Opinion Dynamics over Random Graphs**|Yu Xing et.al.|Karl Henrik Johansson|[2301.05352v1](http://arxiv.org/abs/2301.05352v1)|    |
 |**2023-01-13**|**Towards Reconciling Usability and Usefulness of Explainable AI Methodologies**|Pradyumna Tambwekar et.al.|Matthew Gombolay|[2301.05347v1](http://arxiv.org/abs/2301.05347v1)|    |
-|**2023-01-13**|**Fixation dynamics on hypergraphs**|Ruodan Liu et.al.|Naoki Masuda|[2301.05343v1](http://arxiv.org/abs/2301.05343v1)|    |
+|**2023-01-13**|**Fixation dynamics on hypergraphs**|Ruodan Liu et.al.|Naoki Masuda|[2301.05343v1](http://arxiv.org/abs/2301.05343v1)|**[code](https://github.com/ruodanl/fixation_probability)**|
 
 <p align=right>(<a href=#Updated-on-20230117>back to top</a>)</p>
 
