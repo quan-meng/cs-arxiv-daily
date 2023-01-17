@@ -1,4 +1,4 @@
-> Updated on 2023.01.16
+> Updated on 2023.01.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2023-01-10, **Neural Radiance Field Codebooks**, Matthew Wallingford et.al., Lab: Ali Farhadi, Paper: [http://arxiv.org/abs/2301.04101v1](http://arxiv.org/abs/2301.04101v1)
 - 2023-01-10, **Benchmarking Robustness in Neural Radiance Fields**, Chen Wang et.al., Lab: Cihang Xie, Paper: [http://arxiv.org/abs/2301.04075v1](http://arxiv.org/abs/2301.04075v1)
 
-<p align=right>(<a href=#Updated-on-20230116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230117>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -36,7 +36,7 @@
 - 2023-01-13, **Multi-Target Landmark Detection with Incomplete Images via Reinforcement Learning and Shape Prior**, Kaiwen Wan et.al., Lab: Xiahai Zhuang, Paper: [http://arxiv.org/abs/2301.05392v1](http://arxiv.org/abs/2301.05392v1)
 - 2023-01-13, **An efficient and low-divergence method for generating inhomogeneous and anisotropic turbulence with arbitrary spectra**, Hao Guo et.al., Lab: Lin Ye, Paper: [http://arxiv.org/abs/2301.05363v1](http://arxiv.org/abs/2301.05363v1)
 
-<p align=right>(<a href=#Updated-on-20230116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230117>back to top</a>)</p>
 
 ## Generative Models
 
@@ -45,13 +45,13 @@
 - 2023-01-13, **Explicit Temporal Embedding in Deep Generative Latent Models for Longitudinal Medical Image Synthesis**, Julian Schön et.al., Lab: Jens Petersen, Paper: [http://arxiv.org/abs/2301.05465v1](http://arxiv.org/abs/2301.05465v1), Code: **[https://github.com/julschoen/temp-gan](https://github.com/julschoen/temp-gan)**
 - 2023-01-13, **In BLOOM: Creativity and Affinity in Artificial Lyrics and Art**, Evan Crothers et.al., Lab: Nathalie Japkowicz, Paper: [http://arxiv.org/abs/2301.05402v1](http://arxiv.org/abs/2301.05402v1), Code: **[https://github.com/ecrows/in-bloom](https://github.com/ecrows/in-bloom)**
 
-<p align=right>(<a href=#Updated-on-20230116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230117>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-05, **HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**, Benjamin Attal et.al., Lab: Changil Kim, Paper: [http://arxiv.org/abs/2301.02238v1](http://arxiv.org/abs/2301.02238v1), Code: **[https://github.com/facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel)**
 
-<p align=right>(<a href=#Updated-on-20230116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230117>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -126,5 +126,5 @@
 - 2023-01-13, **Towards Reconciling Usability and Usefulness of Explainable AI Methodologies**, Pradyumna Tambwekar et.al., Lab: Matthew Gombolay, Paper: [http://arxiv.org/abs/2301.05347v1](http://arxiv.org/abs/2301.05347v1)
 - 2023-01-13, **Fixation dynamics on hypergraphs**, Ruodan Liu et.al., Lab: Naoki Masuda, Paper: [http://arxiv.org/abs/2301.05343v1](http://arxiv.org/abs/2301.05343v1)
 
-<p align=right>(<a href=#Updated-on-20230116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230117>back to top</a>)</p>
 
