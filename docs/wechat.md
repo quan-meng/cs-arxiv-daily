@@ -1,4 +1,4 @@
-> Updated on 2023.01.18
+> Updated on 2023.01.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2023-01-17, **A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction**, Chongshan Lu et.al., Lab: Jiayuan Fan, Paper: [http://arxiv.org/abs/2301.06782v1](http://arxiv.org/abs/2301.06782v1)
 
-<p align=right>(<a href=#Updated-on-20230118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230119>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -47,24 +47,24 @@
 - 2023-01-17, **DIGITOUR: Automatic Digital Tours for Real-Estate Properties**, Prateek Chhikara et.al., Lab: Chirag Sharma, Paper: [http://arxiv.org/abs/2301.06680v1](http://arxiv.org/abs/2301.06680v1)
 - 2023-01-17, **YeLan: Event Camera-Based 3D Human Pose Estimation for Technology-Mediated Dancing in Challenging Environments with Comprehensive Motion-to-Event Simulator**, Zhongyang Zhang et.al., Lab: Tauhidur Rahman, Paper: [http://arxiv.org/abs/2301.06648v1](http://arxiv.org/abs/2301.06648v1)
 
-<p align=right>(<a href=#Updated-on-20230118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230119>back to top</a>)</p>
 
 ## Generative Models
 
 - 2023-01-17, **GLIGEN: Open-Set Grounded Text-to-Image Generation**, Yuheng Li et.al., Lab: Yong Jae Lee, Paper: [http://arxiv.org/abs/2301.07093v1](http://arxiv.org/abs/2301.07093v1), Code: **[https://github.com/gligen/GLIGEN](https://github.com/gligen/GLIGEN)**
-- 2023-01-17, **Denoising Diffusion Probabilistic Models as a Defense against Adversarial Attacks**, Lars Lien Ankile et.al., Lab: Sebastian Weisshaar, Paper: [http://arxiv.org/abs/2301.06871v1](http://arxiv.org/abs/2301.06871v1)
+- 2023-01-17, **Denoising Diffusion Probabilistic Models as a Defense against Adversarial Attacks**, Lars Lien Ankile et.al., Lab: Sebastian Weisshaar, Paper: [http://arxiv.org/abs/2301.06871v1](http://arxiv.org/abs/2301.06871v1), Code: **[https://github.com/ankile/adversarial-diffusion](https://github.com/ankile/adversarial-diffusion)**
 
-<p align=right>(<a href=#Updated-on-20230118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230119>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-16, **Min-Path-Tracing: A Diffraction Aware Alternative to Image Method in Ray Tracing**, Jérome Eertmans et.al., Lab: Laurent Jacques, Paper: [http://arxiv.org/abs/2301.06399v1](http://arxiv.org/abs/2301.06399v1)
 
-<p align=right>(<a href=#Updated-on-20230118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230119>back to top</a>)</p>
 
 ## Geometry Processing
 
-- 2023-01-17, **On the State of German (Abstractive) Text Summarization**, Dennis Aumiller et.al., Lab: Michael Gertz, Paper: [http://arxiv.org/abs/2301.07095v1](http://arxiv.org/abs/2301.07095v1)
+- 2023-01-17, **On the State of German (Abstractive) Text Summarization**, Dennis Aumiller et.al., Lab: Michael Gertz, Paper: [http://arxiv.org/abs/2301.07095v1](http://arxiv.org/abs/2301.07095v1), Code: **[https://github.com/dennlinger/summaries](https://github.com/dennlinger/summaries)**
 - 2023-01-17, **Learning Customized Visual Models with Retrieval-Augmented Knowledge**, Haotian Liu et.al., Lab: Chunyuan Li, Paper: [http://arxiv.org/abs/2301.07094v1](http://arxiv.org/abs/2301.07094v1)
 - 2023-01-17, **Unified theory of local quantum many-body dynamics: Eigenoperator thermalization theorems**, Berislav Buča et.al., Lab: Berislav Buča, Paper: [http://arxiv.org/abs/2301.07091v1](http://arxiv.org/abs/2301.07091v1)
 - 2023-01-17, **Problems of studying $γγ\to γγ$ scattering at $e^+e^-$ and $γγ$ colliders**, K. I. Beloborodov et.al., Lab: V. I. Telnov, Paper: [http://arxiv.org/abs/2301.07089v1](http://arxiv.org/abs/2301.07089v1)
@@ -94,7 +94,7 @@
 - 2023-01-17, **General Index Reduction by Embedding for Integro-differential-algebraic Equations**, Wenqiang Yang et.al., Lab: Greg Reid, Paper: [http://arxiv.org/abs/2301.06986v1](http://arxiv.org/abs/2301.06986v1)
 - 2023-01-17, **Suppression of sawtooth oscillations when using a finite-difference scheme for mass transfer simulation via the lubrication approximation in a droplet evaporated on a substrate**, Konstantin S. Kolegov et.al., Lab: Konstantin S. Kolegov, Paper: [http://arxiv.org/abs/2301.06983v1](http://arxiv.org/abs/2301.06983v1)
 - 2023-01-17, **How multiple weak species jeopardise biodiversity in spatial rock-paper-scissors models**, J. Menezes et.al., Lab: R. Barbalho, Paper: [http://arxiv.org/abs/2301.06981v1](http://arxiv.org/abs/2301.06981v1)
-- 2023-01-17, **Towards Improving the Explainability of Text-based Information Retrieval with Knowledge Graphs**, Boqi Chen et.al., Lab: Dániel Varró, Paper: [http://arxiv.org/abs/2301.06974v1](http://arxiv.org/abs/2301.06974v1)
+- 2023-01-17, **Towards Improving the Explainability of Text-based Information Retrieval with Knowledge Graphs**, Boqi Chen et.al., Lab: Dániel Varró, Paper: [http://arxiv.org/abs/2301.06974v1](http://arxiv.org/abs/2301.06974v1), Code: **[https://github.com/aggregate-intellect/xir](https://github.com/aggregate-intellect/xir)**
 - 2023-01-17, **The Breakthrough Listen Search for Intelligent Life: A Laser Search Pipeline for the Automated Planet Finder**, Anna Zuckerman et.al., Lab: Andrew Siemion, Paper: [http://arxiv.org/abs/2301.06971v1](http://arxiv.org/abs/2301.06971v1)
 - 2023-01-17, **Mixed Attention with Deep Supervision for Delineation of COVID Infection in Lung CT**, Pallabi Dutta et.al., Lab: Sushmita Mitra, Paper: [http://arxiv.org/abs/2301.06961v1](http://arxiv.org/abs/2301.06961v1)
 - 2023-01-17, **SECOMlint: A linter for Security Commit Messages**, Sofia Reis et.al., Lab: Hakan Erdogmus, Paper: [http://arxiv.org/abs/2301.06959v1](http://arxiv.org/abs/2301.06959v1)
@@ -117,7 +117,7 @@
 - 2023-01-17, **Characterization of the second order random fields subject to linear distributional PDE constraints**, Iain Henderson et.al., Lab: Olivier Roustant, Paper: [http://arxiv.org/abs/2301.06895v1](http://arxiv.org/abs/2301.06895v1)
 - 2023-01-17, **Arithmeticity of the Kontsevich--Zorich monodromies of certain families of square-tiled surfaces II**, Manuel Kany et.al., Lab: Carlos Matheus, Paper: [http://arxiv.org/abs/2301.06894v1](http://arxiv.org/abs/2301.06894v1)
 - 2023-01-17, **Computer Science for Future -- Sustainability and Climate Protection in the Computer Science Courses of the HAW Hamburg**, Elina Eickstädt et.al., Lab: Julia Padberg, Paper: [http://arxiv.org/abs/2301.06885v1](http://arxiv.org/abs/2301.06885v1)
-- 2023-01-17, **Denoising Diffusion Probabilistic Models as a Defense against Adversarial Attacks**, Lars Lien Ankile et.al., Lab: Sebastian Weisshaar, Paper: [http://arxiv.org/abs/2301.06871v1](http://arxiv.org/abs/2301.06871v1)
+- 2023-01-17, **Denoising Diffusion Probabilistic Models as a Defense against Adversarial Attacks**, Lars Lien Ankile et.al., Lab: Sebastian Weisshaar, Paper: [http://arxiv.org/abs/2301.06871v1](http://arxiv.org/abs/2301.06871v1), Code: **[https://github.com/ankile/adversarial-diffusion](https://github.com/ankile/adversarial-diffusion)**
 - 2023-01-17, **A 2022 $τ$-Herculid meteor cluster from an airborne experiment: automated detection, characterization, and consequences for meteoroids**, J. Vaubaillon et.al., Lab: N. Rambaux, Paper: [http://arxiv.org/abs/2301.06851v1](http://arxiv.org/abs/2301.06851v1)
 - 2023-01-17, **Power Utility Maximization with Expert Opinions at Fixed Arrival Times in a Market with Hidden Gaussian Drift**, Abdelali Gabih et.al., Lab: Ralf Wunderlich, Paper: [http://arxiv.org/abs/2301.06847v1](http://arxiv.org/abs/2301.06847v1)
 - 2023-01-17, **On the Interaction between Ultralight Bosons and Quantum-Corrected Black Holes**, Rong-Zhen Guo et.al., Lab: Qing-Guo Huang, Paper: [http://arxiv.org/abs/2301.06840v1](http://arxiv.org/abs/2301.06840v1)
@@ -150,13 +150,13 @@
 - 2023-01-17, **The Chow ring of a sequence of point blow-ups**, Daniel Camazón Portela et.al., Lab: Daniel Camazón Portela, Paper: [http://arxiv.org/abs/2301.06737v1](http://arxiv.org/abs/2301.06737v1)
 - 2023-01-17, **Two Stage Contextual Word Filtering for Context bias in Unified Streaming and Non-streaming Transducer**, Zhanheng Yang et.al., Lab: Lei Xie, Paper: [http://arxiv.org/abs/2301.06735v1](http://arxiv.org/abs/2301.06735v1)
 - 2023-01-17, **Towards Real-Time Reconstruction of Velocity Fluctuations in Turbulent Channel Flow**, Rahul Arun et.al., Lab: Beverley J. McKeon, Paper: [http://arxiv.org/abs/2301.06734v1](http://arxiv.org/abs/2301.06734v1)
-- 2023-01-17, **Face Inverse Rendering via Hierarchical Decoupling**, Meng Wang et.al., Lab: Jiawan Zhang, Paper: [http://arxiv.org/abs/2301.06733v1](http://arxiv.org/abs/2301.06733v1)
+- 2023-01-17, **Face Inverse Rendering via Hierarchical Decoupling**, Meng Wang et.al., Lab: Jiawan Zhang, Paper: [http://arxiv.org/abs/2301.06733v1](http://arxiv.org/abs/2301.06733v1), Code: **[https://github.com/autohdr/hd-net](https://github.com/autohdr/hd-net)**
 - 2023-01-17, **Roadmap for Unconventional Computing with Nanotechnology**, Giovanni Finocchio et.al., Lab: Hayato Goto, Paper: [http://arxiv.org/abs/2301.06727v1](http://arxiv.org/abs/2301.06727v1)
 - 2023-01-17, **Self-exciting negative binomial distribution process and critical properties of intensity distribution**, Kotaro Sakuraba et.al., Lab: Shintaro Mori, Paper: [http://arxiv.org/abs/2301.06726v1](http://arxiv.org/abs/2301.06726v1)
 - 2023-01-17, **Optimal Placement of Active and Passive Elements in Hybrid RIS-assisted Communication Systems**, R. S. Prasobh Sankar et.al., Lab: Sundeep Prabhakar Chepuri, Paper: [http://arxiv.org/abs/2301.06725v1](http://arxiv.org/abs/2301.06725v1)
 - 2023-01-17, **On Delay-Doppler Plane Orthogonal Pulse**, Hai Lin et.al., Lab: Jinhong Yuan, Paper: [http://arxiv.org/abs/2301.06721v1](http://arxiv.org/abs/2301.06721v1)
 - 2023-01-17, **$(k,q)$-core decomposition of hypergraphs**, Jongshin Lee et.al., Lab: B. Kahng, Paper: [http://arxiv.org/abs/2301.06712v1](http://arxiv.org/abs/2301.06712v1)
-- 2023-01-17, **Word Embeddings as Statistical Estimators**, Neil Dey et.al., Lab: Srijan Sengupta, Paper: [http://arxiv.org/abs/2301.06710v1](http://arxiv.org/abs/2301.06710v1)
+- 2023-01-17, **Word Embeddings as Statistical Estimators**, Neil Dey et.al., Lab: Srijan Sengupta, Paper: [http://arxiv.org/abs/2301.06710v1](http://arxiv.org/abs/2301.06710v1), Code: **[https://github.com/neil-dey/word-embeddings-as-estimators](https://github.com/neil-dey/word-embeddings-as-estimators)**
 - 2023-01-17, **Satellite observations of the Alfvénic Transition from Weak to Strong Magnetohydrodynamic Turbulence**, Siqi Zhao et.al., Lab: Huizi Wang, Paper: [http://arxiv.org/abs/2301.06709v1](http://arxiv.org/abs/2301.06709v1)
 - 2023-01-17, **Progression of Digital-Receiver Architecture: From MWA to SKA1-Low,and beyond**, Girish B. S. et.al., Lab: Shelton G. J, Paper: [http://arxiv.org/abs/2301.06707v1](http://arxiv.org/abs/2301.06707v1)
 - 2023-01-17, **Feasibility Analysis of Grover-meets-Simon Algorithm**, Qianru Zhu et.al., Lab: Li Yang, Paper: [http://arxiv.org/abs/2301.06706v1](http://arxiv.org/abs/2301.06706v1)
@@ -177,5 +177,5 @@
 - 2023-01-17, **Enhancing Deep Traffic Forecasting Models with Dynamic Regression**, Vincent Zhihao Zheng et.al., Lab: Lijun Sun, Paper: [http://arxiv.org/abs/2301.06650v1](http://arxiv.org/abs/2301.06650v1)
 - 2023-01-17, **Center of maximum-sum matchings of bichromatic points**, Pablo Pérez-Lantero et.al., Lab: Carlos Seara, Paper: [http://arxiv.org/abs/2301.06649v1](http://arxiv.org/abs/2301.06649v1)
 
-<p align=right>(<a href=#Updated-on-20230118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230119>back to top</a>)</p>
 
