@@ -1,4 +1,4 @@
-> Updated on 2023.01.21
+> Updated on 2023.01.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2023-01-19, **RecolorNeRF: Layer Decomposed Radiance Field for Efficient Color Editing of 3D Scenes**, Bingchen Gong et.al., Lab: Qi Dou, Paper: [http://arxiv.org/abs/2301.07958v1](http://arxiv.org/abs/2301.07958v1)
 
-<p align=right>(<a href=#Updated-on-20230121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -42,7 +42,7 @@
 - 2023-01-19, **Structure and evolution of a tidally heated star**, Diana Estrella-Trujillo et.al., Lab: Edmundo Moreno, Paper: [http://arxiv.org/abs/2301.07878v1](http://arxiv.org/abs/2301.07878v1)
 - 2023-01-19, **Stability for Time-domain Elastic Wave Equations**, Bochao Chen et.al., Lab: Yang Liu, Paper: [http://arxiv.org/abs/2301.07847v1](http://arxiv.org/abs/2301.07847v1)
 
-<p align=right>(<a href=#Updated-on-20230121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
 
 ## Generative Models
 
@@ -57,13 +57,13 @@
 - 2023-01-19, **Understanding the diffusion models by conditional expectations**, Yibin Lu et.al., Lab: Guillaume Bal, Paper: [http://arxiv.org/abs/2301.07882v1](http://arxiv.org/abs/2301.07882v1)
 - 2023-01-19, **First-principles study of $d^0$ magnetism in group-IV-doped monolayer GaN**, Rui Zhao et.al., Lab: Wenhui Wan, Paper: [http://arxiv.org/abs/2301.07866v1](http://arxiv.org/abs/2301.07866v1)
 
-<p align=right>(<a href=#Updated-on-20230121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-18, **Behind the Scenes: Density Fields for Single View Reconstruction**, Felix Wimbauer et.al., Lab: Daniel Cremers, Paper: [http://arxiv.org/abs/2301.07668v1](http://arxiv.org/abs/2301.07668v1)
 
-<p align=right>(<a href=#Updated-on-20230121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -117,7 +117,7 @@
 - 2023-01-19, **A Distributed Machine Learning-Based Approach for IRS-Enhanced Cell-Free MIMO Networks**, Chen Chen et.al., Lab: Jie Zhang, Paper: [http://arxiv.org/abs/2301.08077v1](http://arxiv.org/abs/2301.08077v1)
 - 2023-01-19, **Dif-Fusion: Towards High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models**, Jun Yue et.al., Lab: Jiayi Ma, Paper: [http://arxiv.org/abs/2301.08072v1](http://arxiv.org/abs/2301.08072v1)
 - 2023-01-19, **Geometric tool kit for higher spin gravity (part I): An introduction to the geometry of differential operators**, Xavier Bekaert et.al., Lab: Xavier Bekaert, Paper: [http://arxiv.org/abs/2301.08069v1](http://arxiv.org/abs/2301.08069v1)
-- 2023-01-19, **Obstacle avoidance using raycasting and Riemannian Motion Policies at kHz rates for MAVs**, Michael Pantic et.al., Lab: Lionel Ott, Paper: [http://arxiv.org/abs/2301.08068v1](http://arxiv.org/abs/2301.08068v1)
+- 2023-01-19, **Obstacle avoidance using raycasting and Riemannian Motion Policies at kHz rates for MAVs**, Michael Pantic et.al., Lab: Lionel Ott, Paper: [http://arxiv.org/abs/2301.08068v1](http://arxiv.org/abs/2301.08068v1), Code: **[https://github.com/ethz-asl/reactive_avoidance](https://github.com/ethz-asl/reactive_avoidance)**
 - 2023-01-19, **Interpreting CNN Predictions using Conditional Generative Adversarial Networks**, Akash Guna R T et.al., Lab: Sikha O K, Paper: [http://arxiv.org/abs/2301.08067v1](http://arxiv.org/abs/2301.08067v1), Code: **[https://github.com/akash-guna/explain-cnn-with-gans](https://github.com/akash-guna/explain-cnn-with-gans)**
 - 2023-01-19, **Quantum geometry, stability and modularity**, Sergei Alexandrov et.al., Lab: Thorsten Schimannek, Paper: [http://arxiv.org/abs/2301.08066v1](http://arxiv.org/abs/2301.08066v1)
 - 2023-01-19, **Position Regression for Unsupervised Anomaly Detection**, Florentin Bieder et.al., Lab: Philippe C. Cattin, Paper: [http://arxiv.org/abs/2301.08064v1](http://arxiv.org/abs/2301.08064v1)
@@ -128,7 +128,7 @@
 - 2023-01-19, **A Comprehensive Architecture for Dynamic Role Allocation and Collaborative Task Planning in Mixed Human-Robot Teams**, Edoardo Lamon et.al., Lab: Arash Ajoudani, Paper: [http://arxiv.org/abs/2301.08038v1](http://arxiv.org/abs/2301.08038v1)
 - 2023-01-19, **Angular momentum and memory effect**, Pujian Mao et.al., Lab: Xiaoning Wu, Paper: [http://arxiv.org/abs/2301.08032v1](http://arxiv.org/abs/2301.08032v1)
 - 2023-01-19, **A Survey of Meta-Reinforcement Learning**, Jacob Beck et.al., Lab: Shimon Whiteson, Paper: [http://arxiv.org/abs/2301.08028v1](http://arxiv.org/abs/2301.08028v1)
-- 2023-01-19, **Evolutionary dynamics of glucose-deprived cancer cells: insights from experimentally-informed mathematical modelling**, Luis Almeida et.al., Lab: Chiara Villa, Paper: [http://arxiv.org/abs/2301.08023v1](http://arxiv.org/abs/2301.08023v1)
+- 2023-01-19, **Evolutionary dynamics of glucose-deprived cancer cells: insights from experimentally-informed mathematical modelling**, Luis Almeida et.al., Lab: Chiara Villa, Paper: [http://arxiv.org/abs/2301.08023v1](http://arxiv.org/abs/2301.08023v1), Code: **[https://github.com/chiaravilla/almeidaetal2023evolutionary](https://github.com/chiaravilla/almeidaetal2023evolutionary)**
 - 2023-01-19, **An optimal lower bound in fractional spectral geometry for planar sets with topological constraints**, Francesca Bianchi et.al., Lab: Lorenzo Brasco, Paper: [http://arxiv.org/abs/2301.08017v1](http://arxiv.org/abs/2301.08017v1)
 - 2023-01-19, **Simulation of CO2 Storage using a Parameterization Method for Essential Trapping Physics: FluidFlower Benchmark Study**, Yuhang Wang et.al., Lab: Hadi Hajibeygi, Paper: [http://arxiv.org/abs/2301.08004v1](http://arxiv.org/abs/2301.08004v1)
 - 2023-01-19, **An Ergonomic Role Allocation Framework for Dynamic Human-Robot Collaborative Tasks**, Elena Merlo et.al., Lab: Arash Ajoudani, Paper: [http://arxiv.org/abs/2301.07999v1](http://arxiv.org/abs/2301.07999v1)
@@ -176,5 +176,5 @@
 - 2023-01-19, **Single Higgs Boson Production at Electron-Positron Colliders in Gauge-Higgs Unification**, Shuichiro Funatsu et.al., Lab: Naoki Yamatsu, Paper: [http://arxiv.org/abs/2301.07833v1](http://arxiv.org/abs/2301.07833v1)
 - 2023-01-19, **Warning: Humans Cannot Reliably Detect Speech Deepfakes**, Kimberly T. Mai et.al., Lab: Lewis D. Griffin, Paper: [http://arxiv.org/abs/2301.07829v1](http://arxiv.org/abs/2301.07829v1)
 
-<p align=right>(<a href=#Updated-on-20230121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
 
