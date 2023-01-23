@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.01.22
+## Updated on 2023.01.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@ layout: default
 |:---------|:-----------------------|:---------|:---------|:------|:------|
 |**2023-01-19**|**RecolorNeRF: Layer Decomposed Radiance Field for Efficient Color Editing of 3D Scenes**|Bingchen Gong et.al.|Qi Dou|[2301.07958v1](http://arxiv.org/abs/2301.07958v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -50,7 +50,7 @@ layout: default
 |**2023-01-19**|**Structure and evolution of a tidally heated star**|Diana Estrella-Trujillo et.al.|Edmundo Moreno|[2301.07878v1](http://arxiv.org/abs/2301.07878v1)|    |
 |**2023-01-19**|**Stability for Time-domain Elastic Wave Equations**|Bochao Chen et.al.|Yang Liu|[2301.07847v1](http://arxiv.org/abs/2301.07847v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
 
 ## Generative Models
 
@@ -67,7 +67,7 @@ layout: default
 |**2023-01-19**|**Understanding the diffusion models by conditional expectations**|Yibin Lu et.al.|Guillaume Bal|[2301.07882v1](http://arxiv.org/abs/2301.07882v1)|    |
 |**2023-01-19**|**First-principles study of $d^0$ magnetism in group-IV-doped monolayer GaN**|Rui Zhao et.al.|Wenhui Wan|[2301.07866v1](http://arxiv.org/abs/2301.07866v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -75,7 +75,7 @@ layout: default
 |:---------|:-----------------------|:---------|:---------|:------|:------|
 |**2023-01-18**|**Behind the Scenes: Density Fields for Single View Reconstruction**|Felix Wimbauer et.al.|Daniel Cremers|[2301.07668v1](http://arxiv.org/abs/2301.07668v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -190,5 +190,5 @@ layout: default
 |**2023-01-19**|**Single Higgs Boson Production at Electron-Positron Colliders in Gauge-Higgs Unification**|Shuichiro Funatsu et.al.|Naoki Yamatsu|[2301.07833v1](http://arxiv.org/abs/2301.07833v1)|    |
 |**2023-01-19**|**Warning: Humans Cannot Reliably Detect Speech Deepfakes**|Kimberly T. Mai et.al.|Lewis D. Griffin|[2301.07829v1](http://arxiv.org/abs/2301.07829v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
 
