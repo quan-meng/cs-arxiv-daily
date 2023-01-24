@@ -1,4 +1,4 @@
-> Updated on 2023.01.23
+> Updated on 2023.01.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2023-01-20, **Novel-View Acoustic Synthesis**, Changan Chen et.al., Lab: Andrea Vedaldi, Paper: [http://arxiv.org/abs/2301.08730v1](http://arxiv.org/abs/2301.08730v1)
 
-<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230124>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -42,7 +42,7 @@
 - 2023-01-20, **Cross-correlating radial peculiar velocities and CMB lensing convergence**, Leonardo Giani et.al., Lab: Tamara M. Davis, Paper: [http://arxiv.org/abs/2301.08381v1](http://arxiv.org/abs/2301.08381v1)
 - 2023-01-20, **On Retrospective $k$-space Subsampling schemes For Deep MRI Reconstruction**, George Yiasemis et.al., Lab: Jonas Teuwen, Paper: [http://arxiv.org/abs/2301.08365v1](http://arxiv.org/abs/2301.08365v1)
 
-<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230124>back to top</a>)</p>
 
 ## Generative Models
 
@@ -51,13 +51,13 @@
 - 2023-01-20, **Pneumonia Detection in Chest X-Ray Images : Handling Class Imbalance**, Wardah Ali et.al., Lab: Rizwan Ahmed Khan, Paper: [http://arxiv.org/abs/2301.08479v1](http://arxiv.org/abs/2301.08479v1)
 - 2023-01-20, **Spatial Steerability of GANs via Self-Supervision from Discriminator**, Jianyuan Wang et.al., Lab: Bolei Zhou, Paper: [http://arxiv.org/abs/2301.08455v1](http://arxiv.org/abs/2301.08455v1)
 
-<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230124>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-18, **Behind the Scenes: Density Fields for Single View Reconstruction**, Felix Wimbauer et.al., Lab: Daniel Cremers, Paper: [http://arxiv.org/abs/2301.07668v1](http://arxiv.org/abs/2301.07668v1)
 
-<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230124>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -163,5 +163,5 @@
 - 2023-01-20, **Eigenvectors of graph Laplacians: a landscape**, J. -G. Caputo et.al., Lab: A. Knippel, Paper: [http://arxiv.org/abs/2301.08369v1](http://arxiv.org/abs/2301.08369v1)
 - 2023-01-20, **On Retrospective $k$-space Subsampling schemes For Deep MRI Reconstruction**, George Yiasemis et.al., Lab: Jonas Teuwen, Paper: [http://arxiv.org/abs/2301.08365v1](http://arxiv.org/abs/2301.08365v1)
 
-<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230124>back to top</a>)</p>
 
