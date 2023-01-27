@@ -1,4 +1,4 @@
-> Updated on 2023.01.26
+> Updated on 2023.01.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2023-01-25, **Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging**, Magdalena Wysocki et.al., Lab: Nassir Navab, Paper: [http://arxiv.org/abs/2301.10520v1](http://arxiv.org/abs/2301.10520v1)
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -34,7 +34,7 @@
 - 2023-01-25, **Interstellar Extinction in Galactic Cirri in SDSS Stripe 82**, G. A. Gontcharov et.al., Lab: Z. Shakespear, Paper: [http://arxiv.org/abs/2301.10591v1](http://arxiv.org/abs/2301.10591v1)
 - 2023-01-25, **A Method For Eliminating Contour Errors In Self-Encoder Reconstructed Images**, Yonggang Li et.al., Lab: Hao Zhang, Paper: [http://arxiv.org/abs/2301.10584v1](http://arxiv.org/abs/2301.10584v1)
 - 2023-01-25, **Fokker-Planck equation for the particle size distribution function in KJMA transformations**, M. Tomellini et.al., Lab: M. Tomellini, Paper: [http://arxiv.org/abs/2301.10579v1](http://arxiv.org/abs/2301.10579v1)
-- 2023-01-25, **3D Tooth Mesh Segmentation with Simplified Mesh Cell Representation**, Ananya Jana et.al., Lab: Dimitris N. Metaxas, Paper: [http://arxiv.org/abs/2301.10531v1](http://arxiv.org/abs/2301.10531v1)
+- 2023-01-25, **3D Tooth Mesh Segmentation with Simplified Mesh Cell Representation**, Ananya Jana et.al., Lab: Dimitris N. Metaxas, Paper: [http://arxiv.org/abs/2301.10531v1](http://arxiv.org/abs/2301.10531v1), Code: **[https://github.com/ananyajana/tooth_mesh_seg](https://github.com/ananyajana/tooth_mesh_seg)**
 - 2023-01-25, **A systematic comparison between Membrane, Shell, and 3D Solid formulations for non-linear vascular biomechanics**, Nitesh Nama et.al., Lab: C. Alberto Figueroa, Paper: [http://arxiv.org/abs/2301.10504v1](http://arxiv.org/abs/2301.10504v1)
 - 2023-01-25, **An LHCb Vertex Locator (VELO) for 2030s**, Evangelos Leonidas Gkougkousis et.al., Lab: Evangelos Leonidas Gkougkousis, Paper: [http://arxiv.org/abs/2301.10495v1](http://arxiv.org/abs/2301.10495v1)
 - 2023-01-25, **Gas and stars in the Teacup quasar looking with the 6-m telescope**, Alexei V. Moiseev et.al., Lab: Alina I. Ikhsanova, Paper: [http://arxiv.org/abs/2301.10487v1](http://arxiv.org/abs/2301.10487v1)
@@ -47,7 +47,7 @@
 - 2023-01-25, **A cell augmentation framework for topological lattices**, Mohammad Charara et.al., Lab: Stefano Gonella, Paper: [http://arxiv.org/abs/2301.10376v1](http://arxiv.org/abs/2301.10376v1)
 - 2023-01-25, **Data Consistent Deep Rigid MRI Motion Correction**, Nalini M. Singh et.al., Lab: Polina Golland, Paper: [http://arxiv.org/abs/2301.10365v1](http://arxiv.org/abs/2301.10365v1), Code: **[https://github.com/nalinimsingh/neuromoco](https://github.com/nalinimsingh/neuromoco)**
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## Generative Models
 
@@ -56,13 +56,13 @@
 - 2023-01-25, **Towards Arbitrary Text-driven Image Manipulation via Space Alignment**, Yunpeng Bai et.al., Lab: Chun Yuan, Paper: [http://arxiv.org/abs/2301.10670v1](http://arxiv.org/abs/2301.10670v1)
 - 2023-01-25, **Self-Evolutionary Reservoir Computer Based on Kuramoto Model**, Zhihao Zuo et.al., Lab: Oskars Ozolins, Paper: [http://arxiv.org/abs/2301.10654v1](http://arxiv.org/abs/2301.10654v1)
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-23, **HexPlane: A Fast Representation for Dynamic Scenes**, Ang Cao et.al., Lab: Justin Johnson, Paper: [http://arxiv.org/abs/2301.09632v1](http://arxiv.org/abs/2301.09632v1)
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -103,7 +103,7 @@
 - 2023-01-25, **A note on Hamiltonian stability for sheaves**, Tomohiro Asano et.al., Lab: Yuichi Ike, Paper: [http://arxiv.org/abs/2301.10598v1](http://arxiv.org/abs/2301.10598v1)
 - 2023-01-25, **Vanishing Theorem for Hodge Ideals on smooth hypersurfaces**, Anh Duc Vo et.al., Lab: Anh Duc Vo, Paper: [http://arxiv.org/abs/2301.10596v1](http://arxiv.org/abs/2301.10596v1)
 - 2023-01-25, **Distilling Text into Circuits**, Vincent Wang-Mascianica et.al., Lab: Bob Coecke, Paper: [http://arxiv.org/abs/2301.10595v1](http://arxiv.org/abs/2301.10595v1)
-- 2023-01-25, **Faster DAN: Multi-target Queries with Document Positional Encoding for End-to-end Handwritten Document Recognition**, Denis Coquenet et.al., Lab: Thierry Paquet, Paper: [http://arxiv.org/abs/2301.10593v1](http://arxiv.org/abs/2301.10593v1)
+- 2023-01-25, **Faster DAN: Multi-target Queries with Document Positional Encoding for End-to-end Handwritten Document Recognition**, Denis Coquenet et.al., Lab: Thierry Paquet, Paper: [http://arxiv.org/abs/2301.10593v1](http://arxiv.org/abs/2301.10593v1), Code: **[https://github.com/factodeeplearning/fasterdan](https://github.com/factodeeplearning/fasterdan)**
 - 2023-01-25, **Quantum optics measurement scheme for quantum geometry and topological invariants**, Markus Lysne et.al., Lab: Philipp Werner, Paper: [http://arxiv.org/abs/2301.10590v1](http://arxiv.org/abs/2301.10590v1)
 - 2023-01-25, **On Batching Variable Size Inputs for Training End-to-End Speech Enhancement Systems**, Philippe Gonzalez et.al., Lab: Tobias May, Paper: [http://arxiv.org/abs/2301.10587v1](http://arxiv.org/abs/2301.10587v1)
 - 2023-01-25, **Evaluation of the syllables pronunciation quality in speech rehabilitation through the solution of the classification problem**, Evgeny Kostyuchenko et.al., Lab: Evgeny Kostyuchenko, Paper: [http://arxiv.org/abs/2301.10585v1](http://arxiv.org/abs/2301.10585v1)
@@ -156,5 +156,5 @@
 - 2023-01-25, **The Structure and Origin of Switchbacks: Parker Solar Probe Observations**, Jia Huang et.al., Lab: J. S. Halekas, Paper: [http://arxiv.org/abs/2301.10374v1](http://arxiv.org/abs/2301.10374v1)
 - 2023-01-25, **Data Consistent Deep Rigid MRI Motion Correction**, Nalini M. Singh et.al., Lab: Polina Golland, Paper: [http://arxiv.org/abs/2301.10365v1](http://arxiv.org/abs/2301.10365v1), Code: **[https://github.com/nalinimsingh/neuromoco](https://github.com/nalinimsingh/neuromoco)**
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
