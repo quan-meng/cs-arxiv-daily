@@ -1,4 +1,4 @@
-> Updated on 2023.01.29
+> Updated on 2023.01.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2023-01-26, **Text-To-4D Dynamic Scene Generation**, Uriel Singer et.al., Lab: Yaniv Taigman, Paper: [http://arxiv.org/abs/2301.11280v1](http://arxiv.org/abs/2301.11280v1)
 - 2023-01-26, **GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**, Minseop Kwak et.al., Lab: Seungryong Kim, Paper: [http://arxiv.org/abs/2301.10941v1](http://arxiv.org/abs/2301.10941v1)
 
-<p align=right>(<a href=#Updated-on-20230129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230130>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -47,7 +47,7 @@
 - 2023-01-26, **Super-Resolution Analysis via Machine Learning: A Survey for Fluid Flows**, Kai Fukami et.al., Lab: Kunihiko Taira, Paper: [http://arxiv.org/abs/2301.10937v1](http://arxiv.org/abs/2301.10937v1)
 - 2023-01-26, **The Projection-Enhancement Network (PEN)**, Christopher Z. Eddy et.al., Lab: Bo Sun, Paper: [http://arxiv.org/abs/2301.10877v1](http://arxiv.org/abs/2301.10877v1), Code: **[https://github.com/eddy6081/pen](https://github.com/eddy6081/pen)**
 
-<p align=right>(<a href=#Updated-on-20230129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230130>back to top</a>)</p>
 
 ## Generative Models
 
@@ -56,13 +56,13 @@
 - 2023-01-26, **Additive Eigenvector Analysis of Diffusion: Wave-function Phase as Optimal Reaction Coordinate**, Sergei V. Krivov et.al., Lab: Sergei V. Krivov, Paper: [http://arxiv.org/abs/2301.11070v1](http://arxiv.org/abs/2301.11070v1)
 - 2023-01-26, **On the Importance of Noise Scheduling for Diffusion Models**, Ting Chen et.al., Lab: Ting Chen, Paper: [http://arxiv.org/abs/2301.10972v1](http://arxiv.org/abs/2301.10972v1)
 
-<p align=right>(<a href=#Updated-on-20230129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230130>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-01-23, **HexPlane: A Fast Representation for Dynamic Scenes**, Ang Cao et.al., Lab: Justin Johnson, Paper: [http://arxiv.org/abs/2301.09632v1](http://arxiv.org/abs/2301.09632v1)
 
-<p align=right>(<a href=#Updated-on-20230129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230130>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -70,7 +70,7 @@
 - 2023-01-26, **Cell-Free ISAC MIMO Systems: Joint Sensing and Communication Beamforming**, Umut Demirhan et.al., Lab: Ahmed Alkhateeb, Paper: [http://arxiv.org/abs/2301.11328v1](http://arxiv.org/abs/2301.11328v1)
 - 2023-01-26, **Unsupervised Volumetric Animation**, Aliaksandr Siarohin et.al., Lab: Sergey Tulyakov, Paper: [http://arxiv.org/abs/2301.11326v1](http://arxiv.org/abs/2301.11326v1)
 - 2023-01-26, **MusicLM: Generating Music From Text**, Andrea Agostinelli et.al., Lab: Christian Frank, Paper: [http://arxiv.org/abs/2301.11325v1](http://arxiv.org/abs/2301.11325v1)
-- 2023-01-26, **Open Problems in Applied Deep Learning**, Maziar Raissi et.al., Lab: Maziar Raissi, Paper: [http://arxiv.org/abs/2301.11316v1](http://arxiv.org/abs/2301.11316v1)
+- 2023-01-26, **Open Problems in Applied Deep Learning**, Maziar Raissi et.al., Lab: Maziar Raissi, Paper: [http://arxiv.org/abs/2301.11316v1](http://arxiv.org/abs/2301.11316v1), Code: **[https://github.com/maziarraissi/Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning)**
 - 2023-01-26, **LoRaLay: A Multilingual and Multimodal Dataset for Long Range and Layout-Aware Summarization**, Laura Nguyen et.al., Lab: Jacopo Staiano, Paper: [http://arxiv.org/abs/2301.11312v1](http://arxiv.org/abs/2301.11312v1), Code: **[https://github.com/recitalai/loralay-modeling](https://github.com/recitalai/loralay-modeling)**
 - 2023-01-26, **Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series**, Abdul Fatir Ansari et.al., Lab: Harold Soh, Paper: [http://arxiv.org/abs/2301.11308v1](http://arxiv.org/abs/2301.11308v1)
 - 2023-01-26, **The frequency ratio and time delay of solar radio emissions with fundamental and harmonic components**, Xingyao Chen et.al., Lab: Nicolina Chrysaphi, Paper: [http://arxiv.org/abs/2301.11299v1](http://arxiv.org/abs/2301.11299v1)
@@ -162,5 +162,5 @@
 - 2023-01-26, **Uniqueness and rigidity of conical singularities for mean curvature flows**, Tang-Kai Lee et.al., Lab: Xinrui Zhao, Paper: [http://arxiv.org/abs/2301.10883v1](http://arxiv.org/abs/2301.10883v1)
 - 2023-01-26, **The Projection-Enhancement Network (PEN)**, Christopher Z. Eddy et.al., Lab: Bo Sun, Paper: [http://arxiv.org/abs/2301.10877v1](http://arxiv.org/abs/2301.10877v1), Code: **[https://github.com/eddy6081/pen](https://github.com/eddy6081/pen)**
 
-<p align=right>(<a href=#Updated-on-20230129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230130>back to top</a>)</p>
 
