@@ -58,9 +58,6 @@
 |Publish Date|Title|Authors|Lab|PDF|Code|
 |---|---|---|---|---|---|
 |**2023-01-26**|**simple diffusion: End-to-end diffusion for high resolution images**|Emiel Hoogeboom et.al.|Tim Salimans|[2301.11093v1](http://arxiv.org/abs/2301.11093v1)|    |
-|**2023-01-26**|**deepPERFECT: Novel Deep Learning CT Synthesis Method for 2 Expeditious Pancreatic Cancer Radiotherapy**|Hamed Hooshangnejad et.al.|Kai Ding|[2301.11085v1](http://arxiv.org/abs/2301.11085v1)|    |
-|**2023-01-26**|**Additive Eigenvector Analysis of Diffusion: Wave-function Phase as Optimal Reaction Coordinate**|Sergei V. Krivov et.al.|Sergei V. Krivov|[2301.11070v1](http://arxiv.org/abs/2301.11070v1)|    |
-|**2023-01-26**|**On the Importance of Noise Scheduling for Diffusion Models**|Ting Chen et.al.|Ting Chen|[2301.10972v1](http://arxiv.org/abs/2301.10972v1)|    |
 
 <p align=right>(<a href=#Updated-on-20230130>back to top</a>)</p>
 
@@ -154,23 +151,6 @@
 |**2023-01-26**|**NLP as a Lens for Causal Analysis and Perception Mining to Infer Mental Health on Social Media**|Muskan Garg et.al.|Bonnie J Dorr|[2301.11004v1](http://arxiv.org/abs/2301.11004v1)|    |
 |**2023-01-26**|**The aromatic bicomplex for the description of divergence-free aromatic forms and volume-preserving integrators**|Adrien Laurent et.al.|Olivier Verdier|[2301.10998v1](http://arxiv.org/abs/2301.10998v1)|    |
 |**2023-01-26**|**On the spectrum of Hadamard manifolds**|Werner Ballmann et.al.|Panagiotis Polymerakis|[2301.10986v1](http://arxiv.org/abs/2301.10986v1)|    |
-|**2023-01-26**|**Beyond scalar quasi-arithmetic means: Quasi-arithmetic averages and quasi-arithmetic mixtures in information geometry**|Frank Nielsen et.al.|Frank Nielsen|[2301.10980v1](http://arxiv.org/abs/2301.10980v1)|    |
-|**2023-01-26**|**Extended geometry of magical supergravities**|Guillaume Bossard et.al.|Linus Sundberg|[2301.10974v1](http://arxiv.org/abs/2301.10974v1)|    |
-|**2023-01-26**|**A Deligne-Simpson problem for irregular $G$-connections over $\mathbb{P}^{1}$**|Konstantin Jakob et.al.|Zhiwei Yun|[2301.10967v1](http://arxiv.org/abs/2301.10967v1)|    |
-|**2023-01-26**|**Joint Optimization of IRS Beamforming and Transmit Power for MIMO-NOMA Downlink With Statistical Channel Information**|Wiroonsak Santipach et.al.|Wiroonsak Santipach|[2301.10963v1](http://arxiv.org/abs/2301.10963v1)|    |
-|**2023-01-26**|**Scheduling Policy for Value-of-Information (VoI) in Trajectory Estimation for Digital Twins**|Van-Phuc Bui et.al.|Petar Popovski|[2301.10962v1](http://arxiv.org/abs/2301.10962v1)|    |
-|**2023-01-26**|**Graph Neural Networks can Recover the Hidden Features Solely from the Graph Structure**|Ryoma Sato et.al.|Ryoma Sato|[2301.10956v1](http://arxiv.org/abs/2301.10956v1)|    |
-|**2023-01-26**|**A Framework of Transaction Packaging in High-throughput Blockchains**|Yuxuan Lu et.al.|Xi Chen|[2301.10944v1](http://arxiv.org/abs/2301.10944v1)|    |
-|**2023-01-26**|**GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**|Minseop Kwak et.al.|Seungryong Kim|[2301.10941v1](http://arxiv.org/abs/2301.10941v1)|    |
-|**2023-01-26**|**Differential Elimination and Algebraic Invariants of Polynomial Dynamical Systems**|William Simmons et.al.|André Platzer|[2301.10935v1](http://arxiv.org/abs/2301.10935v1)|    |
-|**2023-01-26**|**Deep learning-enabled multiplexed point-of-care sensor using a paper-based fluorescence vertical flow assay**|Artem Goncharov et.al.|Aydogan Ozcan|[2301.10934v1](http://arxiv.org/abs/2301.10934v1)|    |
-|**2023-01-26**|**Towards Knowledge-Centric Process Mining**|Asjad Khan et.al.|Hoa Khanh Dam|[2301.10927v1](http://arxiv.org/abs/2301.10927v1)|    |
-|**2023-01-26**|**ITstyler: Image-optimized Text-based Style Transfer**|Yunpeng Bai et.al.|Chun Yuan|[2301.10916v1](http://arxiv.org/abs/2301.10916v1)|    |
-|**2023-01-26**|**Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning**|Mingyu Derek Ma et.al.|Nanyun Peng|[2301.10915v1](http://arxiv.org/abs/2301.10915v1)|    |
-|**2023-01-26**|**Music Enhances Activity in the Hypothalamus, Brainstem, and Anterior Cerebellum during Script-Driven Imagery of Affective Scenes**|Chia-Wei Li et.al.|Chen-Gia Tsai|[2301.10914v1](http://arxiv.org/abs/2301.10914v1)|    |
-|**2023-01-26**|**Fluorescence enhancement via lossless all-dielectric spherical mesocavities**|Vadim I. Zakomirnyi et.al.|Ilia L. Rasskazov|[2301.10899v1](http://arxiv.org/abs/2301.10899v1)|    |
-|**2023-01-26**|**Uniqueness and rigidity of conical singularities for mean curvature flows**|Tang-Kai Lee et.al.|Xinrui Zhao|[2301.10883v1](http://arxiv.org/abs/2301.10883v1)|    |
-|**2023-01-26**|**The Projection-Enhancement Network (PEN)**|Christopher Z. Eddy et.al.|Bo Sun|[2301.10877v1](http://arxiv.org/abs/2301.10877v1)|**[code](https://github.com/eddy6081/pen)**|
 
 <p align=right>(<a href=#Updated-on-20230130>back to top</a>)</p>
 
