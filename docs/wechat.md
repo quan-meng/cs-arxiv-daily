@@ -1,4 +1,4 @@
-> Updated on 2023.02.02
+> Updated on 2023.02.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2023-01-31, **GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**, Zhenhui Ye et.al., Lab: Zhou Zhao, Paper: [http://arxiv.org/abs/2301.13430v1](http://arxiv.org/abs/2301.13430v1)
 
-<p align=right>(<a href=#Updated-on-20230202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230203>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -40,15 +40,8 @@
 - 2023-02-01, **The geometry of hidden representations of large transformer models**, Lucrezia Valeriani et.al., Lab: Alberto Cazzaniga, Paper: [http://arxiv.org/abs/2302.00294v1](http://arxiv.org/abs/2302.00294v1)
 - 2023-02-01, **Development of Real-time Rendering Technology for High-Precision Models in Autonomous Driving**, Zhang Whencheng et.al., Lab: Wang Chengyi, Paper: [http://arxiv.org/abs/2302.00291v1](http://arxiv.org/abs/2302.00291v1)
 - 2023-02-01, **Threshold velocity for collisional growth of porous dust aggregates consisting of cohesive frictionless spheres**, Sota Arakawa et.al., Lab: Mikito Furuichi, Paper: [http://arxiv.org/abs/2302.00280v1](http://arxiv.org/abs/2302.00280v1)
-- 2023-02-01, **A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**, Shengqiang Shen et.al., Lab: Henk Wymeersch, Paper: [http://arxiv.org/abs/2302.00227v1](http://arxiv.org/abs/2302.00227v1)
-- 2023-02-01, **Rapid Rotation of an Erupting Prominence and the Associated Coronal Mass Ejection on 13 May 2013**, Yuhao Zhou et.al., Lab: Qingmin Zhang, Paper: [http://arxiv.org/abs/2302.00212v1](http://arxiv.org/abs/2302.00212v1)
-- 2023-02-01, **Search for $B$ Mesogenesis at BABAR**, BABAR Collaboration et.al., Lab: S. L. Wu, Paper: [http://arxiv.org/abs/2302.00208v1](http://arxiv.org/abs/2302.00208v1)
-- 2023-02-01, **End-to-End Full-Atom Antibody Design**, Xiangzhe Kong et.al., Lab: Yang Liu, Paper: [http://arxiv.org/abs/2302.00203v1](http://arxiv.org/abs/2302.00203v1)
-- 2023-02-01, **Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation**, Jingyu Hu et.al., Lab: Chi-Wing Fu, Paper: [http://arxiv.org/abs/2302.00190v1](http://arxiv.org/abs/2302.00190v1)
-- 2023-02-01, **Reanalysis of the X-ray burst associated FRB 200428 with Insight-HXMT observations**, M. Y. Ge et.al., Lab: L. J. Wang, Paper: [http://arxiv.org/abs/2302.00176v1](http://arxiv.org/abs/2302.00176v1)
-- 2023-02-01, **Continual Segment: Towards a Single, Unified and Accessible Continual Segmentation Model of 143 Whole-body Organs in CT Scans**, Zhanghexuan Ji et.al., Lab: Dakai Jin, Paper: [http://arxiv.org/abs/2302.00162v1](http://arxiv.org/abs/2302.00162v1)
 
-<p align=right>(<a href=#Updated-on-20230202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230203>back to top</a>)</p>
 
 ## Generative Models
 
@@ -59,13 +52,13 @@
 - 2023-02-01, **Stable Attribute Group Editing for Reliable Few-shot Image Generation**, Guanqi Ding et.al., Lab: Qingming Huang, Paper: [http://arxiv.org/abs/2302.00179v1](http://arxiv.org/abs/2302.00179v1)
 - 2023-02-01, **Diffusion Models for High-Resolution Solar Forecasts**, Yusuke Hatanaka et.al., Lab: Peter Sadowski, Paper: [http://arxiv.org/abs/2302.00170v1](http://arxiv.org/abs/2302.00170v1)
 
-<p align=right>(<a href=#Updated-on-20230202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230203>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-02-01, **Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation**, Jingyu Hu et.al., Lab: Chi-Wing Fu, Paper: [http://arxiv.org/abs/2302.00190v1](http://arxiv.org/abs/2302.00190v1)
 
-<p align=right>(<a href=#Updated-on-20230202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230203>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -157,32 +150,6 @@
 - 2023-02-01, **The geometry of hidden representations of large transformer models**, Lucrezia Valeriani et.al., Lab: Alberto Cazzaniga, Paper: [http://arxiv.org/abs/2302.00294v1](http://arxiv.org/abs/2302.00294v1)
 - 2023-02-01, **Multispectral Pedestrian Detection via Reference Box Constrained Cross Attention and Modality Balanced Optimization**, Yinghui Xing et.al., Lab: Yanning Zhang, Paper: [http://arxiv.org/abs/2302.00290v1](http://arxiv.org/abs/2302.00290v1)
 - 2023-02-01, **Limits of graded Gorenstein algebras of Hilbert function $(1,3^k,1)$**, Nancy Abdallah et.al., Lab: Joachim Yaméogo, Paper: [http://arxiv.org/abs/2302.00287v1](http://arxiv.org/abs/2302.00287v1)
-- 2023-02-01, **Jointist: Simultaneous Improvement of Multi-instrument Transcription and Music Source Separation via Joint Training**, Kin Wai Cheuk et.al., Lab: Yun-Ning Hung Dorien Herremans, Paper: [http://arxiv.org/abs/2302.00286v1](http://arxiv.org/abs/2302.00286v1)
-- 2023-02-01, **Effect of surface morphology on magnetization dynamics of cobalt ultrathin films**, Anup Kumar Bera et.al., Lab: Ajay Gupta Dileep Kumar, Paper: [http://arxiv.org/abs/2302.00278v1](http://arxiv.org/abs/2302.00278v1)
-- 2023-02-01, **Hardness of braided quantum circuit optimization in the surface code**, Kunihiro Wasa et.al., Lab: Kae Nemoto, Paper: [http://arxiv.org/abs/2302.00273v1](http://arxiv.org/abs/2302.00273v1)
-- 2023-02-01, **Internally Rewarded Reinforcement Learning**, Mengdi Li et.al., Lab: Stefan Wermter, Paper: [http://arxiv.org/abs/2302.00270v1](http://arxiv.org/abs/2302.00270v1)
-- 2023-02-01, **Kpc-scale properties of dust temperature in terms of dust mass and star formation activity**, I-Da Chiang et.al., Lab: Thomas G. Williams, Paper: [http://arxiv.org/abs/2302.00262v1](http://arxiv.org/abs/2302.00262v1)
-- 2023-02-01, **Monitoring observations of SMC X-1's excursions (MOOSE)-II: A new excursion accompanies spin-up acceleration**, Chin-Ping Hu et.al., Lab: Jamie Kennea, Paper: [http://arxiv.org/abs/2302.00260v1](http://arxiv.org/abs/2302.00260v1)
-- 2023-02-01, **Implicit Regularization Leads to Benign Overfitting for Sparse Linear Regression**, Mo Zhou et.al., Lab: Rong Ge, Paper: [http://arxiv.org/abs/2302.00257v1](http://arxiv.org/abs/2302.00257v1)
-- 2023-02-01, **Asymptotic estimates of projection and Sidon constants for spaces of functions on the Boolean cube**, Andreas Defant et.al., Lab: Santiago Muro, Paper: [http://arxiv.org/abs/2302.00233v1](http://arxiv.org/abs/2302.00233v1)
-- 2023-02-01, **Search for Stochastic Gravitational-Wave Background from Massive Gravity in the NANOGrav 12.5-Year Data Set**, Yu-Mei Wu et.al., Lab: Qing-Guo Huang, Paper: [http://arxiv.org/abs/2302.00229v1](http://arxiv.org/abs/2302.00229v1)
-- 2023-02-01, **A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**, Shengqiang Shen et.al., Lab: Henk Wymeersch, Paper: [http://arxiv.org/abs/2302.00227v1](http://arxiv.org/abs/2302.00227v1)
-- 2023-02-01, **Phonon anharmonicity and soft-phonon mediated structural phase transition in $Cs_3Bi_2Br_9$**, Debabrata Samanta et.al., Lab: Goutam Dev Mukherjee, Paper: [http://arxiv.org/abs/2302.00226v1](http://arxiv.org/abs/2302.00226v1)
-- 2023-02-01, **Studying phonon coherence with a quantum sensor**, Agnetta Y. Cleland et.al., Lab: Amir H. Safavi-Naeini, Paper: [http://arxiv.org/abs/2302.00221v1](http://arxiv.org/abs/2302.00221v1)
-- 2023-02-01, **An integral formula for the projection constant of the trace class**, Andreas Defant et.al., Lab: Santiago Muro, Paper: [http://arxiv.org/abs/2302.00218v1](http://arxiv.org/abs/2302.00218v1)
-- 2023-02-01, **Distributed Traffic Synthesis and Classification in Edge Networks: A Federated Self-supervised Learning Approach**, Yong Xiao et.al., Lab: Marwan Krunz, Paper: [http://arxiv.org/abs/2302.00207v1](http://arxiv.org/abs/2302.00207v1)
-- 2023-02-01, **Electrode Selection for Noninvasive Fetal Electrocardiogram Extraction using Mutual Information Criteria**, Reza Sameni et.al., Lab: Mohammad B. Shamsollahi, Paper: [http://arxiv.org/abs/2302.00206v1](http://arxiv.org/abs/2302.00206v1)
-- 2023-02-01, **End-to-End Full-Atom Antibody Design**, Xiangzhe Kong et.al., Lab: Yang Liu, Paper: [http://arxiv.org/abs/2302.00203v1](http://arxiv.org/abs/2302.00203v1)
-- 2023-02-01, **Bit-balance: Model-Hardware Co-design for Accelerating NNs by Exploiting Bit-level Sparsity**, Wenhao Sun et.al., Lab: Yi Kang, Paper: [http://arxiv.org/abs/2302.00201v1](http://arxiv.org/abs/2302.00201v1)
-- 2023-02-01, **Fractional focusing peaks and collective dynamics in two-dimensional Fermi liquids**, Adbhut Gupta et.al., Lab: Jean J. Heremans, Paper: [http://arxiv.org/abs/2302.00182v1](http://arxiv.org/abs/2302.00182v1)
-- 2023-02-01, **Doubling of asymptotically flat half-spaces and the Riemannian Penrose inequality**, Michael Eichmair et.al., Lab: Thomas Koerber, Paper: [http://arxiv.org/abs/2302.00175v1](http://arxiv.org/abs/2302.00175v1)
-- 2023-02-01, **Multi-Objective Optimization Approach Using Deep Reinforcement Learning for Energy Efficiency in Heterogeneous Computing System**, Zheqi Yu et.al., Lab: Qammer H. Abbasi, Paper: [http://arxiv.org/abs/2302.00168v1](http://arxiv.org/abs/2302.00168v1)
-- 2023-02-01, **FLSTRA: Federated Learning in Stratosphere**, Amin Farajzadeh et.al., Lab: Halim Yanikomeroglu, Paper: [http://arxiv.org/abs/2302.00163v1](http://arxiv.org/abs/2302.00163v1)
-- 2023-02-01, **Continual Segment: Towards a Single, Unified and Accessible Continual Segmentation Model of 143 Whole-body Organs in CT Scans**, Zhanghexuan Ji et.al., Lab: Dakai Jin, Paper: [http://arxiv.org/abs/2302.00162v1](http://arxiv.org/abs/2302.00162v1)
-- 2023-02-01, **The Chromatic Lagrangian: Wavefunctions and Open Gromov-Witten Conjectures**, Gus Schrader et.al., Lab: Eric Zaslow, Paper: [http://arxiv.org/abs/2302.00159v1](http://arxiv.org/abs/2302.00159v1)
-- 2023-02-01, **Beam Selection for Energy-Efficient mmWave Network Using Advantage Actor Critic Learning**, Ycaro Dantas et.al., Lab: Melike Erol-Kantarci, Paper: [http://arxiv.org/abs/2302.00156v1](http://arxiv.org/abs/2302.00156v1)
-- 2023-02-01, **Multi-Grade Deep Learning**, Yuesheng Xu et.al., Lab: Yuesheng Xu, Paper: [http://arxiv.org/abs/2302.00150v1](http://arxiv.org/abs/2302.00150v1)
-- 2023-02-01, **Strong collisionless coupling between an unmagnetized driver plasma and a magnetized background plasma**, Filipe D. Cruz et.al., Lab: Luis O. Silva, Paper: [http://arxiv.org/abs/2302.00149v1](http://arxiv.org/abs/2302.00149v1)
 
-<p align=right>(<a href=#Updated-on-20230202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230203>back to top</a>)</p>
 
