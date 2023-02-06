@@ -1,4 +1,4 @@
-> Updated on 2023.02.05
+> Updated on 2023.02.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2023-02-02, **Factor Fields: A Unified Framework for Neural Fields and Beyond**, Anpei Chen et.al., Lab: Andreas Geiger, Paper: [http://arxiv.org/abs/2302.01226v1](http://arxiv.org/abs/2302.01226v1)
 - 2023-02-02, **RobustNeRF: Ignoring Distractors with Robust Losses**, Sara Sabour et.al., Lab: Andrea Tagliasacchi, Paper: [http://arxiv.org/abs/2302.00833v1](http://arxiv.org/abs/2302.00833v1)
 
-<p align=right>(<a href=#Updated-on-20230205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230206>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -51,7 +51,7 @@
 - 2023-02-02, **SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling**, Jiaxiang Dong et.al., Lab: Mingsheng Long, Paper: [http://arxiv.org/abs/2302.00861v1](http://arxiv.org/abs/2302.00861v1)
 - 2023-02-02, **Molecular Geometry-aware Transformer for accurate 3D Atomic System modeling**, Zheng Yuan et.al., Lab: Songfang Huang, Paper: [http://arxiv.org/abs/2302.00855v1](http://arxiv.org/abs/2302.00855v1)
 
-<p align=right>(<a href=#Updated-on-20230205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230206>back to top</a>)</p>
 
 ## Generative Models
 
@@ -65,13 +65,13 @@
 - 2023-02-02, **No One Left Behind: Real-World Federated Class-Incremental Learning**, Jiahua Dong et.al., Lab: Dengxin Dai, Paper: [http://arxiv.org/abs/2302.00903v1](http://arxiv.org/abs/2302.00903v1), Code: **[https://github.com/jiahuadong/lga](https://github.com/jiahuadong/lga)**
 - 2023-02-02, **Interventional and Counterfactual Inference with Diffusion Models**, Patrick Chao et.al., Lab: Shiva Prasad Kasiviswanathan, Paper: [http://arxiv.org/abs/2302.00860v1](http://arxiv.org/abs/2302.00860v1)
 
-<p align=right>(<a href=#Updated-on-20230205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230206>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-02-02, **SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections**, Zhaoxi Chen et.al., Lab: Ziwei Liu, Paper: [http://arxiv.org/abs/2302.01330v1](http://arxiv.org/abs/2302.01330v1)
 
-<p align=right>(<a href=#Updated-on-20230205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230206>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -222,5 +222,5 @@
 - 2023-02-02, **High-precision regressors for particle physics**, Fady Bishara et.al., Lab: Jennifer Dy, Paper: [http://arxiv.org/abs/2302.00753v1](http://arxiv.org/abs/2302.00753v1), Code: **[https://github.com/talismanbrandi/high-precision-ml](https://github.com/talismanbrandi/high-precision-ml)**
 - 2023-02-02, **NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object**, Kazuki Yoshiyama et.al., Lab: Takuya Narihira, Paper: [http://arxiv.org/abs/2302.00675v1](http://arxiv.org/abs/2302.00675v1), Code: **[https://github.com/sony/ndjir](https://github.com/sony/ndjir)**
 
-<p align=right>(<a href=#Updated-on-20230205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230206>back to top</a>)</p>
 
