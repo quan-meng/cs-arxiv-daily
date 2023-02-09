@@ -1,4 +1,4 @@
-> Updated on 2023.02.08
+> Updated on 2023.02.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2023-02-07, **AniPixel: Towards Animatable Pixel-Aligned Human Avatar**, Jinlong Fan et.al., Lab: Dacheng Tao, Paper: [http://arxiv.org/abs/2302.03397v1](http://arxiv.org/abs/2302.03397v1)
 - 2023-02-07, **AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**, Susan Liang et.al., Lab: Chenliang Xu, Paper: [http://arxiv.org/abs/2302.02088v2](http://arxiv.org/abs/2302.02088v2)
 
-<p align=right>(<a href=#Updated-on-20230208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230209>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -45,7 +45,7 @@
 - 2023-02-07, **Improving CT Image Segmentation Accuracy Using StyleGAN Driven Data Augmentation**, Soham Bhosale et.al., Lab: Klaus Mueller, Paper: [http://arxiv.org/abs/2302.03285v1](http://arxiv.org/abs/2302.03285v1)
 - 2023-02-07, **Optimal Control of Granular Material**, Yuichiro Aoyama et.al., Lab: Evangelos A. Theodorou, Paper: [http://arxiv.org/abs/2302.03231v1](http://arxiv.org/abs/2302.03231v1)
 
-<p align=right>(<a href=#Updated-on-20230208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230209>back to top</a>)</p>
 
 ## Generative Models
 
@@ -60,14 +60,14 @@
 - 2023-02-07, **Boosting Zero-shot Classification with Synthetic Data Diversity via Stable Diffusion**, Jordan Shipard et.al., Lab: Clinton Fookes, Paper: [http://arxiv.org/abs/2302.03298v1](http://arxiv.org/abs/2302.03298v1)
 - 2023-02-07, **Membership Inference Attacks against Diffusion Models**, Tomoya Matsumoto et.al., Lab: Naoto Yanai, Paper: [http://arxiv.org/abs/2302.03262v1](http://arxiv.org/abs/2302.03262v1)
 
-<p align=right>(<a href=#Updated-on-20230208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230209>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-02-07, **NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**, Zihan Zhu et.al., Lab: Marc Pollefeys, Paper: [http://arxiv.org/abs/2302.03594v1](http://arxiv.org/abs/2302.03594v1)
 - 2023-02-07, **Object-Centric Scene Representations using Active Inference**, Toon Van de Maele et.al., Lab: Bart Dhoedt, Paper: [http://arxiv.org/abs/2302.03288v1](http://arxiv.org/abs/2302.03288v1)
 
-<p align=right>(<a href=#Updated-on-20230208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230209>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -222,5 +222,5 @@
 - 2023-02-07, **Information geometry and Bose-Einstein condensation**, Pedro Pessoa et.al., Lab: Pedro Pessoa, Paper: [http://arxiv.org/abs/2302.03182v1](http://arxiv.org/abs/2302.03182v1)
 - 2023-02-07, **Learning bias corrections for climate models using deep neural operators**, Aniruddha Bora et.al., Lab: George Em Karniadakis, Paper: [http://arxiv.org/abs/2302.03173v1](http://arxiv.org/abs/2302.03173v1)
 
-<p align=right>(<a href=#Updated-on-20230208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230209>back to top</a>)</p>
 
