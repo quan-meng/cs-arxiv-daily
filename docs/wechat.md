@@ -1,4 +1,4 @@
-> Updated on 2023.02.10
+> Updated on 2023.02.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2023-02-09, **In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition**, Yiran Xu et.al., Lab: Seoung Wug Oh, Paper: [http://arxiv.org/abs/2302.04871v1](http://arxiv.org/abs/2302.04871v1)
 
-<p align=right>(<a href=#Updated-on-20230210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230211>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -45,13 +45,13 @@
 - 2023-02-09, **FDD Massive MIMO Without CSI Feedback**, Deokhwan Han et.al., Lab: Namyoon Lee, Paper: [http://arxiv.org/abs/2302.04398v1](http://arxiv.org/abs/2302.04398v1)
 - 2023-02-09, **Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes**, Huixin Zhan et.al., Lab: Victor S. Sheng, Paper: [http://arxiv.org/abs/2302.04383v1](http://arxiv.org/abs/2302.04383v1)
 
-<p align=right>(<a href=#Updated-on-20230210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230211>back to top</a>)</p>
 
 ## Generative Models
 
 - 2023-02-09, **In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition**, Yiran Xu et.al., Lab: Seoung Wug Oh, Paper: [http://arxiv.org/abs/2302.04871v1](http://arxiv.org/abs/2302.04871v1)
 - 2023-02-09, **UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models**, Wenliang Zhao et.al., Lab: Jiwen Lu, Paper: [http://arxiv.org/abs/2302.04867v1](http://arxiv.org/abs/2302.04867v1), Code: **[https://github.com/wl-zhao/unipc](https://github.com/wl-zhao/unipc)**
-- 2023-02-09, **Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**, Anton Voronov et.al., Lab: Max Ryabinin, Paper: [http://arxiv.org/abs/2302.04841v1](http://arxiv.org/abs/2302.04841v1)
+- 2023-02-09, **Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**, Anton Voronov et.al., Lab: Max Ryabinin, Paper: [http://arxiv.org/abs/2302.04841v1](http://arxiv.org/abs/2302.04841v1), Code: **[https://github.com/yandex-research/dvar](https://github.com/yandex-research/dvar)**
 - 2023-02-09, **Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**, Gustavo Claudio Karl Couto et.al., Lab: Eric Aislan Antonelo, Paper: [http://arxiv.org/abs/2302.04823v1](http://arxiv.org/abs/2302.04823v1), Code: **[https://github.com/gustavokcouto/hgail](https://github.com/gustavokcouto/hgail)**
 - 2023-02-09, **Global Stability of a PDE-ODE model for acid-mediated tumor invasion**, Li Fang et.al., Lab: Ruijia Yu, Paper: [http://arxiv.org/abs/2302.04765v1](http://arxiv.org/abs/2302.04765v1)
 - 2023-02-09, **Better Diffusion Models Further Improve Adversarial Training**, Zekai Wang et.al., Lab: Shuicheng Yan, Paper: [http://arxiv.org/abs/2302.04638v1](http://arxiv.org/abs/2302.04638v1), Code: **[https://github.com/wzekai99/dm-improves-at](https://github.com/wzekai99/dm-improves-at)**
@@ -60,14 +60,14 @@
 - 2023-02-09, **Full optimization of quasiharmonic free energy with anharmonic lattice model: Application to thermal expansion and pyroelectricity of wurtzite GaN and ZnO**, Ryota Masuki et.al., Lab: Terumasa Tadano, Paper: [http://arxiv.org/abs/2302.04537v1](http://arxiv.org/abs/2302.04537v1)
 - 2023-02-09, **ERNIE-Music: Text-to-Waveform Music Generation with Diffusion Models**, Pengfei Zhu et.al., Lab: Hua Wu, Paper: [http://arxiv.org/abs/2302.04456v1](http://arxiv.org/abs/2302.04456v1)
 
-<p align=right>(<a href=#Updated-on-20230210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230211>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-02-07, **NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**, Zihan Zhu et.al., Lab: Marc Pollefeys, Paper: [http://arxiv.org/abs/2302.03594v1](http://arxiv.org/abs/2302.03594v1)
 - 2023-02-07, **Object-Centric Scene Representations using Active Inference**, Toon Van de Maele et.al., Lab: Bart Dhoedt, Paper: [http://arxiv.org/abs/2302.03288v1](http://arxiv.org/abs/2302.03288v1)
 
-<p align=right>(<a href=#Updated-on-20230210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230211>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -75,7 +75,7 @@
 - 2023-02-09, **RelightableHands: Efficient Neural Relighting of Articulated Hand Models**, Shun Iwase et.al., Lab: Jason Saragih, Paper: [http://arxiv.org/abs/2302.04866v1](http://arxiv.org/abs/2302.04866v1)
 - 2023-02-09, **Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning**, Zhuolin Yang et.al., Lab: Anima Anandkumar, Paper: [http://arxiv.org/abs/2302.04858v1](http://arxiv.org/abs/2302.04858v1)
 - 2023-02-09, **Delay Sensitive Hierarchical Federated Learning with Stochastic Local Updates**, Abdulmoneam Ali et.al., Lab: Ahmed Arafa, Paper: [http://arxiv.org/abs/2302.04851v1](http://arxiv.org/abs/2302.04851v1)
-- 2023-02-09, **Robot Synesthesia: A Sound and Emotion Guided AI Painter**, Vihaan Misra et.al., Lab: Jean Oh, Paper: [http://arxiv.org/abs/2302.04850v1](http://arxiv.org/abs/2302.04850v1)
+- 2023-02-09, **Robot Synesthesia: A Sound and Emotion Guided AI Painter**, Vihaan Misra et.al., Lab: Jean Oh, Paper: [http://arxiv.org/abs/2302.04850v1](http://arxiv.org/abs/2302.04850v1), Code: **[https://github.com/pschaldenbrand/Frida](https://github.com/pschaldenbrand/Frida)**
 - 2023-02-09, **Validation of an OpenFOAM-based solver for the Euler equations with benchmarks for mesoscale atmospheric modeling**, Michele Girfoglio et.al., Lab: Gianluigi Rozza, Paper: [http://arxiv.org/abs/2302.04836v1](http://arxiv.org/abs/2302.04836v1)
 - 2023-02-09, **Cooperative Open-ended Learning Framework for Zero-shot Coordination**, Yang Li et.al., Lab: Wei Pan, Paper: [http://arxiv.org/abs/2302.04831v1](http://arxiv.org/abs/2302.04831v1)
 - 2023-02-09, **Counting matrix points on certain varieties over finite fields**, Yifeng Huang et.al., Lab: Hasan Saad, Paper: [http://arxiv.org/abs/2302.04830v1](http://arxiv.org/abs/2302.04830v1)
@@ -83,7 +83,7 @@
 - 2023-02-09, **Boundary conditions in hydrodynamic simulations of isolated galaxies and their impact on the gas-loss processes**, Anderson Caproni et.al., Lab: Jennifer F. Soares, Paper: [http://arxiv.org/abs/2302.04825v1](http://arxiv.org/abs/2302.04825v1)
 - 2023-02-09, **Mach--Zehnder-like interferometry with graphene nanoribbon networks**, Sofia Sanz et.al., Lab: Thomas Frederiksen, Paper: [http://arxiv.org/abs/2302.04821v1](http://arxiv.org/abs/2302.04821v1)
 - 2023-02-09, **Optimal Semiclassical Regularity of Projection Operators and Strong Weyl Law**, Laurent Lafleche et.al., Lab: Laurent Lafleche, Paper: [http://arxiv.org/abs/2302.04816v1](http://arxiv.org/abs/2302.04816v1)
-- 2023-02-09, **To Perceive or Not to Perceive: Lightweight Stacked Hourglass Network**, Jameel Hassan Abdul Samadh et.al., Lab: Salwa K. Al Khatib, Paper: [http://arxiv.org/abs/2302.04815v1](http://arxiv.org/abs/2302.04815v1)
+- 2023-02-09, **To Perceive or Not to Perceive: Lightweight Stacked Hourglass Network**, Jameel Hassan Abdul Samadh et.al., Lab: Salwa K. Al Khatib, Paper: [http://arxiv.org/abs/2302.04815v1](http://arxiv.org/abs/2302.04815v1), Code: **[https://github.com/jameelhassan/poseestimation](https://github.com/jameelhassan/poseestimation)**
 - 2023-02-09, **Coincident Massless, Minimally Coupled Scalar Correlators on General Cosmological Backgrounds**, E. Kasdagli et.al., Lab: R. P. Woodard, Paper: [http://arxiv.org/abs/2302.04808v1](http://arxiv.org/abs/2302.04808v1)
 - 2023-02-09, **Running vacuum in Brans-Dicke theory: a possible cure for the $σ_8$ and $H_0$ tensions**, Javier de Cruz Perez et.al., Lab: C. P. Singh, Paper: [http://arxiv.org/abs/2302.04807v1](http://arxiv.org/abs/2302.04807v1)
 - 2023-02-09, **Pseudoconvexity at infinity in Hodge theory: a codimension one example**, Colleen Robles et.al., Lab: Colleen Robles, Paper: [http://arxiv.org/abs/2302.04806v1](http://arxiv.org/abs/2302.04806v1)
@@ -156,7 +156,7 @@
 - 2023-02-09, **Tropical vertex and real enumerative geometry**, Eugenii Shustin et.al., Lab: Eugenii Shustin, Paper: [http://arxiv.org/abs/2302.04531v1](http://arxiv.org/abs/2302.04531v1)
 - 2023-02-09, **Toward Extremely Lightweight Distracted Driver Recognition With Distillation-Based Neural Architecture Search and Knowledge Transfer**, Dichao Liu et.al., Lab: Jien Kato, Paper: [http://arxiv.org/abs/2302.04527v1](http://arxiv.org/abs/2302.04527v1), Code: **[https://github.com/dichao-liu/lightweight_distracted_driver_recognition_with_distillation-based_nas_and_knowledge_transfer](https://github.com/dichao-liu/lightweight_distracted_driver_recognition_with_distillation-based_nas_and_knowledge_transfer)**
 - 2023-02-09, **The QCD shockwave approach at NLO: towards precision physics in gluonic saturation**, Samuel Wallon et.al., Lab: Samuel Wallon, Paper: [http://arxiv.org/abs/2302.04526v1](http://arxiv.org/abs/2302.04526v1)
-- 2023-02-09, **RayNet: A Simulation Platform for Developing Reinforcement Learning-Driven Network Protocols**, Luca Giacomoni et.al., Lab: George Parisis, Paper: [http://arxiv.org/abs/2302.04519v1](http://arxiv.org/abs/2302.04519v1)
+- 2023-02-09, **RayNet: A Simulation Platform for Developing Reinforcement Learning-Driven Network Protocols**, Luca Giacomoni et.al., Lab: George Parisis, Paper: [http://arxiv.org/abs/2302.04519v1](http://arxiv.org/abs/2302.04519v1), Code: **[https://github.com/giacomoni/raynet](https://github.com/giacomoni/raynet)**
 - 2023-02-09, **Introduction To Gaussian Process Regression In Bayesian Inverse Problems, With New ResultsOn Experimental Design For Weighted Error Measures**, Tapio Helin et.al., Lab: Konstantinos Zygalakis, Paper: [http://arxiv.org/abs/2302.04518v1](http://arxiv.org/abs/2302.04518v1)
 - 2023-02-09, **Joint Uplink and Downlink EMF Exposure: Performance Analysis and Design Insights**, Lin Chen et.al., Lab: Mohamed-Slim Alouini, Paper: [http://arxiv.org/abs/2302.04517v1](http://arxiv.org/abs/2302.04517v1)
 - 2023-02-09, **Teutsch 76: a Deep Near-Infrared Study**, Saurabh Sharma et.al., Lab: Tarak Chand, Paper: [http://arxiv.org/abs/2302.04516v1](http://arxiv.org/abs/2302.04516v1)
@@ -189,7 +189,7 @@
 - 2023-02-09, **Active Simultaneously Transmitting and Reflecting (STAR)-RISs: Modelling and Analysis**, Jiaqi Xu et.al., Lab: Yuanwei Liu, Paper: [http://arxiv.org/abs/2302.04432v1](http://arxiv.org/abs/2302.04432v1)
 - 2023-02-09, **Directional emission of nanoscale chiral sources modified by gap plasmons**, Hai Lin et.al., Lab: Guowei Lu, Paper: [http://arxiv.org/abs/2302.04431v1](http://arxiv.org/abs/2302.04431v1)
 - 2023-02-09, **A Comparison of Decision Forest Inference Platforms from A Database Perspective**, Hong Guan et.al., Lab: Jia Zou, Paper: [http://arxiv.org/abs/2302.04430v1](http://arxiv.org/abs/2302.04430v1)
-- 2023-02-09, **Gentlest ascent dynamics on manifolds defined by adaptively sampled point-clouds**, Juan M. Bello-Rivas et.al., Lab: Ioannis G. Kevrekidis, Paper: [http://arxiv.org/abs/2302.04426v1](http://arxiv.org/abs/2302.04426v1)
+- 2023-02-09, **Gentlest ascent dynamics on manifolds defined by adaptively sampled point-clouds**, Juan M. Bello-Rivas et.al., Lab: Ioannis G. Kevrekidis, Paper: [http://arxiv.org/abs/2302.04426v1](http://arxiv.org/abs/2302.04426v1), Code: **[https://github.com/jmbr/gentlest_ascent_dynamics_on_manifolds](https://github.com/jmbr/gentlest_ascent_dynamics_on_manifolds)**
 - 2023-02-09, **Latency-aware adaptive shot allocation for run-time efficient variational quantum algorithms**, Kosuke Ito et.al., Lab: Kosuke Ito, Paper: [http://arxiv.org/abs/2302.04422v1](http://arxiv.org/abs/2302.04422v1)
 - 2023-02-09, **On a vanishing theorem for birational morphisms of threefolds in positive and mixed characteristics**, Emelie Arvidsson et.al., Lab: Emelie Arvidsson, Paper: [http://arxiv.org/abs/2302.04420v1](http://arxiv.org/abs/2302.04420v1)
 - 2023-02-09, **Dynamic and Stochastic Rational Behavior**, Nail Kashaev et.al., Lab: Victor H. Aguiar, Paper: [http://arxiv.org/abs/2302.04417v1](http://arxiv.org/abs/2302.04417v1)
@@ -206,5 +206,5 @@
 - 2023-02-09, **Structural changes induced by electric currents in a single crystal of Pr$_2$CuO$_4$**, Susmita Roy et.al., Lab: Dmitry Reznik, Paper: [http://arxiv.org/abs/2302.04385v1](http://arxiv.org/abs/2302.04385v1)
 - 2023-02-09, **On the relative isoperimetric problem for the cube**, Gregory R. Chambers et.al., Lab: Lawrence Mouillé, Paper: [http://arxiv.org/abs/2302.04382v1](http://arxiv.org/abs/2302.04382v1)
 
-<p align=right>(<a href=#Updated-on-20230210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230211>back to top</a>)</p>
 
