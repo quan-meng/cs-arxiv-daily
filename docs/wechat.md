@@ -1,4 +1,4 @@
-> Updated on 2023.02.13
+> Updated on 2023.02.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 
 - 2023-02-09, **In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition**, Yiran Xu et.al., Lab: Seoung Wug Oh, Paper: [http://arxiv.org/abs/2302.04871v1](http://arxiv.org/abs/2302.04871v1)
 
-<p align=right>(<a href=#Updated-on-20230213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -43,7 +43,7 @@
 - 2023-02-10, **Exploiting Sparsity in Pruned Neural Networks to Optimize Large Model Training**, Siddharth Singh et.al., Lab: Abhinav Bhatele, Paper: [http://arxiv.org/abs/2302.05045v1](http://arxiv.org/abs/2302.05045v1)
 - 2023-02-10, **Context Understanding in Computer Vision: A Survey**, Xuan Wang et.al., Lab: Zhigang Zhu, Paper: [http://arxiv.org/abs/2302.05011v1](http://arxiv.org/abs/2302.05011v1)
 
-<p align=right>(<a href=#Updated-on-20230213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
 
 ## Generative Models
 
@@ -51,14 +51,14 @@
 - 2023-02-10, **Industrial and Medical Anomaly Detection Through Cycle-Consistent Adversarial Networks**, Arnaud Bougaham et.al., Lab: Benoît Frénay, Paper: [http://arxiv.org/abs/2302.05154v1](http://arxiv.org/abs/2302.05154v1)
 - 2023-02-10, **Example-Based Sampling with Diffusion Models**, Bastien Doignies et.al., Lab: Victor Ostromoukhov, Paper: [http://arxiv.org/abs/2302.05116v1](http://arxiv.org/abs/2302.05116v1)
 
-<p align=right>(<a href=#Updated-on-20230213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-02-07, **NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**, Zihan Zhu et.al., Lab: Marc Pollefeys, Paper: [http://arxiv.org/abs/2302.03594v1](http://arxiv.org/abs/2302.03594v1)
 - 2023-02-07, **Object-Centric Scene Representations using Active Inference**, Toon Van de Maele et.al., Lab: Bart Dhoedt, Paper: [http://arxiv.org/abs/2302.03288v1](http://arxiv.org/abs/2302.03288v1)
 
-<p align=right>(<a href=#Updated-on-20230213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -169,5 +169,5 @@
 - 2023-02-10, **On the Tacit Linearity Assumption in Common Cascaded Models of RIS-Parametrized Wireless Channels**, Antonin Rabault et.al., Lab: Philipp del Hougne, Paper: [http://arxiv.org/abs/2302.04993v1](http://arxiv.org/abs/2302.04993v1)
 - 2023-02-10, **Ultrafast electron-electron scattering in metallic phase of 2H-NbSe$_2$ probed by high harmonic generation**, K. S. Shimomura et.al., Lab: K. Tanaka, Paper: [http://arxiv.org/abs/2302.04984v1](http://arxiv.org/abs/2302.04984v1)
 
-<p align=right>(<a href=#Updated-on-20230213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
 
