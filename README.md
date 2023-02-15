@@ -1,4 +1,4 @@
-## Updated on 2023.02.14
+## Updated on 2023.02.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 |---|---|---|---|---|---|
 |**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|Jun-Yan Zhu|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230215>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -63,7 +63,7 @@
 |**2023-02-13**|**gpcgc: a green point cloud geometry coding method**|Qingyang Zhou et.al.|C. -C. Jay Kuo|[2302.06062v1](http://arxiv.org/abs/2302.06062v1)|    |
 |**2023-02-13**|**A Polynomial Time Algorithm For 0-1 Integer Linear Programmings**|G. Q. Zhang et.al.|G. Q. Zhang|[2302.06049v1](http://arxiv.org/abs/2302.06049v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230215>back to top</a>)</p>
 
 ## Generative Models
 
@@ -75,7 +75,7 @@
 |**2023-02-13**|**Learning to Scale Temperature in Masked Self-Attention for Image Inpainting**|Xiang Zhou et.al.|Yi Gong|[2302.06130v1](http://arxiv.org/abs/2302.06130v1)|    |
 |**2023-02-13**|**Natural, Dense, and Stable Frustrated Lewis Pairs on Wurtzite Crystal Surfaces**|Xi-Yang Yu et.al.|Chun-Ran Chang|[2302.06111v1](http://arxiv.org/abs/2302.06111v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230215>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -83,7 +83,7 @@
 |---|---|---|---|---|---|
 |**2023-02-13**|**A Deep Learning-based Global and Segmentation-based Semantic Feature Fusion Approach for Indoor Scene Classification**|Ricardo Pereira et.al.|Urbano J. Nunes|[2302.06432v1](http://arxiv.org/abs/2302.06432v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230215>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -220,5 +220,5 @@
 |**2023-02-13**|**Near-Optimal High-Probability Convergence for Non-Convex Stochastic Optimization with Variance Reduction**|Zijian Liu et.al.|Zhengyuan Zhou|[2302.06032v1](http://arxiv.org/abs/2302.06032v1)|    |
 |**2023-02-13**|**Reliable Bayesian Inference in Misspecified Models**|David T. Frazier et.al.|David Gunawan|[2302.06031v1](http://arxiv.org/abs/2302.06031v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230215>back to top</a>)</p>
 
