@@ -1,4 +1,4 @@
-## Updated on 2023.03.17
+## Updated on 2023.03.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@
 |**2023-03-16**|**Reliable Image Dehazing by NeRF**|Zheyan Jin et.al.|Yueting Chen|[2303.09153v1](http://arxiv.org/abs/2303.09153v1)|    |
 |**2023-03-16**|**Learning a Room with the Occ-SDF Hybrid: Signed Distance Function Mingled with Occupancy Aids Scene Representation**|Xiaoyang Lyu et.al.|Xiaojuan Qi|[2303.09152v1](http://arxiv.org/abs/2303.09152v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230318>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -74,7 +74,7 @@
 |**2023-03-16**|**Mimic3D: Thriving 3D-Aware GANs via 3D-to-2D Imitation**|Xingyu Chen et.al.|Baoyuan Wang|[2303.09036v1](http://arxiv.org/abs/2303.09036v1)|    |
 |**2023-03-16**|**Exploring the Power of Generative Deep Learning for Image-to-Image Translation and MRI Reconstruction: A Cross-Domain Review**|Yuda Bi et.al.|Yuda Bi|[2303.09012v1](http://arxiv.org/abs/2303.09012v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230318>back to top</a>)</p>
 
 ## Generative Models
 
@@ -97,7 +97,7 @@
 |**2023-03-16**|**Exploring the Power of Generative Deep Learning for Image-to-Image Translation and MRI Reconstruction: A Cross-Domain Review**|Yuda Bi et.al.|Yuda Bi|[2303.09012v1](http://arxiv.org/abs/2303.09012v1)|    |
 |**2023-03-16**|**Conditional Synthetic Food Image Generation**|Wenjin Fu et.al.|Fengqing Zhu|[2303.09005v1](http://arxiv.org/abs/2303.09005v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230318>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -107,7 +107,7 @@
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|Federico Tombari|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|    |
 |**2023-03-16**|**Learning a Room with the Occ-SDF Hybrid: Signed Distance Function Mingled with Occupancy Aids Scene Representation**|Xiaoyang Lyu et.al.|Xiaojuan Qi|[2303.09152v1](http://arxiv.org/abs/2303.09152v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230318>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -267,5 +267,5 @@
 |**2023-03-16**|**A High-Performance Accelerator for Super-Resolution Processing on Embedded GPU**|Wenqian Zhao et.al.|Martin D. F. Wong|[2303.08999v1](http://arxiv.org/abs/2303.08999v1)|    |
 |**2023-03-16**|**Overall Binary Evolution Theory**|Diogo Belloni et.al.|Matthias R. Schreiber|[2303.08997v1](http://arxiv.org/abs/2303.08997v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230318>back to top</a>)</p>
 
