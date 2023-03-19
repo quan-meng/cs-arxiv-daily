@@ -217,7 +217,7 @@
 |**2023-03-16**|**Massive Protostellar Disks as a Hot Laboratory of Silicate Grain Evolution**|Ryota Yamamuro et.al.|Satoshi Okuzumi|[2303.09148v1](http://arxiv.org/abs/2303.09148v1)|    |
 |**2023-03-16**|**Capacity Analysis and Rate Maximization Design in RIS-Aided Uplink Multi-User MIMO**|Wei Jiang et.al.|Hans D. Schotten|[2303.09140v1](http://arxiv.org/abs/2303.09140v1)|    |
 |**2023-03-16**|**Real-Time Decentralized Navigation of Nonholonomic Agents Using Shifted Yielding Areas**|Liang He et.al.|Dinesh Manocha|[2303.09139v1](http://arxiv.org/abs/2303.09139v1)|    |
-|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|Zhongxiang Sun|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|    |
+|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|Zhongxiang Sun|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|**[code](https://github.com/jeryi-sun/llm-and-law)**|
 |**2023-03-16**|**The EUCLID NISP grisms flight models performance**|Anne Costille et.al.|C. Pariès|[2303.09130v1](http://arxiv.org/abs/2303.09130v1)|    |
 |**2023-03-16**|**Evaluation of distance-based approaches for forensic comparison: Application to hand odor evidence**|Isabelle Rivals et.al.|Vincent Cuzuel|[2303.09126v1](http://arxiv.org/abs/2303.09126v1)|    |
 |**2023-03-16**|**Emergence and fragility of a research-creation (2000-2007)**|Georges Gagneré et.al.|Georges Gagneré|[2303.09123v1](http://arxiv.org/abs/2303.09123v1)|    |
