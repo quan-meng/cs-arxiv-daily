@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.25
+## Updated on 2023.03.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@ layout: default
 |**2023-03-23**|**ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting**|Ruofan Liang et.al.|Nandita Vijaykumar|[2303.13022v1](http://arxiv.org/abs/2303.13022v1)|**[code](https://github.com/nexuslrf/ENVIDR)**|
 |**2023-03-23**|**Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention**|Fangfu Liu et.al.|Yueqi Duan|[2303.13014v1](http://arxiv.org/abs/2303.13014v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -86,7 +86,7 @@ layout: default
 |**2023-03-23**|**Efficient Meshy Neural Fields for Animatable Human Avatars**|Xiaoke Huang et.al.|Jiwen Lu|[2303.12965v1](http://arxiv.org/abs/2303.12965v1)|    |
 |**2023-03-23**|**Continuous Indeterminate Probability Neural Network**|Tao Yang et.al.|Tao Yang|[2303.12964v1](http://arxiv.org/abs/2303.12964v1)|**[code](https://github.com/starfruit007/cipnn)**|
 
-<p align=right>(<a href=#Updated-on-20230325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
 
 ## Generative Models
 
@@ -107,7 +107,7 @@ layout: default
 |**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|Shiwen Mao|[2303.13052v1](http://arxiv.org/abs/2303.13052v1)|    |
 |**2023-03-23**|**Controllable Inversion of Black-Box Face-Recognition Models via Diffusion**|Manuel Kansy et.al.|Romann M. Weber|[2303.13006v1](http://arxiv.org/abs/2303.13006v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -117,7 +117,7 @@ layout: default
 |**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|Ting Yao|[2303.13232v1](http://arxiv.org/abs/2303.13232v1)|    |
 |**2023-03-23**|**ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting**|Ruofan Liang et.al.|Nandita Vijaykumar|[2303.13022v1](http://arxiv.org/abs/2303.13022v1)|**[code](https://github.com/nexuslrf/ENVIDR)**|
 
-<p align=right>(<a href=#Updated-on-20230325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -256,5 +256,5 @@ layout: default
 |**2023-03-23**|**Initial-state dependent quantum speed limit for dissipative state preparation: Framework and optimization**|Junjie Liu et.al.|Hamlin Nie|[2303.12967v1](http://arxiv.org/abs/2303.12967v1)|    |
 |**2023-03-23**|**Efficient Meshy Neural Fields for Animatable Human Avatars**|Xiaoke Huang et.al.|Jiwen Lu|[2303.12965v1](http://arxiv.org/abs/2303.12965v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
 
