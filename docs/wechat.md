@@ -94,7 +94,7 @@
 - 2023-03-23, **PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360$^{\circ}$**, Sizhe An et.al., Lab: Linjie Luo, Paper: [http://arxiv.org/abs/2303.13071v1](http://arxiv.org/abs/2303.13071v1)
 - 2023-03-23, **DiffPattern: Layout Pattern Generation via Discrete Diffusion**, Zixiao Wang et.al., Lab: Bei Yu, Paper: [http://arxiv.org/abs/2303.13060v1](http://arxiv.org/abs/2303.13060v1)
 - 2023-03-23, **Reimagining Application User Interface (UI) Design using Deep Learning Methods: Challenges and Opportunities**, Subtain Malik et.al., Lab: Mian Ilyas Ahmed, Paper: [http://arxiv.org/abs/2303.13055v1](http://arxiv.org/abs/2303.13055v1)
-- 2023-03-23, **Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**, Hongyang Du et.al., Lab: Shiwen Mao, Paper: [http://arxiv.org/abs/2303.13052v1](http://arxiv.org/abs/2303.13052v1)
+- 2023-03-23, **Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**, Hongyang Du et.al., Lab: Shiwen Mao, Paper: [http://arxiv.org/abs/2303.13052v1](http://arxiv.org/abs/2303.13052v1), Code: **[https://github.com/lizonghang/agod](https://github.com/lizonghang/agod)**
 - 2023-03-23, **Controllable Inversion of Black-Box Face-Recognition Models via Diffusion**, Manuel Kansy et.al., Lab: Romann M. Weber, Paper: [http://arxiv.org/abs/2303.13006v1](http://arxiv.org/abs/2303.13006v1)
 
 <p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
@@ -221,7 +221,7 @@
 - 2023-03-23, **5G-Aided RTK Positioning in GNSS-Deprived Environments**, Pinjun Zheng et.al., Lab: Tareq Y. Al-Naffouri, Paper: [http://arxiv.org/abs/2303.13067v1](http://arxiv.org/abs/2303.13067v1)
 - 2023-03-23, **SIEDOB: Semantic Image Editing by Disentangling Object and Background**, Wuyang Luo et.al., Lab: Weishan Zhang, Paper: [http://arxiv.org/abs/2303.13062v1](http://arxiv.org/abs/2303.13062v1), Code: **[https://github.com/wuyangluo/siedob](https://github.com/wuyangluo/siedob)**
 - 2023-03-23, **Lightweight High-Performance Blind Image Quality Assessment**, Zhanxuan Mei et.al., Lab: C. -C. Jay Kuo, Paper: [http://arxiv.org/abs/2303.13057v1](http://arxiv.org/abs/2303.13057v1)
-- 2023-03-23, **Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**, Hongyang Du et.al., Lab: Shiwen Mao, Paper: [http://arxiv.org/abs/2303.13052v1](http://arxiv.org/abs/2303.13052v1)
+- 2023-03-23, **Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**, Hongyang Du et.al., Lab: Shiwen Mao, Paper: [http://arxiv.org/abs/2303.13052v1](http://arxiv.org/abs/2303.13052v1), Code: **[https://github.com/lizonghang/agod](https://github.com/lizonghang/agod)**
 - 2023-03-23, **Quantized Phase Alignment by Discrete Phase Shifts for Reconfigurable Intelligent Surface-Assisted Communication Systems**, Jian Sang et.al., Lab: Shi Jin, Paper: [http://arxiv.org/abs/2303.13046v1](http://arxiv.org/abs/2303.13046v1)
 - 2023-03-23, **Open-Vocabulary Object Detection using Pseudo Caption Labels**, Han-Cheol Cho et.al., Lab: Byungseok Roh, Paper: [http://arxiv.org/abs/2303.13040v1](http://arxiv.org/abs/2303.13040v1)
 - 2023-03-23, **SPeC: A Soft Prompt-Based Calibration on Mitigating Performance Variability in Clinical Notes Summarization**, Yu-Neng Chuang et.al., Lab: Xia Hu, Paper: [http://arxiv.org/abs/2303.13035v1](http://arxiv.org/abs/2303.13035v1)
