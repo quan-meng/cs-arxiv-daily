@@ -1,4 +1,4 @@
-> Updated on 2023.04.01
+> Updated on 2023.04.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 - 2023-03-30, **NeILF++: Inter-Reflectable Light Fields for Geometry and Material Estimation**, Jingyang Zhang et.al., Lab: Long Quan, Paper: [http://arxiv.org/abs/2303.17147v1](http://arxiv.org/abs/2303.17147v1)
 - 2023-03-30, **Enhanced Stable View Synthesis**, Nishant Jain et.al., Lab: Luc Van Gool, Paper: [http://arxiv.org/abs/2303.17094v1](http://arxiv.org/abs/2303.17094v1)
 
-<p align=right>(<a href=#Updated-on-20230401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -57,7 +57,7 @@
 - 2023-03-30, **Enhanced Stable View Synthesis**, Nishant Jain et.al., Lab: Luc Van Gool, Paper: [http://arxiv.org/abs/2303.17094v1](http://arxiv.org/abs/2303.17094v1)
 - 2023-03-30, **Depth-NeuS: Neural Implicit Surfaces Learning for Multi-view Reconstruction Based on Depth Information Optimization**, Hanqi Jiang et.al., Lab: Conglin Wang, Paper: [http://arxiv.org/abs/2303.17088v1](http://arxiv.org/abs/2303.17088v1)
 
-<p align=right>(<a href=#Updated-on-20230401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
 
 ## Generative Models
 
@@ -79,13 +79,13 @@
 - 2023-03-30, **Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study**, Yinqiu Liu et.al., Lab: Abbas Jamalipour, Paper: [http://arxiv.org/abs/2303.17114v1](http://arxiv.org/abs/2303.17114v1)
 - 2023-03-30, **DiffCollage: Parallel Generation of Large Content with Diffusion Models**, Qinsheng Zhang et.al., Lab: Ming-Yu Liu, Paper: [http://arxiv.org/abs/2303.17076v1](http://arxiv.org/abs/2303.17076v1)
 
-<p align=right>(<a href=#Updated-on-20230401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-03-30, **AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**, Ruixiang Jiang et.al., Lab: Jing Liao, Paper: [http://arxiv.org/abs/2303.17606v1](http://arxiv.org/abs/2303.17606v1)
 
-<p align=right>(<a href=#Updated-on-20230401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -220,5 +220,5 @@
 - 2023-03-30, **Superfluid $^3$He-B Surface States in a Confined Geometry Probed by a Microelectromechanical Oscillator**, W. G. Jiang et.al., Lab: H. B. Chan, Paper: [http://arxiv.org/abs/2303.17073v1](http://arxiv.org/abs/2303.17073v1)
 - 2023-03-30, **DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents**, Varun Nair et.al., Lab: Anitha Kannan, Paper: [http://arxiv.org/abs/2303.17071v1](http://arxiv.org/abs/2303.17071v1), Code: **[https://github.com/curai/curai-research](https://github.com/curai/curai-research)**
 
-<p align=right>(<a href=#Updated-on-20230401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
 
