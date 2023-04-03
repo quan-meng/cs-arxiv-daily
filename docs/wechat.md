@@ -1,4 +1,4 @@
-> Updated on 2023.04.02
+> Updated on 2023.04.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,46 +18,14 @@
 - 2023-03-30, **NeILF++: Inter-Reflectable Light Fields for Geometry and Material Estimation**, Jingyang Zhang et.al., Lab: Long Quan, Paper: [http://arxiv.org/abs/2303.17147v1](http://arxiv.org/abs/2303.17147v1)
 - 2023-03-30, **Enhanced Stable View Synthesis**, Nishant Jain et.al., Lab: Luc Van Gool, Paper: [http://arxiv.org/abs/2303.17094v1](http://arxiv.org/abs/2303.17094v1)
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## 3D Reconstruction
 
 - 2023-03-30, **AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**, Ruixiang Jiang et.al., Lab: Jing Liao, Paper: [http://arxiv.org/abs/2303.17606v1](http://arxiv.org/abs/2303.17606v1)
 - 2023-03-30, **SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer**, Xuanyao Chen et.al., Lab: Song Han, Paper: [http://arxiv.org/abs/2303.17605v1](http://arxiv.org/abs/2303.17605v1)
-- 2023-03-30, **Robo3D: Towards Robust and Reliable 3D Perception against Corruptions**, Lingdong Kong et.al., Lab: Ziwei Liu, Paper: [http://arxiv.org/abs/2303.17597v1](http://arxiv.org/abs/2303.17597v1), Code: **[https://github.com/ldkong1205/Robo3D](https://github.com/ldkong1205/Robo3D)**
-- 2023-03-30, **DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder**, Chenpng Du et.al., Lab: Jiang Bian, Paper: [http://arxiv.org/abs/2303.17550v1](http://arxiv.org/abs/2303.17550v1)
-- 2023-03-30, **Learning in Factored Domains with Information-Constrained Visual Representations**, Tyler Malloy et.al., Lab: Chris R. Sims, Paper: [http://arxiv.org/abs/2303.17508v1](http://arxiv.org/abs/2303.17508v1)
-- 2023-03-30, **3D Line Mapping Revisited**, Shaohui Liu et.al., Lab: Viktor Larsson, Paper: [http://arxiv.org/abs/2303.17504v1](http://arxiv.org/abs/2303.17504v1), Code: **[https://github.com/cvg/limap](https://github.com/cvg/limap)**
-- 2023-03-30, **PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation**, Qitao Zhao et.al., Lab: Chen Chen, Paper: [http://arxiv.org/abs/2303.17472v1](http://arxiv.org/abs/2303.17472v1), Code: **[https://github.com/qitaozhao/poseformerv2](https://github.com/qitaozhao/poseformerv2)**
-- 2023-03-30, **Semantic Image Translation for Repairing the Texture Defects of Building Models**, Qisen Shang et.al., Lab: Libin Wang, Paper: [http://arxiv.org/abs/2303.17418v1](http://arxiv.org/abs/2303.17418v1)
-- 2023-03-30, **Steered Mixture of Experts Regression for Image Denoising with Multi-Model-Inference**, Aytac Özkan et.al., Lab: Thomas Sikora, Paper: [http://arxiv.org/abs/2303.17409v1](http://arxiv.org/abs/2303.17409v1)
-- 2023-03-30, **GHz detection rates and dynamic photon-number resolution with superconducting nanowire arrays**, Giovanni V. Resta et.al., Lab: Félix Bussières, Paper: [http://arxiv.org/abs/2303.17401v1](http://arxiv.org/abs/2303.17401v1)
-- 2023-03-30, **SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling**, Zhitao Yang et.al., Lab: Lei Yang, Paper: [http://arxiv.org/abs/2303.17368v1](http://arxiv.org/abs/2303.17368v1)
-- 2023-03-30, **Incremental Self-Supervised Learning Based on Transformer for Anomaly Detection and Localization**, Wenping Jin et.al., Lab: Li Zhu, Paper: [http://arxiv.org/abs/2303.17354v1](http://arxiv.org/abs/2303.17354v1)
-- 2023-03-30, **PMatch: Paired Masked Image Modeling for Dense Geometric Matching**, Shengjie Zhu et.al., Lab: Xiaoming Liu, Paper: [http://arxiv.org/abs/2303.17342v1](http://arxiv.org/abs/2303.17342v1)
-- 2023-03-30, **Local region-learning modules for point cloud classification**, Kaya Turgut et.al., Lab: Helin Dutagaci, Paper: [http://arxiv.org/abs/2303.17338v1](http://arxiv.org/abs/2303.17338v1)
-- 2023-03-30, **Inducing techniques for quantitative recurrence and applications to Misiurewicz maps and doubly intermittent maps**, Dylan Bansard-Tresse et.al., Lab: Jorge Milhazes Freitas, Paper: [http://arxiv.org/abs/2303.17320v1](http://arxiv.org/abs/2303.17320v1)
-- 2023-03-30, **The impact of training dataset size and ensemble inference strategies on head and neck auto-segmentation**, Edward G. A. Henderson et.al., Lab: Eliana M. Vasquez Osorio, Paper: [http://arxiv.org/abs/2303.17318v1](http://arxiv.org/abs/2303.17318v1)
-- 2023-03-30, **New techniques for jet calibration with the ATLAS detector**, ATLAS Collaboration et.al., Lab: ATLAS Collaboration, Paper: [http://arxiv.org/abs/2303.17312v1](http://arxiv.org/abs/2303.17312v1)
-- 2023-03-30, **First Simultaneous Determination of Inclusive and Exclusive $\left|V_{ub}\right|$**, Belle Collaboration et.al., Lab: V. Zhukova, Paper: [http://arxiv.org/abs/2303.17309v1](http://arxiv.org/abs/2303.17309v1)
-- 2023-03-30, **Understanding the Robustness of 3D Object Detection with Bird's-Eye-View Representations in Autonomous Driving**, Zijian Zhu et.al., Lab: Shibao Zheng, Paper: [http://arxiv.org/abs/2303.17297v1](http://arxiv.org/abs/2303.17297v1)
-- 2023-03-30, **Diagnosis of 3D magnetic field and modes composition in MHD turbulence with Y-parameter**, Sunil Malik et.al., Lab: Huirong Yan, Paper: [http://arxiv.org/abs/2303.17282v1](http://arxiv.org/abs/2303.17282v1)
-- 2023-03-30, **GEM Detectors for the CMS Endcap Muon System: status of three new detector stations**, Piet Verwilligen et.al., Lab: Piet Verwilligen, Paper: [http://arxiv.org/abs/2303.17244v1](http://arxiv.org/abs/2303.17244v1)
-- 2023-03-30, **Simultaneous reconstruction of sound speed and nonlinearity parameter in a paraxial model of vibro-acoustography in frequency domain**, Barbara Kaltenbacher ans teresa Rauscher et.al., Lab: Barbara Kaltenbacher ans teresa Rauscher, Paper: [http://arxiv.org/abs/2303.17236v1](http://arxiv.org/abs/2303.17236v1)
-- 2023-03-30, **HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices**, Petros Toupas et.al., Lab: Dimitrios Tzovaras, Paper: [http://arxiv.org/abs/2303.17218v1](http://arxiv.org/abs/2303.17218v1)
-- 2023-03-30, **Few-shot Geometry-Aware Keypoint Localization**, Xingzhe He et.al., Lab: Pablo Garrido, Paper: [http://arxiv.org/abs/2303.17216v1](http://arxiv.org/abs/2303.17216v1)
-- 2023-03-30, **Human from Blur: Human Pose Tracking from Blurry Images**, Yiming Zhao et.al., Lab: Martin R. Oswald, Paper: [http://arxiv.org/abs/2303.17209v1](http://arxiv.org/abs/2303.17209v1)
-- 2023-03-30, **Rethinking the Approximation Error in 3D Surface Fitting for Point Cloud Normal Estimation**, Hang Du et.al., Lab: Shiliang Pu, Paper: [http://arxiv.org/abs/2303.17167v1](http://arxiv.org/abs/2303.17167v1), Code: **[https://github.com/hikvision-research/3dvision](https://github.com/hikvision-research/3dvision)**
-- 2023-03-30, **Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under ManhattanWorld AssumptionWithout Ambiguity**, Nobuhiko Wakai et.al., Lab: Takayoshi Yamashita, Paper: [http://arxiv.org/abs/2303.17166v1](http://arxiv.org/abs/2303.17166v1)
-- 2023-03-30, **Optical information transfer through random unknown diffusers using electronic encoding and diffractive decoding**, Yuhang Li et.al., Lab: Aydogan Ozcan, Paper: [http://arxiv.org/abs/2303.17164v1](http://arxiv.org/abs/2303.17164v1)
-- 2023-03-30, **Mixed Autoencoder for Self-supervised Visual Representation Learning**, Kai Chen et.al., Lab: Dit-Yan Yeung, Paper: [http://arxiv.org/abs/2303.17152v1](http://arxiv.org/abs/2303.17152v1)
-- 2023-03-30, **NeILF++: Inter-Reflectable Light Fields for Geometry and Material Estimation**, Jingyang Zhang et.al., Lab: Long Quan, Paper: [http://arxiv.org/abs/2303.17147v1](http://arxiv.org/abs/2303.17147v1)
-- 2023-03-30, **A Deep Learning Approach to Extracting Nuclear Matter Properties from Neutron Star Observations**, Plamen G. Krastev et.al., Lab: Plamen G. Krastev, Paper: [http://arxiv.org/abs/2303.17146v1](http://arxiv.org/abs/2303.17146v1)
-- 2023-03-30, **BEVFusion4D: Learning LiDAR-Camera Fusion Under Bird's-Eye-View via Cross-Modality Guidance and Temporal Aggregation**, Hongxiang Cai et.al., Lab: Jiuhua Zhao, Paper: [http://arxiv.org/abs/2303.17099v1](http://arxiv.org/abs/2303.17099v1)
-- 2023-03-30, **Enhanced Stable View Synthesis**, Nishant Jain et.al., Lab: Luc Van Gool, Paper: [http://arxiv.org/abs/2303.17094v1](http://arxiv.org/abs/2303.17094v1)
-- 2023-03-30, **Depth-NeuS: Neural Implicit Surfaces Learning for Multi-view Reconstruction Based on Depth Information Optimization**, Hanqi Jiang et.al., Lab: Conglin Wang, Paper: [http://arxiv.org/abs/2303.17088v1](http://arxiv.org/abs/2303.17088v1)
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Generative Models
 
@@ -79,13 +47,13 @@
 - 2023-03-30, **Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study**, Yinqiu Liu et.al., Lab: Abbas Jamalipour, Paper: [http://arxiv.org/abs/2303.17114v1](http://arxiv.org/abs/2303.17114v1)
 - 2023-03-30, **DiffCollage: Parallel Generation of Large Content with Diffusion Models**, Qinsheng Zhang et.al., Lab: Ming-Yu Liu, Paper: [http://arxiv.org/abs/2303.17076v1](http://arxiv.org/abs/2303.17076v1)
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-03-30, **AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**, Ruixiang Jiang et.al., Lab: Jing Liao, Paper: [http://arxiv.org/abs/2303.17606v1](http://arxiv.org/abs/2303.17606v1)
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -220,5 +188,5 @@
 - 2023-03-30, **Superfluid $^3$He-B Surface States in a Confined Geometry Probed by a Microelectromechanical Oscillator**, W. G. Jiang et.al., Lab: H. B. Chan, Paper: [http://arxiv.org/abs/2303.17073v1](http://arxiv.org/abs/2303.17073v1)
 - 2023-03-30, **DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents**, Varun Nair et.al., Lab: Anitha Kannan, Paper: [http://arxiv.org/abs/2303.17071v1](http://arxiv.org/abs/2303.17071v1), Code: **[https://github.com/curai/curai-research](https://github.com/curai/curai-research)**
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
