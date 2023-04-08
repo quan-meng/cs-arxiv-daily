@@ -1,4 +1,4 @@
-> Updated on 2023.04.07
+> Updated on 2023.04.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 - 2023-04-06, **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**, Chenyu You et.al., Lab: James S. Duncan, Paper: [http://arxiv.org/abs/2304.03209v1](http://arxiv.org/abs/2304.03209v1)
 - 2023-04-06, **DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**, Hoigi Seo et.al., Lab: Se Young Chun, Paper: [http://arxiv.org/abs/2304.02827v1](http://arxiv.org/abs/2304.02827v1)
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -47,7 +47,7 @@
 - 2023-04-06, **4D Agnostic Real-Time Facial Animation Pipeline for Desktop Scenarios**, Wei Chen et.al., Lab: Jelo Wang, Paper: [http://arxiv.org/abs/2304.02814v1](http://arxiv.org/abs/2304.02814v1)
 - 2023-04-06, **DeLiRa: Self-Supervised Depth, Light, and Radiance Fields**, Vitor Guizilini et.al., Lab: Adrien Gaidon, Paper: [http://arxiv.org/abs/2304.02797v1](http://arxiv.org/abs/2304.02797v1)
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 
 ## Generative Models
 
@@ -67,13 +67,13 @@
 - 2023-04-06, **DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**, Hoigi Seo et.al., Lab: Se Young Chun, Paper: [http://arxiv.org/abs/2304.02827v1](http://arxiv.org/abs/2304.02827v1)
 - 2023-04-06, **Small cap square function estimates**, Shengwen Gan et.al., Lab: Shengwen Gan, Paper: [http://arxiv.org/abs/2304.02816v1](http://arxiv.org/abs/2304.02816v1)
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-04-06, **LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis**, Akshay Krishnan et.al., Lab: James Hays, Paper: [http://arxiv.org/abs/2304.03280v1](http://arxiv.org/abs/2304.03280v1)
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -200,5 +200,5 @@
 - 2023-04-06, **DeLiRa: Self-Supervised Depth, Light, and Radiance Fields**, Vitor Guizilini et.al., Lab: Adrien Gaidon, Paper: [http://arxiv.org/abs/2304.02797v1](http://arxiv.org/abs/2304.02797v1)
 - 2023-04-06, **Opportunities and challenges of ChatGPT for design knowledge management**, Xin Hu et.al., Lab: Ang Liu, Paper: [http://arxiv.org/abs/2304.02796v1](http://arxiv.org/abs/2304.02796v1)
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 

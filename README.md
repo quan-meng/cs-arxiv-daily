@@ -1,4 +1,4 @@
-## Updated on 2023.04.07
+## Updated on 2023.04.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,7 +20,7 @@
 |**2023-04-06**|**Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**|Chenyu You et.al.|James S. Duncan|[2304.03209v1](http://arxiv.org/abs/2304.03209v1)|    |
 |**2023-04-06**|**DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**|Hoigi Seo et.al.|Se Young Chun|[2304.02827v1](http://arxiv.org/abs/2304.02827v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -51,7 +51,7 @@
 |**2023-04-06**|**4D Agnostic Real-Time Facial Animation Pipeline for Desktop Scenarios**|Wei Chen et.al.|Jelo Wang|[2304.02814v1](http://arxiv.org/abs/2304.02814v1)|    |
 |**2023-04-06**|**DeLiRa: Self-Supervised Depth, Light, and Radiance Fields**|Vitor Guizilini et.al.|Adrien Gaidon|[2304.02797v1](http://arxiv.org/abs/2304.02797v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 
 ## Generative Models
 
@@ -73,7 +73,7 @@
 |**2023-04-06**|**DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**|Hoigi Seo et.al.|Se Young Chun|[2304.02827v1](http://arxiv.org/abs/2304.02827v1)|    |
 |**2023-04-06**|**Small cap square function estimates**|Shengwen Gan et.al.|Shengwen Gan|[2304.02816v1](http://arxiv.org/abs/2304.02816v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -81,7 +81,7 @@
 |---|---|---|---|---|---|
 |**2023-04-06**|**LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis**|Akshay Krishnan et.al.|James Hays|[2304.03280v1](http://arxiv.org/abs/2304.03280v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -210,5 +210,5 @@
 |**2023-04-06**|**DeLiRa: Self-Supervised Depth, Light, and Radiance Fields**|Vitor Guizilini et.al.|Adrien Gaidon|[2304.02797v1](http://arxiv.org/abs/2304.02797v1)|    |
 |**2023-04-06**|**Opportunities and challenges of ChatGPT for design knowledge management**|Xin Hu et.al.|Ang Liu|[2304.02796v1](http://arxiv.org/abs/2304.02796v1)|    |
 
-<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230408>back to top</a>)</p>
 
