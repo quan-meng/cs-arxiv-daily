@@ -1,4 +1,4 @@
-> Updated on 2023.04.12
+> Updated on 2023.04.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 - 2023-04-11, **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**, Weichuang Li et.al., Lab: Xuelong Li, Paper: [http://arxiv.org/abs/2304.05097v1](http://arxiv.org/abs/2304.05097v1)
 - 2023-04-11, **MRVM-NeRF: Mask-Based Pretraining for Neural Radiance Fields**, Ganlin Yang et.al., Lab: Dong Liu, Paper: [http://arxiv.org/abs/2304.04962v1](http://arxiv.org/abs/2304.04962v1)
 
-<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -56,7 +56,7 @@
 - 2023-04-11, **Digital Holographic Imaging via Direct Quantum Wavefunction Reconstruction**, Meng-Jun Hu et.al., Lab: Yong-Sheng ZHang, Paper: [http://arxiv.org/abs/2304.04936v1](http://arxiv.org/abs/2304.04936v1)
 - 2023-04-11, **SATR: Zero-Shot Semantic Segmentation of 3D Shapes**, Ahmed Abdelreheem et.al., Lab: Peter Wonka, Paper: [http://arxiv.org/abs/2304.04909v1](http://arxiv.org/abs/2304.04909v1)
 
-<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
 
 ## Generative Models
 
@@ -71,13 +71,13 @@
 - 2023-04-11, **Diffusion Recommender Model**, Wenjie Wang et.al., Lab: Tat-Seng Chua, Paper: [http://arxiv.org/abs/2304.04971v1](http://arxiv.org/abs/2304.04971v1), Code: **[https://github.com/yiyanxu/diffrec](https://github.com/yiyanxu/diffrec)**
 - 2023-04-11, **Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond**, Mohammadreza Armandpour et.al., Lab: Mingyuan Zhou, Paper: [http://arxiv.org/abs/2304.04968v1](http://arxiv.org/abs/2304.04968v1)
 
-<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
 
 ## Scene Representation
 
 - 2023-04-11, **MRVM-NeRF: Mask-Based Pretraining for Neural Radiance Fields**, Ganlin Yang et.al., Lab: Dong Liu, Paper: [http://arxiv.org/abs/2304.04962v1](http://arxiv.org/abs/2304.04962v1)
 
-<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -86,128 +86,6 @@
 - 2023-04-11, **Photon Chiral Memory Effect Stored on Celestial Sphere**, Azadeh Maleknejad et.al., Lab: Azadeh Maleknejad, Paper: [http://arxiv.org/abs/2304.05381v1](http://arxiv.org/abs/2304.05381v1)
 - 2023-04-11, **Einstein-Yang-Mills fields in conformally compact manifolds**, Levi Lopes de Lima et.al., Lab: Levi Lopes de Lima, Paper: [http://arxiv.org/abs/2304.05373v1](http://arxiv.org/abs/2304.05373v1)
 - 2023-04-11, **Diffusion Models for Constrained Domains**, Nic Fishman et.al., Lab: Michael Hutchinson, Paper: [http://arxiv.org/abs/2304.05364v1](http://arxiv.org/abs/2304.05364v1)
-- 2023-04-11, **Transient translation symmetry breaking via quartic-order negative light-phononcoupling at Brillouin zone boundary in KTaO${}_{3}$**, Adrián Gómez Pueyo et.al., Lab: Alaska Subedi, Paper: [http://arxiv.org/abs/2304.05363v1](http://arxiv.org/abs/2304.05363v1)
-- 2023-04-11, **A comparative study between paired and unpaired Image Quality Assessment in Low-Dose CT Denoising**, Francesco Di Feola et.al., Lab: Paolo Soda, Paper: [http://arxiv.org/abs/2304.05359v1](http://arxiv.org/abs/2304.05359v1)
-- 2023-04-11, **An exploratory study of bug-introducing changes: what happens when bugs are introduced in open source software?**, Lukas Schulte et.al., Lab: Steffen Herbold, Paper: [http://arxiv.org/abs/2304.05358v1](http://arxiv.org/abs/2304.05358v1)
-- 2023-04-11, **Distributed no-regret edge resource allocation with limited communication**, Saad Kriouile et.al., Lab: Theodoros Giannakas, Paper: [http://arxiv.org/abs/2304.05355v1](http://arxiv.org/abs/2304.05355v1)
-- 2023-04-11, **Infinitesimal symmetries of bundle gerbes and Courant algebroids**, Dinamo Djounvouna et.al., Lab: Derek Krepski, Paper: [http://arxiv.org/abs/2304.05347v1](http://arxiv.org/abs/2304.05347v1)
-- 2023-04-11, **Bayesian Optimization of Catalysts With In-context Learning**, Mayk Caldas Ramos et.al., Lab: Andrew D. White, Paper: [http://arxiv.org/abs/2304.05341v1](http://arxiv.org/abs/2304.05341v1), Code: **[https://github.com/ur-whitelab/bo-lift](https://github.com/ur-whitelab/bo-lift)**
-- 2023-04-11, **Unified Multi-Modal Image Synthesis for Missing Modality Imputation**, Yue Zhang et.al., Lab: S. Kevin Zhou, Paper: [http://arxiv.org/abs/2304.05340v1](http://arxiv.org/abs/2304.05340v1)
-- 2023-04-11, **Deep-learning assisted detection and quantification of (oo)cysts of Giardia and Cryptosporidium on smartphone microscopy images**, Suprim Nakarmi et.al., Lab: Bishesh Khanal, Paper: [http://arxiv.org/abs/2304.05339v1](http://arxiv.org/abs/2304.05339v1)
-- 2023-04-11, **On the profinite fundamental group of a connected Grothendieck topos**, Clemens Berger et.al., Lab: Victor Iwaniack, Paper: [http://arxiv.org/abs/2304.05338v1](http://arxiv.org/abs/2304.05338v1)
-- 2023-04-11, **Toxicity in ChatGPT: Analyzing Persona-assigned Language Models**, Ameet Deshpande et.al., Lab: Karthik Narasimhan, Paper: [http://arxiv.org/abs/2304.05335v1](http://arxiv.org/abs/2304.05335v1)
-- 2023-04-11, **Controlled coalescence-induced droplet jumping on flexible superhydrophobic substrates**, Gopal Chandra Pal et.al., Lab: Chander Shekhar Sharma, Paper: [http://arxiv.org/abs/2304.05330v1](http://arxiv.org/abs/2304.05330v1)
-- 2023-04-11, **Del Pezzo surfaces of degree $5$ over perfect fields**, Aurore Boitrel et.al., Lab: Aurore Boitrel, Paper: [http://arxiv.org/abs/2304.05328v1](http://arxiv.org/abs/2304.05328v1)
-- 2023-04-11, **SciKGTeX -- A LaTeX Package to Semantically Annotate Contributions in Scientific Publications**, Christof Bless et.al., Lab: Oliver Karras, Paper: [http://arxiv.org/abs/2304.05327v1](http://arxiv.org/abs/2304.05327v1)
-- 2023-04-11, **Nonclassicality of photon-added-then-subtracted and photon-subtracted-then-added states**, Arpita Chatterjee et.al., Lab: Arpita Chatterjee, Paper: [http://arxiv.org/abs/2304.05324v1](http://arxiv.org/abs/2304.05324v1)
-- 2023-04-11, **A nonparametric framework for treatment effect modifier discovery in high dimensions**, Philippe Boileau et.al., Lab: Sandrine Dudoit, Paper: [http://arxiv.org/abs/2304.05323v1](http://arxiv.org/abs/2304.05323v1)
-- 2023-04-11, **OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction**, Yunpeng Zhang et.al., Lab: Dalong Du, Paper: [http://arxiv.org/abs/2304.05316v1](http://arxiv.org/abs/2304.05316v1), Code: **[https://github.com/zhangyp15/occformer](https://github.com/zhangyp15/occformer)**
-- 2023-04-11, **Optimizing Linear Correctors: A Tight Output Min-Entropy Bound and Selection Technique**, Miloš Grujić et.al., Lab: Ingrid Verbauwhede, Paper: [http://arxiv.org/abs/2304.05306v1](http://arxiv.org/abs/2304.05306v1)
-- 2023-04-11, **Uncovering the effect of RNA polymerase steric interactions on gene expression noise: analytical distributions of nascent and mature RNA numbers**, Juraj Szavits-Nossan et.al., Lab: Ramon Grima, Paper: [http://arxiv.org/abs/2304.05304v1](http://arxiv.org/abs/2304.05304v1)
-- 2023-04-11, **RRHF: Rank Responses to Align Language Models with Human Feedback without tears**, Zheng Yuan et.al., Lab: Fei Huang, Paper: [http://arxiv.org/abs/2304.05302v1](http://arxiv.org/abs/2304.05302v1), Code: **[https://github.com/ganjinzero/rrhf](https://github.com/ganjinzero/rrhf)**
-- 2023-04-11, **Feynman symmetries of the Martin and $c_2$ invariants of regular graphs**, Erik Panzer et.al., Lab: Karen Yeats, Paper: [http://arxiv.org/abs/2304.05299v1](http://arxiv.org/abs/2304.05299v1)
-- 2023-04-11, **EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls**, Ziyun Wang et.al., Lab: Kostas Daniilidis, Paper: [http://arxiv.org/abs/2304.05296v1](http://arxiv.org/abs/2304.05296v1), Code: **[https://github.com/daniilidis-group/EvAC3D](https://github.com/daniilidis-group/EvAC3D)**
-- 2023-04-11, **Selecting Robust Features for Machine Learning Applications using Multidata Causal Discovery**, Saranya Ganesh S. et.al., Lab: Andreas Gerhardus, Paper: [http://arxiv.org/abs/2304.05294v1](http://arxiv.org/abs/2304.05294v1)
-- 2023-04-11, **Sublinear scaling in non-Markovian open quantum systems simulations**, Moritz Cygorek et.al., Lab: Erik M. Gauger, Paper: [http://arxiv.org/abs/2304.05291v1](http://arxiv.org/abs/2304.05291v1)
-- 2023-04-11, **Coverage analysis of Tethered UAV-assisted Large Scale Cellular Networks**, Safa Khemiri et.al., Lab: Mohamed-Slim Alouini, Paper: [http://arxiv.org/abs/2304.05283v1](http://arxiv.org/abs/2304.05283v1)
-- 2023-04-11, **SBI++: Flexible, Ultra-fast Likelihood-free Inference Customized for Astronomical Application**, Bingjie Wang et.al., Lab: Joshua S. Speagle, Paper: [http://arxiv.org/abs/2304.05281v1](http://arxiv.org/abs/2304.05281v1)
-- 2023-04-11, **Complementarity between quantum entanglement, geometrical and dynamical appearances in $N$ spin-$1/2$ system under all-range Ising model**, Jamal Elfakir et.al., Lab: Mohammed Daoud, Paper: [http://arxiv.org/abs/2304.05278v1](http://arxiv.org/abs/2304.05278v1)
-- 2023-04-11, **A general framework for positive solutions to systems of polynomial equations with real exponents**, Stefan Müller et.al., Lab: Georg Regensburger, Paper: [http://arxiv.org/abs/2304.05273v1](http://arxiv.org/abs/2304.05273v1)
-- 2023-04-11, **Three-body recombination in physical chemistry**, Marjan Mirahmadi et.al., Lab: Jesús Pérez-Ríos, Paper: [http://arxiv.org/abs/2304.05272v1](http://arxiv.org/abs/2304.05272v1)
-- 2023-04-11, **Embedding problem between right-angled Artin groups**, Anthony Genevois et.al., Lab: Anthony Genevois, Paper: [http://arxiv.org/abs/2304.05267v1](http://arxiv.org/abs/2304.05267v1)
-- 2023-04-11, **Prompt Learning for News Recommendation**, Zizhuo Zhang et.al., Lab: Bang Wang, Paper: [http://arxiv.org/abs/2304.05263v1](http://arxiv.org/abs/2304.05263v1), Code: **[https://github.com/resistzzz/prompt4nr](https://github.com/resistzzz/prompt4nr)**
-- 2023-04-11, **Holographic MIMO Communications with Arbitrary Surface Placements: Near-Field LoS Channel Model and Capacity Limit**, Tierui Gong et.al., Lab: Chau Yuen, Paper: [http://arxiv.org/abs/2304.05259v1](http://arxiv.org/abs/2304.05259v1)
-- 2023-04-11, **No two without three: Modelling dynamics of the trio RNA virus-defective interfering genomes-RNA satellite**, J. T. Lázaro et.al., Lab: J. Sardanyés, Paper: [http://arxiv.org/abs/2304.05258v1](http://arxiv.org/abs/2304.05258v1)
-- 2023-04-11, **A Rydberg ion flywheel for quantum work storage**, Wilson S. Martins et.al., Lab: Igor Lesanovsky, Paper: [http://arxiv.org/abs/2304.05252v1](http://arxiv.org/abs/2304.05252v1)
-- 2023-04-11, **Strichartz estimates for the Schrödinger equation on negatively curved compact manifolds**, Matthew D. Blair et.al., Lab: Christopher D. Sogge, Paper: [http://arxiv.org/abs/2304.05247v1](http://arxiv.org/abs/2304.05247v1)
-- 2023-04-11, **Semi-stability and local wall-crossing for hermitian Yang-Mills connections**, Andrew Clarke et.al., Lab: Carl Tipler, Paper: [http://arxiv.org/abs/2304.05245v1](http://arxiv.org/abs/2304.05245v1)
-- 2023-04-11, **Bayesian Analysis of Generalized Hierarchical Indian Buffet Processes for Within and Across Group Sharing of Latent Features**, Lancelot Fitzgerald James et.al., Lab: Abhinav Pandey, Paper: [http://arxiv.org/abs/2304.05244v1](http://arxiv.org/abs/2304.05244v1)
-- 2023-04-11, **r-softmax: Generalized Softmax with Controllable Sparsity Rate**, Klaudia Bałazy et.al., Lab: Jacek Tabor, Paper: [http://arxiv.org/abs/2304.05243v1](http://arxiv.org/abs/2304.05243v1)
-- 2023-04-11, **Crediting football players for creating dangerous actions in an unbiased way: the generation of threat (GoT) indices**, Ali Baouan et.al., Lab: Mathieu Rosenbaum, Paper: [http://arxiv.org/abs/2304.05242v1](http://arxiv.org/abs/2304.05242v1)
-- 2023-04-11, **Diagnosing and Augmenting Feature Representations in Correctional Inverse Reinforcement Learning**, Inês Lourenço et.al., Lab: Bo Wahlberg, Paper: [http://arxiv.org/abs/2304.05238v1](http://arxiv.org/abs/2304.05238v1)
-- 2023-04-11, **TREBUCHET: Fully Homomorphic Encryption Accelerator for Deep Computation**, David Bruce Cousins et.al., Lab: Brandon Reagen, Paper: [http://arxiv.org/abs/2304.05237v1](http://arxiv.org/abs/2304.05237v1)
-- 2023-04-11, **Mask-conditioned latent diffusion for generating gastrointestinal polyp images**, Roman Macháček et.al., Lab: Vajira Thambawita, Paper: [http://arxiv.org/abs/2304.05233v1](http://arxiv.org/abs/2304.05233v1)
-- 2023-04-11, **Design of a low-velocity impact framework for evaluating space-grade materials**, Vineet Dawara et.al., Lab: Koushik Viswanathan, Paper: [http://arxiv.org/abs/2304.05231v1](http://arxiv.org/abs/2304.05231v1)
-- 2023-04-11, **Metric properties in Berggren tree of primitive Pythagorean triples**, Lucia Janičková et.al., Lab: Evelin Csókási, Paper: [http://arxiv.org/abs/2304.05230v1](http://arxiv.org/abs/2304.05230v1)
-- 2023-04-11, **First-passage functionals for Ornstein Uhlenbeck process with stochastic resetting**, Ashutosh Dubey et.al., Lab: Arnab Pal, Paper: [http://arxiv.org/abs/2304.05226v1](http://arxiv.org/abs/2304.05226v1)
-- 2023-04-11, **Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**, Shu Chen et.al., Lab: Beiji Zou, Paper: [http://arxiv.org/abs/2304.05218v1](http://arxiv.org/abs/2304.05218v1), Code: **[https://github.com/xtu-pr-lab/sfmnerf](https://github.com/xtu-pr-lab/sfmnerf)**
-- 2023-04-11, **Towards Efficient Fine-tuning of Pre-trained Code Models: An Experimental Study and Beyond**, Ensheng Shi et.al., Lab: Hongbin Sun, Paper: [http://arxiv.org/abs/2304.05216v1](http://arxiv.org/abs/2304.05216v1), Code: **[https://github.com/deepsoftwareanalytics/telly](https://github.com/deepsoftwareanalytics/telly)**
-- 2023-04-11, **First performance measurements with the Analysis Grand Challenge**, Oksana Shadura et.al., Lab: Alexander Held, Paper: [http://arxiv.org/abs/2304.05214v1](http://arxiv.org/abs/2304.05214v1)
-- 2023-04-11, **Spatially dense stochastic epidemic models with infection-age dependent infectivity**, Guodong Pang et.al., Lab: Etienne Pardoux, Paper: [http://arxiv.org/abs/2304.05211v1](http://arxiv.org/abs/2304.05211v1)
-- 2023-04-11, **Exact and Approximated Log Alignments for Processes with Inter-case Dependencies**, Dominique Sommers et.al., Lab: Boudewijn F. van Dongen, Paper: [http://arxiv.org/abs/2304.05210v1](http://arxiv.org/abs/2304.05210v1)
-- 2023-04-11, **A tilted spacetime positive mass theorem**, Xiaoxiang Chai et.al., Lab: Xiaoxiang Chai, Paper: [http://arxiv.org/abs/2304.05208v1](http://arxiv.org/abs/2304.05208v1)
-- 2023-04-11, **LBMT team at VLSP2022-Abmusu: Hybrid method with text correlation and generative models for Vietnamese multi-document summarization**, Tan-Minh Nguyen et.al., Lab: Thi-Hai-Yen Vuong, Paper: [http://arxiv.org/abs/2304.05205v1](http://arxiv.org/abs/2304.05205v1)
-- 2023-04-11, **The Time for Reconstructing the Attack Graph in DDoS Attacks**, Dina Barak-Pelleg et.al., Lab: Daniel Berend, Paper: [http://arxiv.org/abs/2304.05204v1](http://arxiv.org/abs/2304.05204v1)
-- 2023-04-11, **Critical edges in Rips complexes and persistence**, Peter Goričan et.al., Lab: Žiga Virk, Paper: [http://arxiv.org/abs/2304.05185v1](http://arxiv.org/abs/2304.05185v1)
-- 2023-04-11, **Wearable multi-color RAPD screening device**, Arda Gulersoy et.al., Lab: Hakan Urey, Paper: [http://arxiv.org/abs/2304.05182v1](http://arxiv.org/abs/2304.05182v1)
-- 2023-04-11, **LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images**, Hui Li et.al., Lab: Josef Kittler, Paper: [http://arxiv.org/abs/2304.05172v1](http://arxiv.org/abs/2304.05172v1)
-- 2023-04-11, **Diffusive Shock Acceleration of Cosmic Rays -- Quasi-thermal and Non-thermal Particle Distributions**, Bojan Arbutina et.al., Lab: Bojan Arbutina, Paper: [http://arxiv.org/abs/2304.05168v1](http://arxiv.org/abs/2304.05168v1)
-- 2023-04-11, **Complex Dirac structures with constant real index on flag manifolds**, Cristian Ortiz et.al., Lab: Carlos Varea, Paper: [http://arxiv.org/abs/2304.05158v1](http://arxiv.org/abs/2304.05158v1)
-- 2023-04-11, **Regression-based Deep-Learning predicts molecular biomarkers from pathology slides**, Omar S. M. El Nahhas et.al., Lab: Jakob Nikolas Kather, Paper: [http://arxiv.org/abs/2304.05153v1](http://arxiv.org/abs/2304.05153v1)
-- 2023-04-11, **Physical properties of a generalized model of multilayer adsorption of dimers**, Guillermo Palacios et.al., Lab: Marcelo A F Gomes, Paper: [http://arxiv.org/abs/2304.05150v1](http://arxiv.org/abs/2304.05150v1)
-- 2023-04-11, **Phase Calibration of Distributed Antenna Arrays**, Erik G. Larsson et.al., Lab: Joao Vieira, Paper: [http://arxiv.org/abs/2304.05144v1](http://arxiv.org/abs/2304.05144v1)
-- 2023-04-11, **Measuring Teachers' Visual Expertise Using the Gaze Relational Index Based on Real-world Eye-tracking Data and Varying Velocity Thresholds**, Christian Kosel et.al., Lab: Juergen Pfeffer, Paper: [http://arxiv.org/abs/2304.05143v1](http://arxiv.org/abs/2304.05143v1)
-- 2023-04-11, **Dexterous In-Hand Manipulation of Slender Cylindrical Objects through Deep Reinforcement Learning with Tactile Sensing**, Wenbin Hu et.al., Lab: Zhibin Li, Paper: [http://arxiv.org/abs/2304.05141v1](http://arxiv.org/abs/2304.05141v1)
-- 2023-04-11, **Distributed Event-Triggered Online Learning for Multi-Agent System Control using Gaussian Process Regression**, Xiaobing Dai et.al., Lab: Sandra Hirche, Paper: [http://arxiv.org/abs/2304.05138v1](http://arxiv.org/abs/2304.05138v1)
-- 2023-04-11, **Fast IMU-based Dual Estimation of Human Motion and Kinematic Parameters via Progressive In-Network Computing**, Xiaobing Dai et.al., Lab: Sandra Hirche, Paper: [http://arxiv.org/abs/2304.05131v1](http://arxiv.org/abs/2304.05131v1)
-- 2023-04-11, **Improving Performance of Private Federated Models in Medical Image Analysis**, Xiangjian Hou et.al., Lab: Samuel Horvath, Paper: [http://arxiv.org/abs/2304.05127v1](http://arxiv.org/abs/2304.05127v1)
-- 2023-04-11, **Online Spatio-Temporal Learning with Target Projection**, Thomas Ortner et.al., Lab: Angeliki Pantazi, Paper: [http://arxiv.org/abs/2304.05124v1](http://arxiv.org/abs/2304.05124v1)
-- 2023-04-11, **Algorithms for Reconstructing DDoS Attack Graphs using Probabilistic Packet Marking**, Dina Barak-Pelleg et.al., Lab: Itamar Zimmerman, Paper: [http://arxiv.org/abs/2304.05123v1](http://arxiv.org/abs/2304.05123v1)
-- 2023-04-11, **APISENS- Sentiment Scoring Tool for APIs with Crowd-Knowledge**, Kisub Kim et.al., Lab: David Lo, Paper: [http://arxiv.org/abs/2304.05121v1](http://arxiv.org/abs/2304.05121v1)
-- 2023-04-11, **Real time enhancement of operator's ergonomics in physical human - robot collaboration scenarios using a multi-stereo camera system**, Gerasimos Arvanitis et.al., Lab: Konstantinos Moustakas, Paper: [http://arxiv.org/abs/2304.05120v1](http://arxiv.org/abs/2304.05120v1)
-- 2023-04-11, **Device Activity Detection in mMTC with Low-Resolution ADC: A New Protocol**, Zhaorui Wang et.al., Lab: Shuguang Cui, Paper: [http://arxiv.org/abs/2304.05119v1](http://arxiv.org/abs/2304.05119v1)
-- 2023-04-11, **Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**, Attila Szabo et.al., Lab: Eduard Gröller, Paper: [http://arxiv.org/abs/2304.05109v1](http://arxiv.org/abs/2304.05109v1)
-- 2023-04-11, **Feudal Graph Reinforcement Learning**, Tommaso Marzi et.al., Lab: Cesare Alippi, Paper: [http://arxiv.org/abs/2304.05099v1](http://arxiv.org/abs/2304.05099v1)
-- 2023-04-11, **Feature Guided Training and Rotational Standardisation for the Morphological Classification of Radio Galaxies**, Kevin Brand et.al., Lab: Burger Becker, Paper: [http://arxiv.org/abs/2304.05095v1](http://arxiv.org/abs/2304.05095v1)
-- 2023-04-11, **Actually Sparse Variational Gaussian Processes**, Harry Jake Cunningham et.al., Lab: Marc Peter Deisenroth, Paper: [http://arxiv.org/abs/2304.05091v1](http://arxiv.org/abs/2304.05091v1)
-- 2023-04-11, **A Self-attention Knowledge Domain Adaptation Network for Commercial Lithium-ion Batteries State-of-health Estimation under Shallow Cycles**, Xin Chen et.al., Lab: Kai Wu, Paper: [http://arxiv.org/abs/2304.05084v1](http://arxiv.org/abs/2304.05084v1)
-- 2023-04-11, **Robust beam splitter with fast quantum state transfer through a topological interface**, Jia-Ning Zhang et.al., Lab: Yong-Yuan Jiang, Paper: [http://arxiv.org/abs/2304.05081v1](http://arxiv.org/abs/2304.05081v1)
-- 2023-04-11, **Investigating Imbalances Between SAR and Optical Utilization for Multi-Modal Urban Mapping**, Sebastian Hafner et.al., Lab: Andrea Nascetti, Paper: [http://arxiv.org/abs/2304.05080v1](http://arxiv.org/abs/2304.05080v1)
-- 2023-04-11, **A Tale of Sampling and Estimation in Discounted Reinforcement Learning**, Alberto Maria Metelli et.al., Lab: Marcello Restelli, Paper: [http://arxiv.org/abs/2304.05073v1](http://arxiv.org/abs/2304.05073v1)
-- 2023-04-11, **Toward Whole-Brain Minimally-Invasive Vascular Imaging**, Anatole Jimenez et.al., Lab: Thomas Deffieux, Paper: [http://arxiv.org/abs/2304.05068v1](http://arxiv.org/abs/2304.05068v1)
-- 2023-04-11, **Audio Bank: A High-Level Acoustic Signal Representation for Audio Event Recognition**, Tushar Sandhan et.al., Lab: Jin Young Choi, Paper: [http://arxiv.org/abs/2304.05067v1](http://arxiv.org/abs/2304.05067v1)
-- 2023-04-11, **Artificial intelligence based prediction on lung cancer risk factors using deep learning**, Muhammad Sohaib et.al., Lab: Mary Adewunmi, Paper: [http://arxiv.org/abs/2304.05065v1](http://arxiv.org/abs/2304.05065v1)
-- 2023-04-11, **SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI**, Zhuo-Xu Cui et.al., Lab: Yanjie Zhu, Paper: [http://arxiv.org/abs/2304.05060v1](http://arxiv.org/abs/2304.05060v1)
-- 2023-04-11, **Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification**, Xingcheng Fu et.al., Lab: Jianxin Li, Paper: [http://arxiv.org/abs/2304.05059v1](http://arxiv.org/abs/2304.05059v1)
-- 2023-04-11, **SFT-KD-Recon: Learning a Student-friendly Teacher for Knowledge Distillation in Magnetic Resonance Image Reconstruction**, Matcha Naga Gayathri et.al., Lab: Mohanasankar Sivaprakasam, Paper: [http://arxiv.org/abs/2304.05057v1](http://arxiv.org/abs/2304.05057v1)
-- 2023-04-11, **Real-Time Character Rise Motions**, Ben Kenwright et.al., Lab: Ben Kenwright, Paper: [http://arxiv.org/abs/2304.05056v1](http://arxiv.org/abs/2304.05056v1)
-- 2023-04-11, **Dynamics of an atom cavity field system in interacting Fock space**, P. K. Das et.al., Lab: Arpita Chatterjee, Paper: [http://arxiv.org/abs/2304.05052v1](http://arxiv.org/abs/2304.05052v1)
-- 2023-04-11, **Reionizing islands with inhomogeneous recombinations**, Runyu Zhu et.al., Lab: Xuelei Chen, Paper: [http://arxiv.org/abs/2304.05050v1](http://arxiv.org/abs/2304.05050v1)
-- 2023-04-11, **Sensitivity analysis for ReaxFF reparameterization using the Hilbert-Schmidt independence criterion**, Michael Freitas Gustavo et.al., Lab: Toon Verstraelen, Paper: [http://arxiv.org/abs/2304.05046v1](http://arxiv.org/abs/2304.05046v1)
-- 2023-04-11, **ZnO-based scintillating bolometers: New prospects to study double beta decay of $^{64}$Zn**, A. Armatol et.al., Lab: A. S. Zolotarova, Paper: [http://arxiv.org/abs/2304.05043v1](http://arxiv.org/abs/2304.05043v1)
-- 2023-04-11, **A Hybrid Approach combining ANN-based and Conventional Demapping in Communication for Efficient FPGA-Implementation**, Jonas Ney et.al., Lab: Norbert Wehn, Paper: [http://arxiv.org/abs/2304.05042v1](http://arxiv.org/abs/2304.05042v1)
-- 2023-04-11, **What Food Do We Tweet about on a Rainy Day?**, Maija Kāle et.al., Lab: Matīss Rikters, Paper: [http://arxiv.org/abs/2304.05041v1](http://arxiv.org/abs/2304.05041v1)
-- 2023-04-11, **Unsupervised out-of-distribution detection for safer robotically-guided retinal microsurgery**, Alain Jungo et.al., Lab: Raphael Sznitman, Paper: [http://arxiv.org/abs/2304.05040v1](http://arxiv.org/abs/2304.05040v1)
-- 2023-04-11, **Five guidelines to improve context-aware process selection: an Australian banking perspective**, Nigel Adams et.al., Lab: Marcello La Rosa, Paper: [http://arxiv.org/abs/2304.05033v1](http://arxiv.org/abs/2304.05033v1)
-- 2023-04-11, **Soft Dynamic Time Warping for Multi-Pitch Estimation and Beyond**, Michael Krause et.al., Lab: Meinard Müller, Paper: [http://arxiv.org/abs/2304.05032v1](http://arxiv.org/abs/2304.05032v1)
-- 2023-04-11, **On the Nash Equilibria of a Simple Discounted Duel**, Athanasios Kehagias et.al., Lab: Athanasios Kehagias, Paper: [http://arxiv.org/abs/2304.05024v1](http://arxiv.org/abs/2304.05024v1)
-- 2023-04-11, **A Deep Analysis of Transfer Learning Based Breast Cancer Detection Using Histopathology Images**, Md Ishtyaq Mahmud et.al., Lab: Ahmed Abdelgawad, Paper: [http://arxiv.org/abs/2304.05022v1](http://arxiv.org/abs/2304.05022v1)
-- 2023-04-11, **H$α$ emission line sources from VLT-MUSE in a low-metallicity star forming region -- Dolidze 25**, Mizna Ashraf et.al., Lab: Min Fang, Paper: [http://arxiv.org/abs/2304.05019v1](http://arxiv.org/abs/2304.05019v1)
-- 2023-04-11, **Continual Semantic Segmentation with Automatic Memory Sample Selection**, Lanyun Zhu et.al., Lab: Jun Liu, Paper: [http://arxiv.org/abs/2304.05015v1](http://arxiv.org/abs/2304.05015v1)
-- 2023-04-11, **Towards an Understanding and Explanation for Mixed-Initiative Artificial Scientific Text Detection**, Luoxuan Weng et.al., Lab: Wei Chen, Paper: [http://arxiv.org/abs/2304.05011v1](http://arxiv.org/abs/2304.05011v1)
-- 2023-04-11, **Lattices in function fields and applications**, Christian Bagshaw et.al., Lab: Bryce Kerr, Paper: [http://arxiv.org/abs/2304.05009v1](http://arxiv.org/abs/2304.05009v1)
-- 2023-04-11, **Factorization of large tetra and penta prime numbers on IBM quantum processor**, Ritu Dhaulakhandi et.al., Lab: Felix J. Seo, Paper: [http://arxiv.org/abs/2304.04999v1](http://arxiv.org/abs/2304.04999v1)
-- 2023-04-11, **Custom Memory Design for Logic-in-Memory: Drawbacks and Improvements over Conventional Memories**, Fabrizio Ottati et.al., Lab: Guido Masera, Paper: [http://arxiv.org/abs/2304.04995v1](http://arxiv.org/abs/2304.04995v1)
-- 2023-04-11, **Sim-T: Simplify the Transformer Network by Multiplexing Technique for Speech Recognition**, Guangyong Wei et.al., Lab: Junhua Li, Paper: [http://arxiv.org/abs/2304.04991v1](http://arxiv.org/abs/2304.04991v1)
-- 2023-04-11, **Efficient Feature Description for Small Body Relative Navigation using Binary Convolutional Neural Networks**, Travis Driver et.al., Lab: Panagiotis Tsiotras, Paper: [http://arxiv.org/abs/2304.04985v1](http://arxiv.org/abs/2304.04985v1), Code: **[https://github.com/travisdriver/didymosnet](https://github.com/travisdriver/didymosnet)**
-- 2023-04-11, **Defrosting frozen stars: spectrum of internal fluid modes**, Ram Brustein et.al., Lab: Tom Shindelman, Paper: [http://arxiv.org/abs/2304.04984v1](http://arxiv.org/abs/2304.04984v1)
-- 2023-04-11, **A Data Set of Generalizable Python Code Change Patterns**, Akalanka Galappaththi et.al., Lab: Sarah Nadi, Paper: [http://arxiv.org/abs/2304.04983v1](http://arxiv.org/abs/2304.04983v1)
-- 2023-04-11, **Well-formed Properties of Heterogeneous Quorum Systems**, Xiao Li et.al., Lab: Mohsen Lesani, Paper: [http://arxiv.org/abs/2304.04979v1](http://arxiv.org/abs/2304.04979v1)
-- 2023-04-11, **Partitioner Selection with EASE to Optimize Distributed Graph Processing**, Nikolai Merkel et.al., Lab: Hans-Arno Jacobsen, Paper: [http://arxiv.org/abs/2304.04976v1](http://arxiv.org/abs/2304.04976v1)
-- 2023-04-11, **Wav2code: Restore Clean Speech Representations via Codebook Lookup for Noise-Robust ASR**, Yuchen Hu et.al., Lab: Eng Siong Chng, Paper: [http://arxiv.org/abs/2304.04974v1](http://arxiv.org/abs/2304.04974v1)
-- 2023-04-11, **Diffusion Recommender Model**, Wenjie Wang et.al., Lab: Tat-Seng Chua, Paper: [http://arxiv.org/abs/2304.04971v1](http://arxiv.org/abs/2304.04971v1), Code: **[https://github.com/yiyanxu/diffrec](https://github.com/yiyanxu/diffrec)**
-- 2023-04-11, **GRIL: A $2$-parameter Persistence Based Vectorization for Machine Learning**, Cheng Xin et.al., Lab: Tamal K. Dey, Paper: [http://arxiv.org/abs/2304.04970v1](http://arxiv.org/abs/2304.04970v1)
-- 2023-04-11, **Computer Vision-Aided Intelligent Monitoring of Coffee: Towards Sustainable Coffee Production**, Francisco Eron et.al., Lab: Antonio Chalfun Junior, Paper: [http://arxiv.org/abs/2304.04966v1](http://arxiv.org/abs/2304.04966v1)
-- 2023-04-11, **Families of elliptic boundary problems and index theory of the Atiyah-Bott classes**, Yiannis Loizides et.al., Lab: Yiannis Loizides, Paper: [http://arxiv.org/abs/2304.04957v1](http://arxiv.org/abs/2304.04957v1)
-- 2023-04-11, **On Beckner's Inequality for Axially Symmetric Functions on $\mathbb{S}^6$**, Changfeng Gui et.al., Lab: Zikai Ye, Paper: [http://arxiv.org/abs/2304.04955v1](http://arxiv.org/abs/2304.04955v1)
-- 2023-04-11, **Hilbert-Burch virtual resolutions for points in $\mathbb{P}^1\times\mathbb{P}^1$**, Caitlyn Booms-Peot et.al., Lab: Caitlyn Booms-Peot, Paper: [http://arxiv.org/abs/2304.04953v1](http://arxiv.org/abs/2304.04953v1)
-- 2023-04-11, **Data-Efficient Image Quality Assessment with Attention-Panel Decoder**, Guanyi Qin et.al., Lab: Yan Zhang, Paper: [http://arxiv.org/abs/2304.04952v1](http://arxiv.org/abs/2304.04952v1)
-- 2023-04-11, **Weierstrass Bridges**, Alexander Schied et.al., Lab: Zhenyuan Zhang, Paper: [http://arxiv.org/abs/2304.04944v1](http://arxiv.org/abs/2304.04944v1)
-- 2023-04-11, **Timing Recovery for Point-to-Multi-Point Coherent Passive Optical Networks**, Ji Zhou et.al., Lab: Changyuan Yu, Paper: [http://arxiv.org/abs/2304.04938v1](http://arxiv.org/abs/2304.04938v1)
-- 2023-04-11, **AffectMachine-Classical: A novel system for generating affective classical music**, Kat R. Agres et.al., Lab: Phoebe Chua, Paper: [http://arxiv.org/abs/2304.04915v1](http://arxiv.org/abs/2304.04915v1)
-- 2023-04-11, **Real-Time Model-Free Deep Reinforcement Learning for Force Control of a Series Elastic Actuator**, Ruturaj Sambhus et.al., Lab: Alexander Leonessa, Paper: [http://arxiv.org/abs/2304.04911v1](http://arxiv.org/abs/2304.04911v1)
-- 2023-04-11, **Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing**, Mehedi Hasan et.al., Lab: Saeid Nahavandi, Paper: [http://arxiv.org/abs/2304.04906v1](http://arxiv.org/abs/2304.04906v1), Code: **[https://github.com/mehedihasantutul/reject_option](https://github.com/mehedihasantutul/reject_option)**
-- 2023-04-11, **Weakly Supervised Intracranial Hemorrhage Segmentation using Head-Wise Gradient-Infused Self-Attention Maps from a Swin Transformer in Categorical Learning**, Amirhossein Rasoulian et.al., Lab: Yiming Xiao, Paper: [http://arxiv.org/abs/2304.04902v1](http://arxiv.org/abs/2304.04902v1)
 
-<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
 
